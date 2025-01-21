@@ -1,0 +1,14 @@
+- id: smoke-n-stix
+  title: Smoke 'n Stix
+  images:
+    - /assets/images/smoke1.jpg
+    - /assets/images/smoke2.jpg
+    - /assets/images/smoke3.jpg
+  description: "Enjoy our signature 'Smoke 'n Stix' open fire-cooked meals in a rustic outdoor setting."
+
+- id: pizza-steak-nights
+  title: Pizza & Steak Nights
+  images:
+    - /assets/images/pizza1.jpg
+    - /assets/images/pizza2.jpg
+  description: "Join us for a fun evening of pizza and steak cooked to perfection in our outdoor ovens."

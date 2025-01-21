@@ -1,0 +1,14 @@
+- title: Retreat Title 1
+  image: /assets/images/retreat1.jpg
+  description: "Relax and rejuvenate with our specially curated retreat packages."
+  link: /retreats/retreat-title-1/
+
+- title: Retreat Title 2
+  image: /assets/images/retreat2.jpg
+  description: "Discover peace and tranquility in the heart of Rutland."
+  link: /retreats/retreat-title-2/
+
+- title: Retreat Title 3
+  image: /assets/images/retreat3.jpg
+  description: "Experience our luxurious retreats tailored for relaxation."
+  link: /retreats/retreat-title-3/

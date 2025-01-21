@@ -1,0 +1,11 @@
+- name: Testimonial Name 1
+  rating: 5
+  content: "Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops, and wonderful bakeries."
+
+- name: Testimonial Name 2
+  rating: 4
+  content: "A lovely experience with great accommodations and beautiful scenery."
+
+- name: Testimonial Name 3
+  rating: 5
+  content: "An unforgettable stay! The food, the people, and the atmosphere were perfect."

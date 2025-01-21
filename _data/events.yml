@@ -1,0 +1,31 @@
+- id: parties
+  title: Parties
+  images:
+    - /assets/images/parties1.jpg
+    - /assets/images/parties2.jpg
+    - /assets/images/parties3.jpg
+  description: "'Smoke 'n Stix' is our communal dining and event space, perfect for hosting unforgettable parties. Costs are £60 for one night or £120 for a 3-night weekend hire."
+
+- id: weddings
+  title: Weddings
+  images:
+    - /assets/images/weddings1.jpg
+    - /assets/images/weddings2.jpg
+    - /assets/images/weddings3.jpg
+  description: "Create magical wedding memories in our scenic space. Costs are £60 for one night or £120 for a 3-night weekend hire."
+
+- id: retreats
+  title: Retreats
+  images:
+    - /assets/images/retreats1.jpg
+    - /assets/images/retreats2.jpg
+    - /assets/images/retreats3.jpg
+  description: "Enjoy a peaceful retreat surrounded by nature. Costs are £60 for one night or £120 for a 3-night weekend hire."
+
+- id: bbqs
+  title: BBQs
+  images:
+    - /assets/images/bbqs1.jpg
+    - /assets/images/bbqs2.jpg
+    - /assets/images/bbqs3.jpg
+  description: "Host a relaxing BBQ experience with friends and family. Costs are £60 for one night or £120 for a 3-night weekend hire."
