@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Retreat Title 1
-permalink: /retreats/retreat-title-1/
+permalink: "/retreats/retreat-title-1/"
+layout: default
 ---
 
 <section id="retreat-details">

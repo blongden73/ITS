@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Contact Us
-permalink: /contact-us/
+permalink: "/contact-us/"
+layout: default
 ---
 
 <section id="contact-us">

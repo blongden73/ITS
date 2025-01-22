@@ -1,6 +1,6 @@
 ---
-layout: feasting
 title: Feasting
-permalink: /feasting/
+permalink: "/feasting/"
+layout: feasting
 ---
 
