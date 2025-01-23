@@ -69,7 +69,8 @@ title: Home
         <h2>Plan your visit</h2>
         </div>
         <div class="right">
-        <iframe class="map" src="//maps.google.com/maps?q=52.71913418544513, -0.6104464603657659&z=15&output=embed"></iframe>
+        <!-- <iframe class="map" src="//maps.google.com/maps?q=52.71913418544513, -0.6104464603657659&z=15&output=embed"></iframe> -->
+        <iframe class="map" src="https://secure.supercontrol.co.uk/availability/availability_grid.asp?ownerID=20331&siteID=42540"></iframe>
         </div>
     </div>
 </section>

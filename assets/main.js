@@ -26,7 +26,6 @@ setInterval(nextSlide, 5000); // Change slide every 5 seconds
 const reviewsCarousel = document.querySelector('.reviews-carousel');
 if(reviewsCarousel){
 const reviewSlides = reviewsCarousel.querySelectorAll('.carousel-slide');
-}
 let reviewIndex = 0;
 
 function showReview(index) {
@@ -41,6 +40,7 @@ function showReview(index) {
 function nextReview() {
     reviewIndex = (reviewIndex + 1) % reviewSlides.length;
     showReview(reviewIndex);
+}
 }
 
 // Auto-rotate for reviews carousel

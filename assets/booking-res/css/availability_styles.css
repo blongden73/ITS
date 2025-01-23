@@ -1,0 +1,1353 @@
+/********************************* Overall styles */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+#sc_pagewidth {
+	font-size: 80%;
+	margin: 10px 0;
+	border: 1px solid #A2ADBC;
+	background-color: #FFF;
+}
+
+/******************************************** Links */
+
+a:hover {
+	text-decoration: none;
+}
+
+/******************************************** Body content */
+
+#sc_maincol {
+	
+}
+
+#sc_content {
+	padding: 5px;
+	text-align: left;
+}
+
+/******************************************** Calendar */
+
+.avail_calendar {
+	border-collapse: collapse;
+}
+
+.avail_calendar td {
+	border: 1px solid #D9D9D9;
+	font-size: 10px;
+}
+
+.avail_calendar td.avail_calendar_caption {
+	background-color: #A2ADBC;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.avail_calendar td.avail_calendar_header {
+	background-color: #D9E2E1;
+}
+
+.avail_calendar td.avail_calendar_header img {
+	display: block;
+}
+
+.avail_calendar td.avail_calendar_header a{
+	color: #000;
+}
+
+.avail_calendar td.avail_calendar_week {
+	background-color: #F4F3EE;
+}
+
+.avail_calendar td.avail_calendar_blank {
+	background-color: #F4F3EE;
+}
+
+.avail_calendar td.avail_calendar_booked {
+	background-color: #D35146;
+}
+
+.avail_calendar td.avail_calendar_provisional {
+	background-color: #66A9CC;
+}
+
+.avail_calendar td.avail_calendar_hover {
+	background-color: #66CC66;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_hover:hover, {
+	background-color: gold;
+}
+
+.avail_calendar td.avail_calendar_available {
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_past {
+	background-color: silver;
+}
+
+.week_select {
+	font-size: 10px;
+}
+
+/**************************** Square start and end date diagonals */
+
+.avail_calendar td.avail_calendar_startdate_provisional_sq {
+	background-image: url(../images/bg-startdate_provisional_sq.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #66A9CC;
+}
+
+.avail_calendar td.avail_calendar_enddate_provisional_sq {
+	background-image: url(../images/bg-enddate_provisional_sq.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_startdate_confirmed_sq {
+	background-image: url(../images/bg-startdate_confirmed_rcv_sq.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #D35146;
+}
+
+.avail_calendar td.avail_calendar_enddate_confirmed_sq {
+	background-image: url(../images/bg-enddate_confirmed_rcv_sq.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_checked {
+  background-color: gold;
+  cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_hovered {
+  background-color: gold;
+  cursor: pointer;
+}
+
+.avail_calendar td input {
+	cursor: pointer;
+}
+
+/**************************** Long start and end date diagonals (for daily calendar) */
+
+.avail_calendar td.avail_calendar_startdate_provisional {
+	background-image: url(../images/bg-startdate_provisional.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66A9CC;
+}
+
+.avail_calendar td.avail_calendar_enddate_provisional {
+	background-image: url(../images/bg-enddate_provisional.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_startdate_confirmed {
+	background-image: url(../images/bg-startdate_confirmed_rcv.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #D35146;
+}
+
+.avail_calendar td.avail_calendar_enddate_confirmed {
+	background-image: url(../images/bg-enddate_confirmed_rcv.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_booked_1 {
+	background-color: #DD7770;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_booked_2 {
+	background-color: #D35146;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_prov_1 {
+	background-color: #8CC0D7;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_prov_2 {
+	background-color: #66A9CC;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_booked_owner_1 {
+	background-image: url(../images/bg-avail_calendar_booked_owner_2.gif);
+	background-position: center;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_booked_owner_2 {
+	background-image: url(../images/bg-avail_calendar_booked_owner_1.gif);
+	background-position: center;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_prov_owner_1 {
+	background-image: url(../images/bg-avail_calendar_prov_owner_1.gif);
+	background-position: center;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_prov_owner_2 {
+	background-image: url(../images/bg-avail_calendar_prov_owner_2.gif);
+	background-position: center;
+	cursor: pointer;
+}
+
+.avail_calendar td.avail_calendar_startdate_confirmed_1 {
+	background-image: url(../images/admin-avail_calendar_startdate_confirmed_1.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #DD7770;
+}
+
+.avail_calendar td.avail_calendar_startdate_prov_1 {
+	background-image: url(../images/admin-avail_calendar_startdate_prov_1.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #DD7770;
+}
+
+.avail_calendar td.avail_calendar_enddate_confirmed_1 {
+	background-image: url(../images/admin-avail_calendar_enddate_confirmed_1.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_enddate_prov_1 {
+	background-image: url(../images/admin-avail_calendar_enddate_prov_1.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_enddate_prov_owner_1 {
+	background-image: url(../images/admin-avail_calendar_enddate_prov_owner_1.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_enddate_prov_owner_2 {
+	background-image: url(../images/admin-avail_calendar_enddate_prov_owner_2.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_startdate_confirmed_2 {
+	background-image: url(../images/admin-avail_calendar_startdate_confirmed_2.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #D35146;
+}
+
+.avail_calendar td.avail_calendar_startdate_prov_2 {
+	background-image: url(../images/admin-avail_calendar_startdate_prov_2.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #DD7770;
+}
+
+.avail_calendar td.avail_calendar_enddate_confirmed_2 {
+	background-image: url(../images/admin-avail_calendar_enddate_confirmed_2.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_enddate_prov_2 {
+	background-image: url(../images/admin-avail_calendar_enddate_prov_2.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_startdate_confirmed_owner_1 {
+	background-image: url(../images/admin-avail_calendar_startdate_confirmed_1.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #D35146;
+}
+
+.avail_calendar td.avail_calendar_enddate_confirmed_owner_1 {
+	background-image: url(../images/admin-avail_calendar_enddate_confirmed_1.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+.avail_calendar td.avail_calendar_startdate_confirmed_owner_2 {
+	background-image: url(../images/admin-avail_calendar_startdate_confirmed_owner_2.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #D35146;
+}
+
+.avail_calendar td.avail_calendar_enddate_confirmed_owner_2 {
+	background-image: url(../images/admin-avail_calendar_enddate_confirmed_owner_2.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: #66CC66;
+}
+
+#key_container {
+	padding: 0.5em 0;
+}
+/*
+.key_available {
+	height: 40px;
+	padding: 0 5px;
+	border: 1px solid #000;
+	background-color: #66CC66;
+	display: inline;
+	margin: 0 3px;
+}
+
+.key_start {
+	height: 40px;
+	padding: 0 5px;
+	border: 1px solid #000;
+	background-color: #277427;
+	display: inline;
+	margin: 0 3px;
+}
+
+.key_sb {
+	height: 40px;
+	padding: 0 5px;
+	border: 1px solid #000;
+	background-color: #66CC66;
+	display: inline;
+	margin: 0 3px;
+	background-image: url(../images/grid_as.gif); background-repeat: no-repeat; background-position: 50% 50%;
+}
+
+.key_booked {
+	height: 40px;
+	padding: 0 5px;
+	border: 1px solid #000;
+	background-color: #D35146;
+	display: inline;
+	margin: 0 3px;
+}
+
+.key_prov {
+	height: 40px;
+	padding: 0 5px;
+	border: 1px solid #000;
+	background-color: #66A9CC;
+	display: inline;
+	margin: 0 3px;
+}
+*/
+#sc_property_info {
+	text-align: center;
+}
+
+/******************************************** Availability table */
+
+.weeks_table {
+	width: 400px;
+	border: 1px solid #A2ADBC;
+}
+
+.weeks_table th {
+	background-color: #A2ADBC;
+	padding: 4px;
+}
+
+.weeks_table td {
+	background-color: #F4F3EE;
+	border: 1px solid #A2ADBC;
+}
+
+.weeks_table td.past {
+	color: gray;
+}
+
+/******************************************** Date search form */
+
+#form1 {
+	text-align: center;
+}
+
+/******************************************** Go to booking form */
+
+#bookingform {
+	text-align: center;
+}
+
+#frmBooking {
+	color: black;
+	background-color: #FFF !important;
+}
+
+/******************************************** Headers */
+
+h1 {
+	font-size: 120%;
+	padding: 4px;
+	margin: 0;
+}
+
+h2 {
+	font-size: 110%;
+	padding: 4px 0;
+	margin: 0;
+}
+
+/******************************************** Text styles */
+
+.text_red {
+	color: red;
+}
+
+.text_yellow {
+	color: yellow;
+}
+
+.huge {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 130%;
+}
+
+.massive {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 200%;
+}
+
+.strikethrough {
+	color: gray;
+	text-decoration: line-through;
+}
+
+/******************************************** Page footer */
+
+#sc_footer {
+	text-align: right;
+	padding: 0.5em;
+	border-top: 1px solid #A2ADBC;
+	font-size: 80%;
+	background-color: #A2ADBC;
+}
+
+#sc_footer a {
+	color: #000;
+}
+
+/******************************************** SSL logo */
+
+#sc_ssl_logo {
+	padding: 3px;
+	text-align: right;
+}
+
+/******************************************** Stats tracking */
+
+#sc_tracking {
+	text-align: center;
+}
+
+/******************************************** Booking summary (cart) */
+
+.booking_summary_table {
+	border-collapse: collapse;
+	width: 500px;
+}
+
+.booking_summary_table th {
+	border: 1px solid #9FB6B3;
+	background-color: #F4F3EE;
+	text-align: left;
+	padding: 4px;
+}
+
+.sc_cart_img {
+	float: right;
+	padding: 2px;
+	border: 1px solid gray;
+	background-color: #FFF;
+}
+
+.booking_summary_table th.main_header, .booking_summary_table td.main_header {
+	background-color: #BCCCCA;
+}
+
+.booking_summary_table td.sub_header, .booking_summary_table th.sub_header {
+	background-color: #D9E2E1;
+}
+
+#toggle_row {
+	text-align: right;
+}
+
+#toggle_row a {
+	color: blue;
+}
+
+#toggle_row img {
+	cursor: pointer;
+}
+
+.booking_summary_table td {
+	border: 1px solid #9FB6B3;
+	background-color: #F4F3EE;
+	padding: 4px;	
+}
+
+.booking_summary_table td td {
+	border: none;
+}
+
+/******************************************** Booking form */
+
+.dataform fieldset {
+	/*background-color: #F4F3EE;*/
+	margin: 0.5em;
+	border: 1px solid #A2ADBC;
+}
+
+.dataform legend {
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.dataform div.buttoncontainer {
+	text-align: left;
+	background-color: #F4F3EE;
+	margin: 0.5em;
+	border: 1px solid #A2ADBC;
+	padding: 0.5em;
+}
+
+.dataform table {
+	border-collapse: collapse;
+}
+
+.dataform td {
+	padding: 4px;
+	border-bottom: 1px solid #A2ADBC;
+}
+
+.datatable td td {
+	padding: 0;
+	border-bottom: none;
+}
+
+.dataform td.lastrow {
+	border-bottom: none;
+}
+
+/******************************************** Form buttons with icons */
+
+.form_button {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 5px 0 5px 24px;
+	cursor: pointer;
+	background-color: #D4D0C8;
+}
+
+.form_button_ok {
+	background-image: url(../images/button-ok.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_cancel {
+	background-image: url(../images/button-cancel.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_print {
+	background-image: url(../images/button-printer.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_secure {
+	background-image: url(../images/button-secure.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_calendar {
+	background-image: url(../images/button-calendar.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_mail {
+	background-image: url(../images/button-mail.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_next {
+	background-image: url(../images/button-next.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_car {
+	background-image: url(../images/button-car.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_house {
+	background-image: url(../images/button-house.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+}
+
+.form_button_red {
+	border: 2px solid red;
+}
+
+/* PPPN pricing on availability calendar */
+#pppn h2 {
+	background-color: #A2ADBC;
+}
+
+.tooltip {
+	cursor: help;
+}
+
+/******************************************** Error messages */
+
+.error_box {
+	border: 1px solid red;
+	background-color: #FFFFCC;
+	padding: 5px 5px 5px 30px;
+	margin: 1em;
+	background-image: url(../images/icon-warning.gif);
+	background-repeat: no-repeat;
+	background-position: 3px 3px;
+}
+
+.confirm_box {
+	border: 1px solid #000;
+	background-color: #D4D0C8;
+	padding: 6px 6px 6px 30px;
+	margin: 1em;
+	background-image: url(../images/button-ok.gif);
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+}
+
+.help_box {
+	border: 1px solid #A2ADBC;
+	background-color: #F4F3EE;
+	padding: 28px 6px 6px 6px;
+	margin: 1em;
+	background-image: url(../images/bg-help_box.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+
+/******************************************** Currency converter form */
+
+#currencyform {
+	text-align: right;
+	margin: 0;
+	padding: 0;
+	font-size: 10px;
+}
+
+#currencyform input, #currencyform select {
+	font-size: 10px;
+}
+
+/******************************************** Manager's login area navigation */
+
+#manager_nav
+{
+	margin: 0;
+	padding: 4px;
+	border: 1px solid #AAA;
+	background: #D3D3D3;
+	font-family: "MS Sans Serif", Arial, Helvetica, Tahoma, sans-serif;
+}
+
+#manager_nav ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: 100%;
+	height: 18px;
+}
+
+#manager_nav li
+{
+	display: block;
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: auto;
+}
+
+#manager_nav a
+{
+	color: #444;
+	display: block;
+	width: auto;
+	text-decoration: none;
+	background: #D3D3D3;
+	margin: 0;
+	padding: 2px 10px;
+	border-left: 1px solid #fff;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #808080;
+	border-bottom: 1px solid #808080;
+	font-size: 11px;
+}
+
+#manager_nav a:hover, #manager_nav a:active, #manager_nav a.edit_tabs_current { 
+	background: #d4d0c8; 
+	border-left: 1px solid #808080;
+	border-top: 1px solid #808080;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+
+#manager_nav a.edit_tabs_disabled, #manager_nav a:hover.edit_tabs_disabled
+{
+	color: gray;
+	display: block;
+	width: auto;
+	text-decoration: none;
+	background: #D3D3D3;
+	margin: 0;
+	padding: 2px 10px;
+	border-left: 1px solid #fff;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #808080;
+	border-bottom: 1px solid #808080;
+	font-size: 11px;
+		cursor: text;
+}
+
+/* Table for the ASP data grid */
+
+.datagrid {
+ 	border: none;
+	width: 95%;
+	border-collapse: collapse;
+}
+
+.datagrid td {
+	border: 1px solid gray;
+	padding: 3px;
+	font-size: 11px;
+}
+
+.datagrid th {
+	border: 1px solid gray;
+	background-color: #ECE9D8;
+	text-align: left;
+	padding: 3px;
+	color: #000;
+	font-size: 11px;
+}
+
+.datagrid input, .datagrid select {
+	font-size: 10px;
+	margin: 2px;
+}
+
+.datagrid ul {
+	margin: 0 20px;
+}
+
+.datagrid th.sortcol:hover {
+	background-color: #FDFCFA;
+	border-bottom: 1px solid #BD1220;
+	cursor: pointer;
+}
+
+/******************************** Car hire summary */
+
+.carhire_table {
+	border-collapse: collapse;
+}
+
+.carhire_table th {
+	border: 1px solid #A2ADBC;
+	padding: 4px;
+	background-color: #C0C7D2;
+}
+
+.carhire_table td {
+	border: 1px solid #A2ADBC;
+	padding: 4px;
+}
+
+/****************************** Search results */
+
+.results_table {
+	border-collapse: collapse;
+}
+
+.results_table td {
+	padding: 4px;
+}
+
+.results_table td img {
+	border: 0;
+}
+
+.results_table h2 {
+	font-size: 110%;
+	padding: 0;
+	margin: 0;
+}
+
+.results_table td.results_table_spacer {
+	padding: 0px;
+	font-size: 1px;
+}
+
+.results_table td.results_table_border {
+	background-image: url(../images/bg-results_table_border.gif);
+	background-repeat: repeat-x;
+	background-position: center;
+}
+
+
+/* MX Widgets calendar button */
+
+input.mxw_cld {
+	background-image: url(../images/btn-calendar.gif);
+	background-repeat: no-repeat;
+	padding: 0;
+	height: 22px;
+	width: 25px;
+	background-color: #DDDEE2;
+	border: 1px solid #DDDEE2;
+	cursor: pointer;
+}
+
+/*************************************** Stages - managers adding properties */
+
+.stages_table {
+	border-collapse: collapse;
+}
+
+.stages_table th {
+	border: 1px solid gray;
+	padding: 4px;
+	text-align: center;
+	background-color: silver;
+}
+
+.stages_table td {
+	border: 1px solid gray;
+	padding: 4px;
+	text-align: center;
+}
+
+.stages_table td.stage_current {
+	color: red;
+}
+
+.stages_table td.stage_complete {
+	color: silver;
+	text-decoration: line-through;
+}
+
+.stages_table td.stage_incomplete {
+	color: silver;
+}
+
+/*************************************** J L Morris banner on booking summary page */
+
+#insurance_bannner {
+	text-align: center;
+	padding: 10px 0;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#insurance_bannner em {
+	font-size: 12px;
+}
+
+#insurance_img {
+	width: 511px;
+	position: relative;
+	border: 2px solid red;
+}
+
+#insurance_img:hover {
+	border: 2px solid magenta;
+}
+
+#insurance_value {
+	position: absolute;
+	top: 32px;
+	left: 14px;
+	font-size: 14px;
+}
+
+/*************************************** Car hire banner on the booking cart page */
+
+#carhirebanner {
+	text-align: center;
+	font-size: 20px;
+	color: red;
+}
+
+#carhirebanner img {
+	border: none;
+}
+
+/************************************************* Owner commission statement */
+
+.statement_table {
+	border-collapse: collapse;
+	border: 1px solid silver;
+}
+
+.statement_table th {
+	padding: 5px;
+	background-color: #ECE9D8;
+	border-bottom: 1px solid silver;
+	text-align: left;
+}
+
+.statement_table td {
+	padding: 5px;
+	border-bottom: 1px solid silver;
+}
+
+
+/**** Book now button ****/
+.sc_btn_book_now {
+	padding: 10px 16px;
+	font-size: 18px;
+	line-height: 1.33333;
+	border-radius: 6px;
+	color: #FFF;
+	background-color: #5CB85C;
+	border-color: #4CAE4C;
+	display: inline-block;
+	margin-bottom: 0px;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	-moz-user-select: none;
+	background-image: none;
+	border: 1px solid transparent;	
+	text-decoration:none
+}.sc_btn_book_now:hover {
+	color:#fff;
+	background-color:#449d44;
+	border-color:#398439;
+	text-decoration:none
+}.sc_btn_book_now:active {
+	color:#fff;
+	background-color:#449d44;
+	border-color:#398439;
+	text-decoration:none
+}
+
+/**** Enquiry button ****/
+.sc_btn_enq {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #63b8ee), color-stop(1, #468ccf) );
+	background:-moz-linear-gradient( center top, #63b8ee 5%, #468ccf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#63b8ee', endColorstr='#468ccf');
+	background-color:#63b8ee;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #3866a3;
+	display:inline-block;
+	color:#14396a;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:5px 20px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #7cacde;
+}.sc_btn_enq:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #468ccf), color-stop(1, #63b8ee) );
+	background:-moz-linear-gradient( center top, #468ccf 5%, #63b8ee 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#468ccf', endColorstr='#63b8ee');
+	background-color:#468ccf;
+	cursor: pointer;	
+}.sc_btn_enq:active {
+	position:relative;
+	top:1px;
+}
+
+.sc_tr_enq_btn {
+	padding: 3px 0;
+}
+
+/* Terms iframe */
+
+#terms_scroll {
+	border: 1px solid silver;
+	padding: 0;
+}
+
+#terms_scroll_header {
+	background-color: #E4E4E4;
+	padding: 3px;
+}
+
+#terms_scroll_header a {
+	color: #000;
+}
+
+#sc_terms_iframe {
+	width: 100%;
+	height: 150px;
+	border: none;
+	border-top: 1px solid silver;
+}
+
+.sc_terms_closed {
+	display: none;
+}
+
+.sc_terms_open {
+	display: block;
+}
+
+#tr_terms label {
+	float: none;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+#sourceID_other_msg { 
+	font-weight: bold;
+	color: red;
+	background-color: #FFF;
+	padding-right: 6px;
+}
+
+/**************************************************** Info ribbon
+/*http://bmccreative.com/blog:wrap-around-ribbons-with-css
+
+/* vendor prefixes removed for clarity */
+.ribbon {
+    width: 350px;
+    margin: 10px auto;
+    padding: 0 10px 0;
+    position: relative;
+    color: #444;
+    background: #fff;
+    border: 1px solid #d2d2d2;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.ribbon h3 {
+    display: block;
+    height: 30px;
+    line-height: 1.3;
+    width: 360px;
+    margin: 0;
+    padding: 5px 10px;
+    position: relative;
+    left: -16px;
+    top: 8px;
+    color: #cfcfcf;
+    text-shadow: 0 1px 1px #111;
+    border-top: 1px solid #363636;
+    border-bottom: 1px solid #202020;
+    background: #333;
+    background: linear-gradient(top, #383838 0%, #262626 100%);
+    border-radius: 2px 2px 0 0;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+.ribbon h3::before,
+.ribbon h3::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    position: absolute;
+    bottom: -11px;
+    z-index: -10;
+    border: 5px solid;
+    border-color: #242424 transparent transparent transparent;    
+}
+.ribbon h3::before {left: 0;}
+.ribbon h3::after {right: 0;}
+
+/* Round */
+.ribbon.round h3 {
+    border-radius: 4px;
+}
+.ribbon.round h3::before,
+.ribbon.round h3::after {
+    width: 10px;
+    height: 10px;
+    bottom: -4px;
+    border: none;
+    border-radius: 10px;
+}
+.ribbon.round h3::before {
+    background: #33aaf8;
+    background: linear-gradient(left, #33aaf8 0%, #0674bb 100%);
+}
+.ribbon.round h3::after {
+    background: #33aaf8;
+    background: linear-gradient(right, #33aaf8 0%, #0674bb 100%);
+}
+
+.ui-icon-datepicker-icon {
+	background-image: url(/images/ui-calendar.png);
+	background-position: 99% 50%;
+	background-repeat: no-repeat;
+}
+
+div.form-container form p { margin: 0; }
+                div.form-container-false form p.note { margin-left: 190px; font-size: 90%; color: #333; margin-top:10px; }
+                div.form-container-false form fieldset { margin: 10px 0; padding: 10px; border: #DDD 1px solid; }
+                div.form-container-false form legend { font-weight: bold; color: #666; }
+                div.form-container-false form fieldset div { padding: 0.25em 0; }
+                div.form-container-false label { margin-right: 10px; padding-right: 10px; width: 170px; display: block; float: left; text-align: right; position: relative;}
+				div.form-container-false label.chk { margin-right: 10px; padding-right: 10px; width: 100%; display: block; float: left; text-align: left; position: relative;}
+                div.form-container-false label.error, 
+                div.form-container-false span.error { color: #C00; }
+                div.form-container-false label em { position: absolute; right: 0; font-size: 120%; font-style: normal; color: #C00; }
+                div.form-container-false input.error { border-color: #C00; background-color: #FEF; }
+                div.form-container-false input:focus,
+                div.form-container-false input.error:focus, 
+                div.form-container-false textarea:focus {        background-color: #FFC; border-color: #FC6; }
+                div.form-container-false div.controlset label, 
+                div.form-container-false div.controlset input { display: inline; float: none; }
+                div.form-container-false div.controlset label.controlset { display: block; float: left; }
+                div.form-container-false div.controlset div { margin-left: 170px; }
+                div.form-container-false div.buttonrow { margin-left: 180px; }
+
+#securitycode {
+	text-transform: uppercase;
+}
+
+#sc_trans_icons img {
+	cursor: pointer;
+}
+
+#sc_trans_icons img.flag_off {
+	opacity:0.4;
+	filter:alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.sc-mobile-header {
+	text-align: center;
+	font-size: 2em;
+	padding: 0.5em 0;
+}
+
+.form-group.required .control-label:after, .checkbox.required .control-label:after, .required-star { 
+	content:"*";	
+	color:red;
+	font-family: 'Glyphicons Halflings';
+	font-weight: normal;
+	font-size: 12px;   
+}
+
+@media only screen and (max-width: 640px) {
+	
+	.booking_summary_table {
+		width: 100%;
+	}	
+	
+}
+
+#card_form fieldset label {
+    display:block;
+    height:34px !important;
+    line-height:34px !important;
+    width:18% !important;
+    text-align:right !important;
+    margin-bottom:5px !important;
+    text-shadow:0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff;
+    white-space: nowrap;
+    float: left;
+}
+
+#card_form label[for="autoprocessbalance"], #card_form label[for="terms_check"] {
+    margin-left: 22% !important;
+    width: 70% !important;
+    text-align: left !important;
+    font-size: 14px !important;
+}
+
+#card_form label[for="customercardexpmth"] {
+    margin-bottom:44px !important;
+    float: left;
+}
+
+#card_form [data-role="fieldcontain"] {
+    display:inline;
+}
+
+#card_form [data-role="fieldcontain"] input:not([type=checkbox]),
+#card_form [data-role="fieldcontain"] select {
+  display: block;
+  width: 78% !important;
+  float:right !important;
+  height: 34px !important;
+  padding: 6px 12px !important;
+  font-size: 14px !important;
+  line-height: 1.42857143 !important;
+  margin-bottom:5px !important;
+  color: #555 !important;
+  background-color: #fff !important;
+  background-image: none !important;
+  border: 1px solid #ccc !important;
+  border-radius: 4px !important;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s !important;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s !important;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s !important;
+  box-sizing:border-box !important;
+}
+
+#card_form #customercardexpmth,
+#card_form #customercardexpyr {
+
+}
+
+#card_form .text_red {
+    font-size:150% !important;
+    color:#c00 !important;
+}
+
+#card_form legend {
+    background:#e5e5e5 !important;
+    padding:5px !important;
+    float:none !important;
+}
+
+#card_form td,
+#card_form th {
+    padding:3px !important;
+    text-shadow:0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff,0 0 2px #fff;
+}
+
+#card_form .noteBig {
+    margin-left:22% !important;
+}
+
+#card_form td[bgcolor="#CCCCCC"] {
+    background-color:transparent;
+}
+
+#card_form .form-container-false form legend {
+    color:#fff;
+}
+
+#card_form #btn_submit,
+#card_form #paypal_btn {
+    width: 100px;
+    display:block;
+    text-align: center;
+    padding: 15px 0;
+    margin:0 auto;
+    color:#fff;
+    border:1px solid #4cae4c;
+    background:#5cb85c;
+    border-radius:5px;
+    margin-top:5px;
+    font-size:120%;
+}
+
+#card_form #btn_submit:hover,
+#card_form #paypal_btn:hover {
+    background: #449d44;
+    border-color: #398439;
+}
+
+@media all and (max-width:962px) {
+    #card_form fieldset label,
+    #card_form label[for="customercardexpmth"] {
+        width:100% !important;
+        text-align: left !important;
+        margin-bottom:0 !important;
+        clear:both;
+        height:auto !important;
+        line-height: normal !important;
+        float:none;
+    }
+    #card_form label[for="autoprocessbalance"] {
+        margin-left:0 !important;
+        width: 100% !important;
+        white-space: inherit;
+    }
+    #card_form [data-role="fieldcontain"] input:not([type=checkbox]), 
+    #card_form [data-role="fieldcontain"] select {
+        width:100% !important;
+    }
+}
+
+#bookingFormUserLoginContainer {
+	float: right;
+	padding: 0px;
+}
+
+@media all and (max-width:640px) {
+	#bookingFormUserLoginContainer {
+		font-size:14px;
+		float:none;
+		text-align:right;
+		width:100%;
+		background: #fff;
+		box-shadow: 0 0 0 8px #fff;
+		margin-top: 15px;
+	}
+
+	#sc_guest_login_toggle {
+		padding:2px 4px;
+	}
+}
+
+@media screen and (max-width:580px){
+	div.dialog{
+		width: 80% !important;
+		left: 35px !important;
+	}
+
+	table.mid.table_window tbody tr td iframe{
+		width: 80% !important;
+	}
+}
