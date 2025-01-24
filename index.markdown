@@ -67,10 +67,10 @@ layout: default
     <div class="container flex">
         <div class="left">
         <h2>Plan your visit</h2>
+        <a class="btn" href="/book-now/">Book Now</a>
         </div>
         <div class="right">
-        <!-- <iframe class="map" src="//maps.google.com/maps?q=52.71913418544513, -0.6104464603657659&z=15&output=embed"></iframe> -->
-        <iframe class="map" src="https://supercontrol-proxy-ji99ptxw2-blongden73s-projects.vercel.app/api/availability"></iframe>
+            <img src="/assets/images/dome1.jpg">
         </div>
     </div>
 </section>
@@ -110,6 +110,18 @@ layout: default
         <a href="#" class="btn">View all</a>
     </div>
 </section>
+<section class="instagram ripped flipped">
+    <div class="container">
+        <h2>Follow us on insta</h2>
+    </div>
+    <behold-widget feed-id="Z6pVK2RyB7KLBk5Pu2Vb"></behold-widget>
+    <script>
+    (() => {
+        const d=document,s=d.createElement("script");s.type="module";
+        s.src="https://w.behold.so/widget.js";d.head.append(s);
+    })();
+    </script>
+</section>
 <section class="featured-in">
 <div class="container">
         <h2>Featured in</h2>
@@ -125,16 +137,4 @@ layout: default
         </div>
     </div>
     </div>
-</section>
-<section class="instagram ripped flipped">
-    <div class="container">
-        <h2>Follow us on insta</h2>
-    </div>
-    <behold-widget feed-id="Z6pVK2RyB7KLBk5Pu2Vb"></behold-widget>
-    <script>
-    (() => {
-        const d=document,s=d.createElement("script");s.type="module";
-        s.src="https://w.behold.so/widget.js";d.head.append(s);
-    })();
-    </script>
 </section>
