@@ -1,8 +1,8 @@
 ---
+title: This is a Blog Title
+date: 2024-12-23 00:00:00 Z
 layout: post
-title: "This is a Blog Title"
-date: 2024-12-23
-featured_image: /assets/images/featured-placeholder.jpg
+featured_image: "/assets/images/featured-placeholder.jpg"
 ---
 
 <section id="blog-post">

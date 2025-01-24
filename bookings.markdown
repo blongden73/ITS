@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Book Now
-permalink: /book-now/
+permalink: "/book-now/"
+layout: default
 ---
 
 <section id="book-now">

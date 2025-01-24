@@ -1,4 +1,5 @@
 ---
-layout: explore
 title: Home
+layout: explore
 ---
+

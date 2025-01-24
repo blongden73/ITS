@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Our Story
-permalink: /our-story/
+permalink: "/our-story/"
+layout: default
 ---
 
 <section id="our-story">

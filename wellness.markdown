@@ -1,4 +1,5 @@
 ---
-layout: wellness
 title: Wellness
+layout: wellness
 ---
+
