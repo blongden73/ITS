@@ -1092,6 +1092,15 @@ footer {
 
 .features-grid-cards .card {
     width: 24%;
+    margin-bottom: 20px;
+}
+
+.features-grid-cards.explore-area .card {
+    width: 32.7%;
+}
+
+.features-grid-cards.explore-area .card h3 {
+    margin-top: 10px;
 }
 
 .features-grid-cards .card img{
@@ -1252,4 +1261,185 @@ header:after {
     border: none;
     stroke: 0;
     outline: none;
+}
+
+.explore-area {
+    background-color: #EEE7E0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+@media screen and (max-width: 768px) {
+    /* General Layout Adjustments */
+    body, html {
+        overflow-x: hidden !important;
+    }
+
+    .container {
+        width: 95% !important;
+    }
+
+    .flex, .container.flex {
+        flex-direction: column !important;
+        align-items: stretch !important;
+    }
+
+    /* Navbar Adjustments */
+    .navbar .nav-links {
+        flex-direction: column !important;
+        gap: 10px !important;
+        text-align: center !important;
+    }
+
+    .navbar .container .logo {
+        position: static !important;
+        transform: none !important;
+        margin: 0 auto !important;
+    }
+
+    /* Hero Section */
+    .hero {
+        height: auto !important;
+    }
+
+    .hero-text h1 {
+        font-size: 40px !important;
+    }
+
+    /* Amenity Items */
+    .amenity {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .amenities .container {
+        padding-top: 50px !important;
+    }
+
+    .amenities .container.flex {
+        flex-direction: column !important;
+    }
+
+    /* Reviews Carousel */
+    .reviews-carousel {
+        width: 100% !important;
+        height: auto !important;
+        padding: 1rem !important;
+    }
+
+    .carousel-item p {
+        font-size: 1.2rem !important;
+        width: auto !important;
+    }
+
+    .carousel-item h4 {
+        font-size: 1.5rem !important;
+    }
+
+    .carousel-controls {
+        padding: 0 !important;
+        width: 100% !important;
+        justify-content: space-between !important;
+    }
+
+    /* Footer Adjustments */
+    .footer {
+        flex-direction: column !important;
+        align-items: center !important;
+        text-align: center !important;
+    }
+
+    .footer .newsletter input[type="email"],
+    .footer .newsletter button {
+        width: 100% !important;
+        margin: 0.5rem 0 !important;
+    }
+
+    /* Blog Cards */
+    .blog-cards {
+        grid-template-columns: 1fr !important;
+        gap: 1rem !important;
+    }
+
+    .blog-card {
+        width: 100% !important;
+    }
+
+    /* Retreat Cards */
+    .retreat-cards {
+        grid-template-columns: 1fr !important;
+    }
+
+    .retreat-card {
+        width: 100% !important;
+    }
+
+    /* Contact Info */
+    .contact-info .container {
+        flex-direction: column !important;
+        text-align: center !important;
+    }
+
+    .contact-info p {
+        font-size: 1.2rem !important;
+    }
+
+    /* Facilities Section */
+    .facilities-wrapper .left,
+    .facilities-wrapper .right {
+        width: 100% !important;
+    }
+
+    .right .owl-wrapper-outer {
+        width: 100% !important;
+    }
+
+    /* Dome Features */
+    #dome-features .container {
+        flex-direction: column !important;
+    }
+
+    .feature-grid {
+        flex-direction: column !important;
+        gap: 1rem !important;
+    }
+
+    .features-grid-cards .card {
+        width: 100% !important;
+    }
+
+    /* Map Adjustments */
+    .map-container {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .map {
+        height: 300px !important;
+    }
+
+    /* Newsletter */
+    .newsletter input {
+        width: 100% !important;
+    }
+
+    .newsletter button {
+        width: 100% !important;
+    }
+
+    /* Philosophy Content */
+    .content {
+        flex-direction: column !important;
+    }
+
+    .philosophy {
+        width: 100% !important;
+        max-width: none !important;
+    }
+
+    .image-container img {
+        width: 100% !important;
+        height: auto !important;
+    }
 }

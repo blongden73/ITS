@@ -5,8 +5,7 @@ layout: default
 ---
 
 <section id="blog">
-    <h1>{{ page.title }}</h1>
-    <p>Rutland is a beautiful and often overlooked county due to its size. It is the smallest county in England but with so much to offer its visitors.</p>
+    <h2>{{ page.title }}</h2>
 
     <div class="blog-cards">
         {% for post in site.posts %}
