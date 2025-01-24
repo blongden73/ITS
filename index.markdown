@@ -63,6 +63,7 @@ layout: default
         </div>
     </div>
 </section>
+
 <section class="plan flex two-col">
     <div class="container flex">
         <div class="left">
@@ -110,6 +111,7 @@ layout: default
         <a href="#" class="btn">View all</a>
     </div>
 </section>
+
 <section class="instagram ripped flipped">
     <div class="container">
         <h2>Follow us on insta</h2>

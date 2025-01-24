@@ -24,7 +24,7 @@ setInterval(nextSlide, 5000); // Change slide every 5 seconds
 
 // Reviews Carousel
 const ReviewCarousel = document.querySelector(".reviews-carousel");
-if(carousel) {
+if(ReviewCarousel) {
 document.addEventListener("DOMContentLoaded", function () {
     const items = ReviewCarousel.querySelectorAll(".carousel-item");
     const prevButton = ReviewCarousel.querySelector(".prev");
@@ -79,6 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // Auto-rotate for reviews carousel
 setInterval(nextReview, 7000); // Change slide every 7 seconds
 }
+
     // document.querySelector('.play-button').addEventListener('click', function () {
     //     const video = document.getElementById('hero-video');
     //     video.style.display = 'block';
