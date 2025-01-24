@@ -3,6 +3,7 @@ title: Book Now
 permalink: "/book-now/"
 layout: default
 ---
+
 <section id="book-now">
     <h1>{{ page.title }}</h1>
 

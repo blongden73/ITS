@@ -1,7 +1,7 @@
 ---
-layout: booking
 title: Book Now
-permalink: /book-test/
+permalink: "/book-test/"
+layout: booking
 ---
 
 <section id="book-now">
