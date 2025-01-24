@@ -192,6 +192,7 @@ header.hero {
     top: 50%;
     transform: translate(-50%, -50%);
     margin-top: 4px;
+    z-index: 1000;
 }
 
 .navbar ul {
@@ -420,6 +421,7 @@ header.hero {
     height: auto;
 }
 
+
 /* .carousel-controls button:hover {
     background: rgba(0, 0, 0, 0.8);
 } */
@@ -503,6 +505,13 @@ footer {
     transition: background 0.3s;
 }
 
+#book-now .about h2 {
+    margin-top: 0;
+}
+
+#contact-us .about h2 {
+    margin-top: 0;
+}
 .booking-buttons .btn:hover {
     background: #555;
 }
@@ -1176,6 +1185,21 @@ footer {
 
 .flex-www img {
     margin-right: 10px;
+}
+
+header:after {
+    content: '';
+    display: block;
+    width: 102%;
+    height: 33px;
+    background-image: url(../assets/images/its-background-cream.png);
+    position: relative;
+    background-repeat: no-repeat;
+    left: -12px;
+    bottom: -12px;
+    z-index: 0;
+    margin-top: 10px;
+    position: absolute;
 }
 
 .ripped:before {

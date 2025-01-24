@@ -4,7 +4,9 @@ permalink: "/book-now/"
 layout: default
 ---
 <section id="book-now">
-    <h1>{{ page.title }}</h1>
+    <div class="about">
+        <h2>{{ page.title }}</h2>
+    </div>
 
     <!-- <div class="booking-buttons">
         {% for button in site.data.book-now.buttons %}
