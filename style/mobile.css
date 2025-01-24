@@ -127,6 +127,10 @@
         width: 100% !important;
     }
 
+    #dome-features {
+        display: none;
+    }
+
     /* Dome Features */
     #dome-features .container {
         flex-direction: column !important;
@@ -173,5 +177,23 @@
     .image-container img {
         width: 100% !important;
         height: auto !important;
+    }
+
+    /* About Section */
+    .about-manifesto {
+        flex-direction: column !important;
+    }
+
+    .flex-cols {
+        width: 100% !important;
+        margin-bottom: 20px !important;
+    }
+
+    .about-container {
+        flex-direction: column !important;
+    }
+
+    .about-image img {
+        width: 100% !important;
     }
 }

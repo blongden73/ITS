@@ -1289,3 +1289,73 @@ header:after {
     padding-top: 100px;
     padding-bottom: 100px;
 }
+
+.social-links {
+    display: flex;
+    gap: 10px;
+}
+
+.about-width {
+    width: 100%;
+    display: none;
+    padding-top: 50px;
+}
+
+.about-width img {
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-container {
+    max-width: 1290px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-container.right {
+    justify-content: flex-end;
+}
+
+.about-manifesto {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-manifesto.right  {
+    justify-content: space-between;
+}
+
+.flex-cols {
+    width: 40%;
+    margin-bottom: 50px;
+}
+
+.flex-cols.right {
+    justify-content: flex-end;
+}
+
+.flex-cols h3 {
+    font-family: 'Koulen', sans-serif;
+    font-size: 36px;
+    margin-top: 0;
+}
+
+.about-background {
+    background-color: #EEE7E0;
+}
+
+.about-background {
+    margin-top: -300px;
+    padding-top: 320px;
+}
+
+.about-image img{
+    width: 100%;
+    height: auto;
+}
+
+.about-image {
+    margin-bottom: 100px;
+}
