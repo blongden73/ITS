@@ -29,8 +29,11 @@ a {
 }
 
 .amenities {
-    padding-top: 100px;
     padding-bottom: 20px;
+}
+
+.amenities .container {
+    padding-top: 100px;
 }
 
 .amenities .container.flex {
@@ -90,6 +93,10 @@ section h2 {
     padding-bottom: 50px;
 }
 
+.plan .container {
+    margin-top: 50px;
+}
+
 .plan.white {
     background-color: #fff;
 }
@@ -107,6 +114,9 @@ section h2 {
     text-align: center;
 }
 
+.container h2 {
+    margin-top: 0;
+}
 
 .flex {
     display: flex;
@@ -172,6 +182,7 @@ header.hero {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    margin-top: 4px;
 }
 
 .navbar ul {
@@ -244,12 +255,13 @@ header.hero {
 }
 
 .hero .carousel-slide {
-    display: none;
+    opacity: 0;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
+    transition: opacity 0.3s ease-in-out;
 }
 
 .carousel-slide {
@@ -265,8 +277,7 @@ header.hero {
 }
 
 .hero .carousel-slide.active {
-    display: block;
-    animation: fade 1s ease-in-out;
+    opacity: 1;
 }
 
 @keyframes fade {
@@ -293,7 +304,7 @@ header.hero {
     padding: 0.5rem 1rem;
     text-decoration: none;
     border: none;
-    font-size: 1rem;
+    font-size: 1.4rem;
     border-radius: 5px;
     cursor: pointer;
 }
@@ -304,9 +315,10 @@ header.hero {
     padding: 0.5rem 1rem;
     text-decoration: none;
     border: none;
-    font-size: 1rem;
+    font-size: 1.4rem;
     border-radius: 5px;
     cursor: pointer;
+    font-family: 'Koulen', sans-serif;
 }
 
 .logos {
@@ -322,22 +334,106 @@ header.hero {
 /* Reviews Carousel */
 .reviews-carousel {
     position: relative;
-    overflow: hidden;
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-
-.reviews-carousel .carousel-slide {
-    display: none;
-    padding: 1rem;
+    margin: 2rem auto;
     text-align: center;
-    font-style: italic;
-    max-width: 730px;
-    line-height: 1.2;
+    border-radius: 8px;
+    padding: 1.5rem;
+    width: 900px;
+    height: 250px;
 }
 
-.reviews-carousel .carousel-slide.active {
-    display: block;
+.carousel-inner {
+    transition: transform 0.3s ease-in-out;
+}
+
+.carousel-item {
+    flex: 0 0 100%;
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.carousel-item.active {
+    opacity: 1;
+}
+
+.carousel-item p {
+    font-size: 1.8rem;
+    line-height: 1.3;
+    margin-bottom: 1rem;
+    font-family: 'Koulen', sans-serif;
+    max-width: 600px;
+    width: 500px;
+}
+
+.carousel-item h4 {
+    font-size: 1.8rem;
+    color: #333;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.carousel-controls {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+    padding: 0 1rem;
+}
+
+.carousel-controls button {
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s;
+    background-color: transparent;
+}
+
+.carousel-controls button svg {
+    width: 100%;
+    height: auto;
+}
+
+/* .carousel-controls button:hover {
+    background: rgba(0, 0, 0, 0.8);
+} */
+
+.carousel-pager {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 0.5rem;
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.carousel-pager .dot {
+    width: 10px;
+    height: 10px;
+    background: #ddd;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.carousel-pager .dot.active {
+    background: #ff6b00;
 }
 
 footer {
@@ -698,8 +794,8 @@ footer {
 }
 
 .instagram {
-    padding-top: 50px;
     padding-bottom: 100px;
+    background-color: #F7EED1;
 }
 
 .featured-in {
@@ -871,4 +967,32 @@ footer {
 .contact-info p {
     font-family: 'Koulen', sans-serif;
     font-size: 18px
+}
+
+.ripped:before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 20px;
+    background-image: url(../assets/images/its-background.png);
+    position: relative;
+    z-index: 100;
+    margin-top: -10px;
+}
+
+.ripped.after-ripped:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 20px;
+    background-image: url(../assets/images/its-background.png);
+    position: relative;
+    z-index: 100;
+    margin-top: -10px;
+    transform: rotate(180deg);
+    margin-bottom: -38px;
+}
+
+.ripped.flipped:before {
+    transform: rotate(180deg);
 }

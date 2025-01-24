@@ -23,25 +23,57 @@ setInterval(nextSlide, 5000); // Change slide every 5 seconds
 }
 
 // Reviews Carousel
-const reviewsCarousel = document.querySelector('.reviews-carousel');
-if(reviewsCarousel){
-const reviewSlides = reviewsCarousel.querySelectorAll('.carousel-slide');
-let reviewIndex = 0;
+document.addEventListener("DOMContentLoaded", function () {
+    const carousel = document.querySelector(".reviews-carousel");
+    const items = carousel.querySelectorAll(".carousel-item");
+    const prevButton = carousel.querySelector(".prev");
+    const nextButton = carousel.querySelector(".next");
+    const pager = carousel.querySelector(".carousel-pager");
 
-function showReview(index) {
-    reviewSlides.forEach((slide, i) => {
-        slide.classList.remove('active');
-        if (i === index) {
-            slide.classList.add('active');
-        }
+    let currentIndex = 0;
+
+    // Create pager dots dynamically
+    items.forEach((_, index) => {
+        const dot = document.createElement("div");
+        dot.classList.add("dot");
+        if (index === currentIndex) dot.classList.add("active");
+        pager.appendChild(dot);
+
+        // Add click event for dots
+        dot.addEventListener("click", () => {
+            currentIndex = index;
+            updateCarousel();
+        });
     });
-}
 
-function nextReview() {
-    reviewIndex = (reviewIndex + 1) % reviewSlides.length;
-    showReview(reviewIndex);
-}
-}
+    const dots = pager.querySelectorAll(".dot");
+
+    function updateCarousel() {
+        // Update items
+        items.forEach((item, index) => {
+            item.classList.toggle("active", index === currentIndex);
+        });
+
+        // Update dots
+        dots.forEach((dot, index) => {
+            dot.classList.toggle("active", index === currentIndex);
+        });
+    }
+
+    // Event listeners for navigation buttons
+    prevButton.addEventListener("click", () => {
+        currentIndex = (currentIndex - 1 + items.length) % items.length;
+        updateCarousel();
+    });
+
+    nextButton.addEventListener("click", () => {
+        currentIndex = (currentIndex + 1) % items.length;
+        updateCarousel();
+    });
+
+    // Initialize carousel
+    updateCarousel();
+});
 
 // Auto-rotate for reviews carousel
 setInterval(nextReview, 7000); // Change slide every 7 seconds

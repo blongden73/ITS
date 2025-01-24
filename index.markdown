@@ -10,10 +10,10 @@ title: Home
             <img src="assets/images/ITS-carousel-home.jpg" alt="Hero Image 1">
         </div>
         <div class="carousel-slide">
-            <img src="assets/images/ITS-carousel-home.jpg" alt="Hero Image 2">
+            <img src="assets/images/DSC8899-Edit.jpg" alt="Hero Image 2">
         </div>
         <div class="carousel-slide">
-            <img src="assets/images/ITS-carousel-home.jpg" alt="Hero Image 3">
+            <img src="assets/images/DSC9064-Edit.jpg" alt="Hero Image 3">
         </div>
     </div>
     <div class="hero-text">
@@ -23,27 +23,27 @@ title: Home
 </header>
 
 <!-- About Section -->
-<section class="about">
+<section class="about ripped">
     <div class="container">
         <h2>Phones Off Around the Fire</h2>
         <p>Reconnect with nature, unwind, and spend quality time away from the noise. Explore our unique interiors and enjoy modern amenities surrounded by the outdoors.</p>
     </div>
-    <div class="image-par">
+    <div class="image-par ripped flipped">
         <img data-speed="0.5" class="img-parallax" src="assets/images/phones-off-fire.jpg" alt="phones off around fire">
     </div>
 </section>
 <!-- About Section -->
-<section class="about">
+<section class="about ripped">
     <div class="container">
         <h2>UNIQUE INTERIORS</h2>
         <p>Each of our domes have a well furnished lounge area, with chesterfield leather sofas and log burners. The bathroom is en-suite and fitted with a large shower, sink and a flushing WC.</p>
     </div>
-    <div class="image-par">
+    <div class="image-par ripped flipped">
         <img data-speed="0.5" class="img-parallax" src="assets/images/interiors.jpg" alt="UNIQUE INTERIORS">
     </div>
 </section>
 <!-- Amenities Section -->
-<section class="amenities">
+<section class="amenities ripped after-ripped">
     <div class="container flex">
         <div class="amenity">
             <svg width="64" height="47" viewBox="0 0 64 47" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M52.934 8.47h-48.7V2.116a2.117 2.117 0 0 0-4.234 0v42.347a2.117 2.117 0 0 0 4.235 0v-8.469h55.05v8.47a2.117 2.117 0 0 0 4.236 0V19.056A10.587 10.587 0 0 0 52.934 8.47Zm-48.7 4.234h19.057V31.76H4.235V12.704Z" fill="#000"/></svg>
@@ -70,30 +70,43 @@ title: Home
         </div>
         <div class="right">
         <!-- <iframe class="map" src="//maps.google.com/maps?q=52.71913418544513, -0.6104464603657659&z=15&output=embed"></iframe> -->
-        <iframe class="map" src="https://secure.supercontrol.co.uk/availability/availability_grid.asp?ownerID=20331&siteID=42540"></iframe>
+        <iframe class="map" src="https://supercontrol-proxy-ji99ptxw2-blongden73s-projects.vercel.app/api/availability"></iframe>
         </div>
     </div>
 </section>
 <!-- Reviews Section -->
-<section class="reviews">
+<section class="reviews ripped">
     <div class="container">
-        <div class="carousel reviews-carousel">
-            <div class="carousel-slide active">
-                <svg width="153" height="21" viewBox="0 0 153 21" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m53.449 9.279-4.22 3.64 1.286 5.444a1.537 1.537 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446L42.063.964a1.534 1.534 0 0 1 2.837 0l2.133 5.164 5.532.446a1.543 1.543 0 0 1 .878 2.706l.006-.001ZM86.449 9.279l-4.22 3.64 1.286 5.444a1.537 1.537 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446L75.063.964a1.534 1.534 0 0 1 2.837 0l2.133 5.164 5.532.446a1.543 1.543 0 0 1 .878 2.706l.006-.001ZM119.449 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.54 1.54 0 0 1-1.704-.071 1.538 1.538 0 0 1-.59-1.6l1.29-5.444-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446 2.134-5.164a1.533 1.533 0 0 1 2.838 0l2.132 5.164 5.532.446a1.545 1.545 0 0 1 1.356 1.953 1.545 1.545 0 0 1-.478.753l.006-.001ZM152.449 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.54 1.54 0 0 1-1.704-.071 1.538 1.538 0 0 1-.59-1.6l1.29-5.444-4.219-3.64a1.548 1.548 0 0 1-.459-1.642 1.541 1.541 0 0 1 1.333-1.063l5.531-.446 2.134-5.164a1.533 1.533 0 0 1 2.838 0l2.132 5.164 5.532.446a1.545 1.545 0 0 1 1.356 1.953 1.545 1.545 0 0 1-.478.753l.006-.001ZM20.459 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.296 1.67l-4.735-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445L.534 9.28a1.543 1.543 0 0 1 .874-2.705l5.531-.446L9.073.964a1.534 1.534 0 0 1 2.838 0l2.133 5.164 5.53.446a1.543 1.543 0 0 1 .88 2.706l.005-.001Z" fill="#DA5626"/></svg>
-                <blockquote>"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."</blockquote>
-            </div>
-            <div class="carousel-slide">
-                <svg width="153" height="21" viewBox="0 0 153 21" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m53.449 9.279-4.22 3.64 1.286 5.444a1.537 1.537 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446L42.063.964a1.534 1.534 0 0 1 2.837 0l2.133 5.164 5.532.446a1.543 1.543 0 0 1 .878 2.706l.006-.001ZM86.449 9.279l-4.22 3.64 1.286 5.444a1.537 1.537 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446L75.063.964a1.534 1.534 0 0 1 2.837 0l2.133 5.164 5.532.446a1.543 1.543 0 0 1 .878 2.706l.006-.001ZM119.449 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.54 1.54 0 0 1-1.704-.071 1.538 1.538 0 0 1-.59-1.6l1.29-5.444-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446 2.134-5.164a1.533 1.533 0 0 1 2.838 0l2.132 5.164 5.532.446a1.545 1.545 0 0 1 1.356 1.953 1.545 1.545 0 0 1-.478.753l.006-.001ZM152.449 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.54 1.54 0 0 1-1.704-.071 1.538 1.538 0 0 1-.59-1.6l1.29-5.444-4.219-3.64a1.548 1.548 0 0 1-.459-1.642 1.541 1.541 0 0 1 1.333-1.063l5.531-.446 2.134-5.164a1.533 1.533 0 0 1 2.838 0l2.132 5.164 5.532.446a1.545 1.545 0 0 1 1.356 1.953 1.545 1.545 0 0 1-.478.753l.006-.001ZM20.459 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.296 1.67l-4.735-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445L.534 9.28a1.543 1.543 0 0 1 .874-2.705l5.531-.446L9.073.964a1.534 1.534 0 0 1 2.838 0l2.133 5.164 5.53.446a1.543 1.543 0 0 1 .88 2.706l.005-.001Z" fill="#DA5626"/></svg>
-                <blockquote>"A wonderful escape from the city! Highly recommend."</blockquote>
-            </div>
-            <div class="carousel-slide">
-                <svg width="153" height="21" viewBox="0 0 153 21" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m53.449 9.279-4.22 3.64 1.286 5.444a1.537 1.537 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446L42.063.964a1.534 1.534 0 0 1 2.837 0l2.133 5.164 5.532.446a1.543 1.543 0 0 1 .878 2.706l.006-.001ZM86.449 9.279l-4.22 3.64 1.286 5.444a1.537 1.537 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446L75.063.964a1.534 1.534 0 0 1 2.837 0l2.133 5.164 5.532.446a1.543 1.543 0 0 1 .878 2.706l.006-.001ZM119.449 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.54 1.54 0 0 1-1.704-.071 1.538 1.538 0 0 1-.59-1.6l1.29-5.444-4.219-3.64a1.543 1.543 0 0 1 .874-2.705l5.531-.446 2.134-5.164a1.533 1.533 0 0 1 2.838 0l2.132 5.164 5.532.446a1.545 1.545 0 0 1 1.356 1.953 1.545 1.545 0 0 1-.478.753l.006-.001ZM152.449 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.297 1.67l-4.734-2.913-4.737 2.914a1.54 1.54 0 0 1-1.704-.071 1.538 1.538 0 0 1-.59-1.6l1.29-5.444-4.219-3.64a1.548 1.548 0 0 1-.459-1.642 1.541 1.541 0 0 1 1.333-1.063l5.531-.446 2.134-5.164a1.533 1.533 0 0 1 2.838 0l2.132 5.164 5.532.446a1.545 1.545 0 0 1 1.356 1.953 1.545 1.545 0 0 1-.478.753l.006-.001ZM20.459 9.279l-4.219 3.64 1.285 5.444a1.538 1.538 0 0 1-2.296 1.67l-4.735-2.913-4.737 2.914a1.538 1.538 0 0 1-2.294-1.67l1.29-5.445L.534 9.28a1.543 1.543 0 0 1 .874-2.705l5.531-.446L9.073.964a1.534 1.534 0 0 1 2.838 0l2.133 5.164 5.53.446a1.543 1.543 0 0 1 .88 2.706l.005-.001Z" fill="#DA5626"/></svg>
-                <blockquote>"The perfect place to relax and reconnect with loved ones."</blockquote>
-            </div>
-            <div class="dots">
-                <svg width="44" height="11" viewBox="0 0 44 11" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="5.5" cy="5.5" r="5.5" fill="#2B240A"/><circle cx="22" cy="5.5" r="5.5" fill="#BEBEBE"/><circle cx="38.5" cy="5.5" r="5.5" fill="#BEBEBE"/></svg>
-            </div>
+        <div class="reviews-carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            {% include stars.html %}
+            <p>"This place was amazing! The staff were friendly, and the experience was unforgettable."</p>
+            <h4>- John Doe</h4>
         </div>
+        <div class="carousel-item">
+            {% include stars.html %}
+            <p>"Beautiful location with top-notch accommodations. Highly recommend it!"</p>
+            <h4>- Jane Smith</h4>
+        </div>
+        <div class="carousel-item">
+            {% include stars.html %} 
+            <p>"An absolute gem in the countryside! Will definitely visit again."</p>
+            <h4>- Mark Wilson</h4>
+        </div>
+    </div>
+    <div class="carousel-controls">
+        <button class="prev">
+        <svg width="21" height="12" viewBox="0 0 21 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 7.113h20.785V3.881H0v3.232Z" fill="#2B240A"/><path d="m11.468 8.534-7.96-4.596-1.62 2.806 7.96 4.595 1.62-2.805Z" fill="#2B240A"/><path d="m11.468 2.805-7.96 4.596-1.62-2.805L9.848 0l1.62 2.805Z" fill="#2B240A"/></svg>
+        </button>
+        <button class="next">
+            <svg width="21" height="12" viewBox="0 0 21 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20.785 4.226H0V7.46h20.785V4.226Z" fill="#2B240A"/><path d="m9.316 2.805 7.96 4.596 1.62-2.805L10.936 0l-1.62 2.805Z" fill="#2B240A"/><path d="m9.316 8.534 7.96-4.596 1.62 2.805-7.96 4.596-1.62-2.805Z" fill="#2B240A"/></svg></button>
+        </div>
+    <div class="carousel-pager">
+        <!-- Dots will be generated dynamically by JS -->
+    </div>
+</div>
+
         <a href="#" class="btn">View all</a>
     </div>
 </section>
@@ -113,7 +126,7 @@ title: Home
     </div>
     </div>
 </section>
-<section class="instagram">
+<section class="instagram ripped flipped">
     <div class="container">
         <h2>Follow us on insta</h2>
     </div>
