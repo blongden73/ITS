@@ -18,7 +18,7 @@ layout: default
     </div>
     <div class="hero-text">
         <h1>WHERE THE SIGNAL MAY BE WEAK BUT THE <span class="homemade-apple">connections are strong</span></h1>
-        <a href="#" class="btn">Explore Our Cabins</a>
+        <a href="#" class="btn">Explore The Grounds</a>
     </div>
 </header>
 
