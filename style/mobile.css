@@ -28,6 +28,7 @@
         position: static !important;
         transform: none !important;
         margin: 0 auto !important;
+        width: 180px !important;
     }
 
     /* Hero Section */

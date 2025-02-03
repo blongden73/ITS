@@ -60,8 +60,8 @@ a {
 }
 
 .amenity svg {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
 }
 
 
@@ -172,7 +172,7 @@ header a {
     font-family: 'Koulen', sans-serif;
     color: #000;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 1.2vw;
 }
 
 header.hero {
@@ -198,17 +198,37 @@ header.hero {
     transform: translate(-50%, -50%);
     margin-top: 4px;
     z-index: 1000;
+    width: 15vw;
 }
 
 .navbar ul {
     list-style: none;
-    gap: 20px;
+    gap: 0.7vw;
     padding: 0;
 }
 
 .navbar ul li a:hover {
     color: #DA5626;
     border-bottom: 1px solid #DA5626;
+}
+
+.navbar ul li:last-child {
+    background-color: #fff;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: -10px;
+}
+
+.navbar ul li:last-child:hover {
+    background-color: #DA5626;
+    color: #fff;
+}
+
+.navbar ul li:last-child:hover a{
+    color: #fff;
 }
 
 .navbar .logo {
@@ -219,7 +239,7 @@ header.hero {
 }
 
 .navbar .logo svg {
-    width: 230px;
+    width: 100%;
 }
 
 .navbar .nav-links {
@@ -355,7 +375,7 @@ header.hero {
 }
 
 /* Reviews Carousel */
-.reviews-carousel {
+.reviews-carousel, .awards-carousel {
     position: relative;
     margin: 2rem auto;
     text-align: center;
@@ -378,6 +398,10 @@ header.hero {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.carousel-item img {
+    max-width: 664px;
 }
 
 .carousel-item.active {
@@ -414,16 +438,24 @@ header.hero {
 .carousel-controls button {
     color: #fff;
     border: none;
-    border-radius: 50%;
     font-size: 1.5rem;
     cursor: pointer;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
     transition: background 0.3s;
     background-color: transparent;
+    border: 5px solid #2A230A;
+}
+
+.carousel-controls button:hover {
+    background-color: #2A230A;
+}
+
+.carousel-controls button:hover svg path{
+    fill: #fff;
 }
 
 .carousel-controls button svg {
@@ -588,6 +620,14 @@ footer {
     position: relative;
 }
 
+.heading-short:after {
+    height: 20px;
+}
+
+[class="st6"] {
+    fill: #fdfbf8 !important;
+} 
+
 .map-elements {
     width: 100px;
     height: 100px;
@@ -611,9 +651,24 @@ footer {
     left: 52vw;
 }
 
+.element-three-one {
+    top: 145px;
+    left: 50vw;
+}
+
 .element-four {
     top: 230px;
     left: 63vw;
+}
+
+.element-four-one {
+    top: 230px;
+    left: 69vw;
+}
+
+.element-four-two {
+    top: 230px;
+    left: 90vw;
 }
 
 .element-five {
@@ -644,6 +699,11 @@ footer {
 .element-ten {
     top: 560px;
     left: 33vw;
+}
+
+.element-ten-one {
+    top: 560px;
+    left: 10vw; 
 }
 
 .element-eleven {
@@ -1088,7 +1148,7 @@ footer {
     display: flex;
     gap: 20px;
     color: #fff;
-    font-size: 24px;
+    font-size: 1.2vw;
 }
 
 #reviews .card {
@@ -1154,6 +1214,20 @@ footer {
     width: 100%;
     height: auto;
 }
+
+.owl-prev, .owl-next {
+    border: 4px solid #2A230A;
+    padding-top: 14px;
+    padding-bottom: 7px;
+    padding-left: 6px;
+    padding-right: 6px;
+    cursor: pointer;
+}
+
+.owl-prev:hover, .owl-next:hover {
+    background-color: #6e6b60;
+}
+
   
 .owl-prev:after {
     content: url("data:image/svg+xml,%3Csvg width='43' height='23' viewBox='0 0 43 23' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0.607689 14.5576L42.1772 14.5576L42.1772 8.09208L0.607689 8.09207L0.607689 14.5576Z' fill='%232B240A'/%3E%3Cpath d='M23.5443 17.3998L7.62354 8.20801L4.38451 13.8182L20.3052 23.01L23.5443 17.3998Z' fill='%232B240A'/%3E%3Cpath d='M23.5443 5.94098L7.62354 15.1328L4.38451 9.52266L20.3052 0.330821L23.5443 5.94098Z' fill='%232B240A'/%3E%3C/svg%3E%0A");
@@ -1218,7 +1292,7 @@ footer {
     margin-right: 10px;
 }
 
-header:after {
+header:not(.hero):after {
     content: '';
     display: block;
     width: 102%;
