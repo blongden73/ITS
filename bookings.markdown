@@ -9,16 +9,5 @@ layout: default
         <h2>{{ page.title }}</h2>
     </div>
 
-    <!-- <div class="booking-buttons">
-        {% for button in site.data.book-now.buttons %}
-        <a href="{{ button.link }}" class="btn">{{ button.label }}</a>
-        {% endfor %}
-    </div> -->
-
-    <!-- <div class="booking-platform">
-        <p>Booking platform integration goes here.</p>
-    </div> -->
-    <div class="booking-platform-hide">
-        <iframe id="myIframe" src="https://secure.supercontrol.co.uk/availability/availability_grid.asp?ownerID=20331&siteID=42540" height="1300px"></iframe>
-    </div>
+   <div data-calendar-key="E55755E8B4F2753BF0525E801AA3DDE4932565249BE8DE0E1A4179AD7D69345D170EEF11BFBC38B3A7A51585C16A08CFEC6525BEA3AB1235" data-calendar-departure-picker="true" data-calendar-mobile-grid="true"> Your widget will appear here. </div> <script src="https://secure.supercontrol.co.uk/components/embed.js"></script>
 </section>

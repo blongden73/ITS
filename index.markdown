@@ -63,7 +63,7 @@ layout: default
         </div>
         <div class="amenity">
             <svg width="76" height="68" viewBox="0 0 76 68" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M42.65 58V1.41h-8.84v55.31M9.59 1.41h24.22v11.13H9.59L2.86 6.98l6.73-5.57ZM9.59 23.64h24.22v11.15H9.59l-6.73-5.58 6.73-5.57ZM66.87 23.64H42.65v-11.1h24.22l6.73 5.55-6.73 5.55Z" stroke="#2B2B2B" stroke-width="2.83" stroke-miterlimit="10"/><path d="M26.09 67.97c0-1.85.2-7.52-4.95-13.34 0 0 7.17 1.79 9.85 6.38l6.98-10.64.25 12.09s5.31-6.72 12.7-9.63c0 0-5.41 8.87-5.41 15.14" stroke="#2B2B2B" stroke-width="2.8" stroke-miterlimit="10"/></svg>
-            <p>Close to Local Attractions</p>
+            <p>Close to Local <br> Attractions</p>
         </div>
     </div>
 </section>
@@ -75,7 +75,7 @@ layout: default
         <a class="btn" href="/book-now/">Book Now</a>
         </div>
         <div class="right">
-            <img src="/assets/images/dome1.jpg">
+            <div data-calendar-key="E55755E8B4F2753BF0525E801AA3DDE4932565249BE8DE0E1A4179AD7D69345D170EEF11BFBC38B3A7A51585C16A08CFEC6525BEA3AB1235" data-calendar-departure-picker="true" data-calendar-mobile-grid="true"> Your widget will appear here. </div> <script src="https://secure.supercontrol.co.uk/components/embed.js"></script>
         </div>
     </div>
 </section>
@@ -112,13 +112,13 @@ layout: default
     </div>
 </div>
 
-        <a href="#" class="btn">View all</a>
+        <a href="/reviews" class="btn">View all</a>
     </div>
 </section>
 
 <section class="instagram ripped flipped">
     <div class="container">
-        <h2>Follow us on insta</h2>
+        <h2>Follow us on insta <span class="smaller"><a href="http://instagram.com/inthestixrutland">@inthestixrutland</a></span></h2>
     </div>
     <behold-widget feed-id="6V2litvVKsQQOfE1NnFa"></behold-widget>
 <script>
@@ -128,20 +128,30 @@ layout: default
   })();
 </script>
 </section>
-<section class="featured-in">
+<section class="featured-in ripped">
 <div class="container">
         <h2>Featured in</h2>
         <div class="logos flex">
         <div class="logo">
             <img src="assets/images/image 3.png" alt="Hero Image 3">
         </div>
+         <div class="logo">
+            <img src="assets/images/image 5.png" alt="Hero Image 3">
+        </div>
         <div class="logo">
             <img src="assets/images/image 4.png" alt="Hero Image 3">
         </div>
-        <div class="logo">
-            <img src="assets/images/image 5.png" alt="Hero Image 3">
-        </div>
     </div>
+    </div>
+</section>
+<!-- About Section -->
+<section class="about ripped">
+    <div class="container">
+        <h2>New Section</h2>
+        <p>Reconnect with nature, unwind, and spend quality time away from the noise. Explore our unique interiors and enjoy modern amenities surrounded by the outdoors.</p>
+    </div>
+    <div class="image-par ripped flipped">
+        <img data-speed="0.5" class="img-parallax" src="assets/images/phones-off-fire.jpg" alt="phones off around fire">
     </div>
 </section>
 <!-- Reviews Section -->
