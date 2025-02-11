@@ -116,7 +116,7 @@ layout: default
     </div>
 </section>
 
-<section class="instagram ripped flipped">
+<section class="instagram ripped flipped after-ripped-cream">
     <div class="container">
         <h2>Follow us on insta <span class="smaller"><a href="http://instagram.com/inthestixrutland">@inthestixrutland</a></span></h2>
     </div>
@@ -128,7 +128,7 @@ layout: default
   })();
 </script>
 </section>
-<section class="featured-in ripped">
+<section class="featured-in">
 <div class="container">
         <h2>Featured in</h2>
         <div class="logos flex">

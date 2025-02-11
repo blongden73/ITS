@@ -21,7 +21,7 @@ layout: default
                 {% endfor %}
             </p>
             <p class="smaller-text">For precise location</p>
-            <p class="flex-www"><img src="/assets/images/what3wrods.png"><a href="https://inthestix.co.uk/contact/#:~:text=cool.actors.showrooms">{{ site.data.contact.what3words }}</a></p>
+            <p class="flex-www"><img src="/assets/images/what3wrods.png"><a href="https://w3w.co/cool.actors.showrooms">{{ site.data.contact.what3words }}</a></p>
         </div>
         </div>
         <div class="container">

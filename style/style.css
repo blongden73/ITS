@@ -26,6 +26,10 @@ h2 span.smaller:hover {
     color: #DA5626;
 }
 
+h2 span.smaller a:hover{
+    color: #DA5626;
+}
+
 h4 {
     font-size: 46px;
     font-family: 'Koulen', sans-serif;
@@ -149,7 +153,7 @@ section h2 {
 }
 
 .plan.white {
-    background-color: #fff;
+    background-color: #fffbf8;
 }
 
 .plan iframe {
@@ -246,7 +250,7 @@ header.hero {
 
 .navbar ul li a:hover {
     color: #DA5626;
-    border-bottom: 1px solid #DA5626;
+    text-decoration: underline;
 }
 
 .navbar ul li:last-child {
@@ -266,6 +270,7 @@ header.hero {
 
 .navbar ul li:last-child:hover a{
     color: #fff;
+    text-decoration: none;
 }
 
 .navbar .logo {
@@ -428,6 +433,10 @@ header.hero {
     justify-content: center;
     gap: 50px;
     align-items: center;
+}
+
+.logos img {
+    mix-blend-mode: multiply;
 }
 
 /* Reviews Carousel */
@@ -691,6 +700,11 @@ footer .menu ul a:hover {
     position: relative;
 }
 
+.grounds-map svg {
+    width: 100%;
+    height: auto;
+}
+
 .heading-short:after {
     height: 20px;
 }
@@ -700,8 +714,8 @@ footer .menu ul a:hover {
 } 
 
 .map-elements {
-    width: 170px;
-    height: 100px;
+    width: 9vw;
+    height: 7vw;
     position: absolute;
     cursor: pointer;
     z-index: 1000;
@@ -709,32 +723,32 @@ footer .menu ul a:hover {
 }
 
 .element-one {
-    top: 230px;
+    top: 12vw;
     left: 26vw;
 }
 
 .element-two {
-    top: 230px;
+    top: 12vw;
     left: 39vw;
 }
 
 .element-three {
-    top: 230px;
+    top: 5vw;
     left: 49vw;
 }
 
 .element-three-one {
-    top: 145px;
+    top: 13vw;
     left: 50vw;
 }
 
 .element-four {
-    top: 230px;
+    top: 11vw;
     left: 60vw;
 }
 
 .element-four-one {
-    top: 230px;
+    top: 12vw;
     left: 69vw;
 }
 
@@ -749,38 +763,43 @@ footer .menu ul a:hover {
 }
 
 .element-six {
-    top: 400px;
+    top: 21vw;
     left: 20vw;
 }
 
 .element-seven {
-    top: 400px;
+    top: 21vw;
     left: 32vw;
 }
 
 .element-eight {
-    top: 420px;
+    top: 22vw;
     left: 43vw;
 }
 
 .element-nine {
-    top: 418px;
+    top: 22vw;
     left: 56vw;
 }
 
 .element-ten {
-    top: 538px;
+    top: 30vw;
     left: 29vw;
 }
 
 .element-ten-one {
-    top: 560px;
+    top: 30vw;
     left: 10vw; 
 }
 
 .element-eleven {
-    top: 590px;
+    top: 31vw;
     left: 46vw;
+}
+
+.element-eleven-one {
+    top: 32vw;
+    left: 84vw;
 }
 
 .map-elements:hover .tooltip {
@@ -821,6 +840,10 @@ footer .menu ul a:hover {
     box-shadow: 0px 2px 12px 0px rgba(0,0,0,0.29);
     border-radius: 8px;
     z-index: 20000;
+}
+
+.domes .dome:nth-child(odd) {
+    background-color: #EBDEC7;
 }
 
 .dot {
@@ -1098,12 +1121,20 @@ footer .menu ul a:hover {
 }
 
 .instagram {
-    padding-bottom: 100px;
+    padding-bottom: 20px;
     background-color: #EBDEC7;
 }
 
+.instagram behold-widget {
+    margin-bottom: 80px;
+}
+
+.instagram h2:after {
+    transform: translateY(0px);
+}
+
 .featured-in {
-background-color: #FEFBF8;
+background-color: #DA5626;
 padding-bottom: 50px;
 padding-bottom: 50px;
 }
@@ -1187,6 +1218,14 @@ footer {
     font-family: 'Merriweather', serif;
     font-size: 0.9vw !important;
     width: 26% !important;
+}
+
+.dome.ripped::before {
+    transform: translateY(-10px);
+}
+
+.dome.ripped:before {
+    margin-top: 0;
 }
 
 .dome .container {
@@ -1390,6 +1429,7 @@ footer {
     bottom: 17px;
 }
 
+
 .right .owl-wrapper-outer {
     width: 84% !important;
 }
@@ -1466,6 +1506,19 @@ header:not(.hero):after {
     width: 100%;
     height: 20px;
     background-image: url(../assets/images/its-background.png);
+    position: relative;
+    z-index: 100;
+    margin-top: -10px;
+    transform: rotate(180deg);
+    margin-bottom: -26px;
+}
+
+.ripped.after-ripped-cream:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 20px;
+    background-image: url(../assets/images/itss-background-dark-cream.png);
     position: relative;
     z-index: 100;
     margin-top: -10px;

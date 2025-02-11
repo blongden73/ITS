@@ -149,7 +149,7 @@ $(document).ready(function () {
             if (winBottom > imgY && winY < imgY + parentH) {
                 var imgBottom = ((winBottom - imgY) * speed);
                 var imgTop = winH + parentH;
-                var imgPercent = ((imgBottom / imgTop) * 100) + (50 - (speed * 50));
+                var imgPercent = ((imgBottom / imgTop) * 100) + (50 - (speed * 200));
             }
 
             img.css({
