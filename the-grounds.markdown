@@ -1,5 +1,5 @@
 ---
-title: Home
+title: The Grounds
 permalink: "/the-grounds/"
 Home Carousel Images:
 - assets/images/ITS-carousel-home.jpg
