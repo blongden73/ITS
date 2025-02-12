@@ -144,7 +144,16 @@
 
     /* Hero section adjustments */
     .hero-image {
-        height: auto !important;
+        height: 100vh !important;
+    }
+
+    .centred-content h4:after {
+        transform: translateY(0px);
+    }
+
+    .centred-content p {
+        margin-top: 70px;
+        width: 310px;
     }
 
     .centred-content h4 {
