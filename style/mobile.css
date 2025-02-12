@@ -237,7 +237,7 @@
         display: none !important;
         background-color: #EEE7E0 !important;]
         width: 100% !important;
-        height: 100vh !important;
+        height: 87vh !important;
         padding-left: 0 !important;
         text-align: center;
     }
@@ -311,6 +311,33 @@
 
     #feastings .intro {
         padding-bottom: 50px !important;
+    }
+
+    .flex-cols {
+        width: 92%;
+    }
+
+    .about-illo {
+        margin-bottom: 50px;
+        margin-top: 20px;
+    }
+
+    .contact-info p {
+        font-size: 18px !important;
+        line-height: 1.2 !important;
+        text-align: left !important;
+    }
+
+    .contact-info .container {
+        gap: 24px !important;
+    }
+
+    .contact-info {
+        padding-top: 50px !important;
+    }
+
+    .map-container {
+        display: none !important;
     }
 }
 
