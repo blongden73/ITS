@@ -18,7 +18,7 @@ layout: default
     </div>
     <div class="hero-text">
         <h1>WHERE THE SIGNAL MAY BE WEAK BUT THE <span class="homemade-apple">connections are strong</span></h1>
-        <a href="#" class="btn">Explore The Grounds</a>
+        <a href="/book-now/" class="btn">Explore The Grounds</a>
     </div>
 </header>
 
@@ -47,7 +47,7 @@ layout: default
     <div class="container flex">
         <div class="amenity">
             <svg width="62" height="68" viewBox="0 0 62 68" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.21 67.66V1.41h34.58v8.73" stroke="#2B2B2B" stroke-width="2.83" stroke-miterlimit="10"/><path d="M60.44 15.77c0-3.71-3.01-6.72-6.72-6.72H31.94c-3.71 0-6.71 3.01-6.71 6.72h35.21ZM27.4 21.41v13.2M15.42 42.81 1 57.22M1 42.8l14.42 14.42M37.27 21.41v13.2M47.14 21.41v13.2M57 21.41v13.2M27.4 54.19V67.4M37.27 54.19V67.4M47.14 54.19V67.4M57 54.19V67.4M32.34 37.8V51M42.2 37.8V51M52.07 37.8V51" stroke="#2B2B2B" stroke-width="2.83" stroke-miterlimit="10"/></svg>
-            <p>EN-SUIT SHOWER <br>ROOMS</p>
+            <p>EN-SUITE SHOWER <br>ROOMS</p>
         </div>
         <div class="amenity">
             <svg width="53" height="68" viewBox="0 0 53 68" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M46.49 66.57H6.45l-2.49-32.6h45.07l-2.54 32.6ZM26.49 33.97v32.6M37.97 33.97l-1.44 32.6M16.54 66.57l-1.44-32.6M4.52 43.66h43.94" stroke="#2B2B2B" stroke-width="2.83" stroke-miterlimit="10"/><path d="M33.13 33.97s-3-1.96-3-6.21 1.5-6.39 1.5-10.64c0-4.93-4.32-4.93-4.78-4.93h-.36c-.47 0-4.78 0-4.78 4.93 0 4.25 1.5 6.39 1.5 10.64 0 4.25-3 6.21-3 6.21M2.38 2.27s1.54 8.65 9.12 7.99c5.26-.45 6.11-5.96 11.62-6.51C28.63 3.2 45.72 6.8 47 7.04c1.28.24 4.44.69 4.42-1.87-.02-2.85-4.47-2.91-6.13-2.91H2.39l-.01.01ZM11.2 14.71s-3.62 4.76-2.93 7.63c.25 1.06 1.1 2.34 2.93 2.34s2.69-1.3 2.94-2.38c.65-2.88-2.94-7.59-2.94-7.59Z" stroke="#2B2B2B" stroke-width="2.83" stroke-miterlimit="10"/><path d="M28.43 16.95c0-.99-.8-1.79-1.79-1.79s-1.79.8-1.79 1.79.8 1.8 1.79 1.8 1.79-.8 1.79-1.8Z" fill="#2B2B2B"/></svg>
@@ -155,7 +155,7 @@ layout: default
     </div>
 </section>
 <!-- Reviews Section -->
-<section class="reviews ripped">
+<section class="reviews ripped after-ripped footer-home">
 <h2>Awarded in</h2>
     <div class="container">
         <div class="awards-carousel">

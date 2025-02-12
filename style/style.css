@@ -665,7 +665,7 @@ footer .menu ul a:hover {
 }
 
 .contact-info {
-    margin: 1rem 0 2rem;
+    margin: 1rem 0 0;
     font-size: 1.1rem;
     line-height: 1.6;
     background-color: #EEE7E0;
@@ -1220,6 +1220,12 @@ footer {
     width: 26% !important;
 }
 
+.address p{
+    line-height: 1.4;
+    font-family: 'Merriweather', serif !important;
+    font-size: 0.9vw !important;
+}
+
 .dome.ripped::before {
     transform: translateY(-10px);
 }
@@ -1284,6 +1290,11 @@ footer {
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
+}
+
+#reviews .card h4 {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 #reviews .card svg{
@@ -1493,18 +1504,39 @@ header:not(.hero):after {
     content: '';
     display: block;
     width: 100%;
-    height: 20px;
+    height: 12px;
     background-image: url(../assets/images/itss-background-dark-cream.png);
     position: relative;
     z-index: 100;
     margin-top: -10px;
 }
 
+.ripped.after-ripped.footer-home:after {
+    margin-bottom: -6px;
+}
+
+.ripped.after-ripped-cream.footer-home:after {
+    margin-bottom: -6px;
+}
+
+.ripped-cream-light:before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 13px;
+    background-image: url(../assets/images/itss-background-light-cream.png);
+    position: relative;
+    z-index: 100;
+    margin-top: -10px;
+    transform: translateY(-10px);
+    background-repeat: no-repeat;
+}
+
 .ripped.after-ripped:after {
     content: '';
     display: block;
     width: 100%;
-    height: 20px;
+    height: 13px;
     background-image: url(../assets/images/its-background.png);
     position: relative;
     z-index: 100;

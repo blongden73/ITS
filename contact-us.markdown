@@ -11,8 +11,9 @@ layout: default
     <div class="contact-info">
         <div class="container flex">
         <div class="left">
-            <p><strong>In The Stix</strong><br>
-            {{ site.data.contact.address | markdownify }}</p>
+            <span class="address">
+                {{ site.data.contact.address | markdownify }}
+            </span>
         </div>
         <div class="right">
             <p><a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a></p>

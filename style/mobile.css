@@ -1,200 +1,124 @@
-@media screen and (max-width: 768px) {
-    /* General Layout Adjustments */
-    body, html {
-        overflow-x: hidden !important;
+/* Responsive Styles for Mobile */
+@media (max-width: 768px) {
+    /* General container adjustments */
+    .container, 
+    section .container, 
+    .plan .container, 
+    .footer .container {
+        width: 100% !important;
+        padding: 0 15px !important;
+        box-sizing: border-box !important;
     }
 
-    .container {
-        width: 95% !important;
-    }
-
-    .flex, .container.flex {
+    /* Stack flex items vertically */
+    .flex, 
+    .container.flex, 
+    .menu.flex, 
+    .about-manifesto, 
+    .features-grid-cards .flex, 
+    .retreat-cards, 
+    .blog-cards {
         flex-direction: column !important;
-        align-items: stretch !important;
+        align-items: center !important;
     }
 
-    /* Navbar Adjustments */
+    /* Full width for flex items */
+    .flex > div, 
+    .container.flex > div, 
+    .menu.flex > *, 
+    .features-grid-cards .card, 
+    .retreat-card, 
+    .blog-card {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    .desktop-header {
+        display: none !important;
+    }
+
+    /* Navbar adjustments */
+    .navbar ul, 
     .navbar .nav-links {
         flex-direction: column !important;
         gap: 10px !important;
         text-align: center !important;
     }
 
-    .navbar ul {
-        display: none;
-    }
-
     .navbar .container .logo {
-        position: static !important;
+        position: relative !important;
+        left: auto !important;
+        top: auto !important;
         transform: none !important;
-        margin: 0 auto !important;
-        width: 180px !important;
+        margin: 10px 0 !important;
+        width: 50% !important;
     }
 
-    /* Hero Section */
-    .hero {
+    /* Hero section adjustments */
+    .hero-image {
         height: auto !important;
     }
 
-    .hero-text h1 {
-        font-size: 40px !important;
+    .centred-content h4 {
+        font-size: 36px !important;
     }
 
-    /* Amenity Items */
-    .amenity {
+    /* Features Grid */
+    .features-grid-cards .card, 
+    .features-grid-cards.explore-area .card {
+        width: 100% !important;
+        margin: 10px 0 !important;
+    }
+
+    /* Footer adjustments */
+    .footer {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    .address {
         width: 100% !important;
         text-align: center !important;
+        font-size: 14px !important;
     }
 
-    .amenities .container {
-        padding-top: 50px !important;
-    }
-
-    .amenities .container.flex {
-        flex-direction: column !important;
-    }
-
-    /* Reviews Carousel */
-    .reviews-carousel {
-        width: 100% !important;
-        height: auto !important;
-        padding: 1rem !important;
-    }
-
-    .carousel-item p {
-        font-size: 1.2rem !important;
-        width: auto !important;
-    }
-
-    .carousel-item h4 {
-        font-size: 1.5rem !important;
-    }
-
-    .carousel-controls {
-        padding: 0 !important;
-        width: 100% !important;
-        justify-content: space-between !important;
-    }
-
-    /* Footer Adjustments */
-    .footer {
+    .contact-info {
         flex-direction: column !important;
         align-items: center !important;
         text-align: center !important;
     }
 
-    .footer .newsletter input[type="email"],
-    .footer .newsletter button {
-        width: 100% !important;
-        margin: 0.5rem 0 !important;
-    }
-
-    /* Blog Cards */
-    .blog-cards {
-        grid-template-columns: 1fr !important;
-        gap: 1rem !important;
-    }
-
-    .blog-card {
+    /* Adjust booking buttons */
+    .booking-buttons .btn {
+        margin: 10px 0 !important;
         width: 100% !important;
     }
 
-    /* Retreat Cards */
-    .retreat-cards {
-        grid-template-columns: 1fr !important;
-    }
-
-    .retreat-card {
-        width: 100% !important;
-    }
-
-    /* Contact Info */
-    .contact-info .container {
-        flex-direction: column !important;
-        text-align: center !important;
-    }
-
-    .contact-info p {
-        font-size: 1.2rem !important;
-    }
-
-    /* Facilities Section */
-    .facilities-wrapper .left,
-    .facilities-wrapper .right {
-        width: 100% !important;
-    }
-
-    .right .owl-wrapper-outer {
-        width: 100% !important;
-    }
-
-    #dome-features {
-        display: none;
-    }
-
-    /* Dome Features */
-    #dome-features .container {
-        flex-direction: column !important;
-    }
-
-    .feature-grid {
-        flex-direction: column !important;
-        gap: 1rem !important;
-    }
-
-    .features-grid-cards .card {
-        width: 100% !important;
-    }
-
-    /* Map Adjustments */
-    .map-container {
-        width: 100% !important;
-        height: auto !important;
-    }
-
-    .map {
-        height: 300px !important;
-    }
-
-    /* Newsletter */
-    .newsletter input {
-        width: 100% !important;
-    }
-
+    /* Newsletter adjustments */
+    .newsletter input, 
     .newsletter button {
         width: 100% !important;
+        margin: 5px 0 !important;
     }
 
-    /* Philosophy Content */
-    .content {
-        flex-direction: column !important;
-    }
-
-    .philosophy {
-        width: 100% !important;
-        max-width: none !important;
-    }
-
-    .image-container img {
+    /* Adjust maps and images */
+    .map-container iframe, 
+    .image-wrapper img, 
+    .about-width img {
         width: 100% !important;
         height: auto !important;
     }
 
-    /* About Section */
-    .about-manifesto {
-        flex-direction: column !important;
+    .about-width {
+        display: block !important;
     }
 
-    .flex-cols {
+    /* Adjust carousel */
+    .carousel-item p {
         width: 100% !important;
-        margin-bottom: 20px !important;
     }
 
-    .about-container {
-        flex-direction: column !important;
-    }
-
-    .about-image img {
-        width: 100% !important;
+    .carousel-controls button {
+        padding: 20px !important;
     }
 }
