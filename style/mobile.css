@@ -308,5 +308,9 @@
         margin-top: 0;
         margin-bottom: 0;    
     }
+
+    #feastings .intro {
+        padding-bottom: 50px !important;
+    }
 }
 
