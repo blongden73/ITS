@@ -111,7 +111,6 @@ layout: default
         <!-- Dots will be generated dynamically by JS -->
     </div>
 </div>
-
         <a href="/reviews" class="btn">View all</a>
     </div>
 </section>
@@ -178,7 +177,6 @@ layout: default
         <!-- Dots will be generated dynamically by JS -->
     </div>
 </div>
-
         <a href="#" class="btn">View all</a>
     </div>
 </section>
