@@ -1,5 +1,93 @@
 /* Responsive Styles for Mobile */
 @media (max-width: 768px) {
+
+    .hero-text h1 {
+        font-size: 11.4vw;
+    }
+
+    h2 {
+        font-size: 46px;
+        line-height: 1.2;
+        margin-bottom: 10px;
+    }
+
+    h2:after {
+        transform: translateY(0px);
+    }
+
+    .image-par {
+        height: 32vh;
+    }
+
+    .amenities .container.flex {
+        flex-direction: row !important;
+        flex-wrap: wrap !important;
+    }
+
+    .amenities .container {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+
+    .amenities .container .amenity {
+        width: 50% !important;
+    }
+
+    .plan .right {
+        margin-top: 50px !important;
+    }
+
+    .reviews-carousel {
+        width: 90% !important;
+        height: 310px !important;
+    }
+
+    .reviews {
+        padding-bottom: 50px;
+    }
+
+    .instagram behold-widget {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .carousel-item img {
+        max-width: 284px !important;
+    }
+
+    .awards-carousel {
+        width: 90% !important;
+    }
+
+    footer .newsletter input {
+        width: 90% !important;
+    }
+
+    footer .newsletter button {
+        width: auto !important;
+    }
+
+    footer .container.flex {
+        flex-direction: column-reverse !important;
+    }
+
+    footer .menu ul {
+        font-size: 5.2vw !important;
+        text-align: center;
+    }
+
+    footer .menu ul.address {
+        font-size: 4.2vw !important;
+    }
+
+    .newsletter {
+        text-align: center;
+    }
+
+    footer {
+        padding-bottom: 20px;
+    }
+
     /* General container adjustments */
     .container, 
     section .container, 
