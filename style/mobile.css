@@ -265,5 +265,33 @@
     .mobile-hamburger .ham {
         display: block;
     }
+
+    #the-grounds {
+        display: none;
+    }
+
+    #dome-features {
+        display: none;
+    }
+
+    .owl-carousel {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .dome .item {
+        height: 29vh !important;
+    }
+
+    .facilities-wrapper .left {
+        text-align: center !important;
+    }
+
+    .facilities-wrapper .left h4 {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0;
+        margin-bottom: 0;    
+    }
 }
 
