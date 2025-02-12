@@ -1,3 +1,11 @@
+var mobilemenu = document.querySelector('.mobile-menu');
+var hamburger = document.querySelector('.mobile-hamburger');
+
+hamburger.addEventListener('click', function(){
+    this.classList.toggle('active');
+    mobilemenu.classList.toggle('active');
+})
+
 // Carousel Functionality
 const carousel = document.querySelector('.carousel');
 if (carousel) {
@@ -183,3 +191,5 @@ $(document).ready(function () {
         });
     });
 });
+
+

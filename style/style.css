@@ -1663,3 +1663,11 @@ header:not(.hero):after {
 .about-image {
     margin-bottom: 100px;
 }
+
+.mobile-hamburger {
+    display: none;
+}
+
+.mobile-menu {
+    display: none;
+}
