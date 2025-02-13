@@ -13,68 +13,52 @@ layout: default
     </div>
 </section>
 
-<!-- 
-<section id="dining-experiences">
-    <h2>Dining Experiences</h2>
-    {% for experience in site.data.feasting %}
-    <article id="{{ experience.id }}" class="experience">
-        <h3>{{ experience.title }}</h3>
-        <div class="carousel">
-            {% for image in experience.images %}
-            <img src="{{ image }}" alt="{{ experience.title }}">
-            {% endfor %}
-        </div>
-        <p>{{ experience.description }}</p>
-    </article>
-    {% endfor %}
-</section> -->
-
 <section id="feastings" class="ripped ripped-cream after-ripped-cream">
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col">
+    <section id="spa-days" class="plan facilities-wrapper flex two-col">
         <div class="container flex">
             <div class="left">
             <h4>SPA DAYS</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["Spa Days Description"] }}</p>
             <a href="/book-now/" class="btn">Book Now</a>
-        </div>
+            </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/sauna-2.jpg" alt="Spa Days"></div>
-                    
-            </div>  
+                    {% for image in page.["Spa Days Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Spa Days"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col white">
+    <section id="retreats" class="plan facilities-wrapper flex two-col white ripped">
         <div class="container flex">
             <div class="left">
             <h4>RETREATS</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["Retreats Description"] }}</p>
             <a href="/book-now/" class="btn">Book Now</a>
-        </div>
+            </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/massage.jpg" alt="Massage"></div>
-                    
-            </div>  
+                    {% for image in page.["Retreats Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Retreats"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col ">
+    <section id="yoga" class="plan facilities-wrapper flex two-col ripped-cream">
         <div class="container flex">
             <div class="left">
             <h4>YOGA</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["YOGA Description"] }}</p>
             <a href="/book-now/" class="btn">Book Now</a>
-        </div>
+            </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/yoga.jpg" alt="Yoga"></div>
-                    
-            </div>  
+                    {% for image in page.["YOGA Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Yoga"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
