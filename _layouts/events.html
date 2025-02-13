@@ -7,87 +7,71 @@ layout: default
     <div class="hero-image">
         <div class="centred-content">
             <h4>{{ page.title }}</h4>
-            <p>Whether you are looking to have a festival style wedding, a luxurious bohemian party, a relaxed picnic – whatever your style and taste, our site is a blank canvas for your perfect celebration.</p>
+            <p>{{ page.content }}</p>
         </div>
         <img src="/assets/images/events.jpg"> 
     </div>
 </section>
 
-<!-- 
-<section id="dining-experiences">
-    <h2>Dining Experiences</h2>
-    {% for experience in site.data.feasting %}
-    <article id="{{ experience.id }}" class="experience">
-        <h3>{{ experience.title }}</h3>
-        <div class="carousel">
-            {% for image in experience.images %}
-            <img src="{{ image }}" alt="{{ experience.title }}">
-            {% endfor %}
-        </div>
-        <p>{{ experience.description }}</p>
-    </article>
-    {% endfor %}
-</section> -->
-
 <section id="feastings">
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col ripped ripped-cream">
+    <section id="parties" class="plan facilities-wrapper flex two-col ripped ripped-cream">
         <div class="container flex">
             <div class="left">
             <h4>PARTIES</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["Parties Description"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/image.jpg" alt="parties"></div>
-                    
-            </div>  
+                    {% for image in page.["Parties Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Parties"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col white ripped after-ripped">
+    <section id="weddings" class="plan facilities-wrapper flex two-col white ripped after-ripped">
         <div class="container flex">
             <div class="left">
             <h4>WEDDINGS</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["Wedding Description"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/image-2.jpg" alt="weddings"></div>
-                    
-            </div>  
+                    {% for image in page.["Weddings Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Weddings"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col ">
+    <section id="retreats" class="plan facilities-wrapper flex two-col ">
         <div class="container flex">
             <div class="left">
             <h4>RETREATS</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["Retreats Description"] }}</p>
             <a href="/book-now/" class="btn">Book Now</a>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/image-1.jpg" alt="retreats"></div>
-                    
-            </div>  
+                    {% for image in page.["Retreats Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Retreats"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col white ripped after-ripped">
+    <section id="bbqs" class="plan facilities-wrapper flex two-col white ripped after-ripped">
         <div class="container flex">
             <div class="left">
             <h4>BBQs</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["bbqs Description"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/image-3.jpg" alt="bbq"></div>
-                    
-            </div>  
+                    {% for image in page.["bbqs Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="BBQs"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
