@@ -10,7 +10,7 @@ layout: default
 </section>
 <section id="dome-features-links" class="features-grid-cards explore-area ripped ripped-cream">
     <div class="container flex card-container">
-        {%assign blogList = site.blog | sort: "position" %}
+        {% assign blogList = site.stories %}
         {{blogList}}
         {% for blog in blogList %}
         <div class="card">
@@ -20,7 +20,7 @@ layout: default
             <a href="{{ blog.url }}" class="btn">View post</a>
         </div>
         {% else %}
-        <p>No blog posts found. Check if your `_blogs` folder and `_config.yml` are correctly set up.</p>
+        <p>No blog posts found. Check if your `stories` folder and `_config.yml` are correctly set up.</p>
         {% endfor %}
     </div>
 </section>
