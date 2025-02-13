@@ -66,7 +66,7 @@ One Pot Meals:
     feeding a crowd. I’ve also included popped kidney beans for fantastic texture.
     Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, or tacos.
   Image: "/assets/images/Vegan-Chilli-.jpg"
-layout: feasting
+layout: Feasting
 ---
 
 Discover locally sourced organic produce and enjoy exquisite dining experiences curated just for you.
