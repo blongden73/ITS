@@ -4,3 +4,4 @@ permalink: "/faqs/"
 layout: standard
 ---
 
+this is fasqs
