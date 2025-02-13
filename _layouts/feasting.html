@@ -7,58 +7,44 @@ layout: default
     <div class="hero-image">
         <div class="centred-content">
             <h4>{{ page.title }}</h4>
-            <p>Discover locally sourced organic produce and enjoy exquisite dining experiences curated just for you.</p>
+            <p>{{ page.content }}</p>
         </div>
         <img src="/assets/images/feasting.jpg"> 
     </div>
 </section>
 
-<!-- 
-<section id="dining-experiences">
-    <h2>Dining Experiences</h2>
-    {% for experience in site.data.feasting %}
-    <article id="{{ experience.id }}" class="experience">
-        <h3>{{ experience.title }}</h3>
-        <div class="carousel">
-            {% for image in experience.images %}
-            <img src="{{ image }}" alt="{{ experience.title }}">
-            {% endfor %}
-        </div>
-        <p>{{ experience.description }}</p>
-    </article>
-    {% endfor %}
-</section> -->
-
 <section id="feastings" class="ripped after-ripped">
     <div class="container intro">
         <h2>Locally sourced organic produce</h2>
-        <p>“Smoke ‘n Stix” is our new communal dining and event space located next to our large communal firepit. Boasting a field kitchen, large wood fired oven and bbq area. Guests enjoy being able to communally dine for any celebration they choose.</p>    
+        <p>{{ page.["Smoke N Sticks Description"] }}</p>    
     </div>
     <section id="field-kitchen" class="plan facilities-wrapper flex two-col ripped-cream">
         <div class="container flex">
             <div class="left">
             <h4>Smoke ‘N Stix’</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["Smoke N Sticks Description"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-                    <div class="item"><img src="/assets/images/bbq.jpg" alt="The Last of us"></div>
-                    <div class="item"><img src="/assets/images/fire.jpg" alt="GTA V"></div>                    
-            </div>  
+                    {% for image in page.["Smoke N Sticks Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Smoke N Stix"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col white ripped">
+    <section id="pizza-steak" class="plan facilities-wrapper flex two-col white ripped">
         <div class="container flex">
             <div class="left">
             <h4>Pizza & Steak Nights</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+            <p>{{ page.["Pizza & Steak Nights Description"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-                    <div class="item"><img src="/assets/images/pizza.jpg" alt="The Last of us"></div>
-                    <div class="item"><img src="/assets/images/pizza2.jpg" alt="GTA V"></div>                    
-            </div>  
+                    {% for image in page.["Pizza & Steak Nights Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Pizza & Steak Nights"></div>
+                    {% endfor %}
+                </div>  
             </div>
         </div>
     </section>
@@ -67,59 +53,31 @@ layout: default
 <section class="features-grid-cards one-pot ripped after-ripped footer-home">
     <div class="container">
         <h2>ONE POT MEALS</h2>
-        <p>“Smoke ‘n Stix” is our new communal dining and event space located next to our large communal firepit. Boasting a field kitchen, large wood fired oven and bbq area. Guests enjoy being able to communally dine for any celebration they choose.</p>
+        <p>{{ page.["One Pot Meals Description"] }}</p>
     </div>
     <div class="container flex">
+        {% for meal in page.["One Pot Meals"] %}
         <div class="card">
-            <div class="image-wrapper"><img src="/assets/images/Chicken-Chorizo-Pot.jpg" alt="Hero Image 3"></div>
-            <h3>Chicken and Chorizo Ragu</h3>
-            <p>A tomato based mildly spiced with smoky paprika and Spanish chorizo sausage. A rich and flavoursome dish that all the family can enjoy. Simply serve with rice or jacket potatoes or fresh crusty bread.</p>
-            <p class="price">4 Portions £24 6 Portions £36</p>
+            <div class="image-wrapper"><img src="{{ meal.Image }}" alt="{{ meal.Title }}"></div>
+            <h3>{{ meal.Title }}</h3>
+            <p>{{ meal.Description }}</p>
         </div>
-        <div class="card">
-            <div class="image-wrapper"><img src="/assets/images/Chilli-Blackened-Peppers.jpg" alt="Hero Image 3"></div>
-            <h3>Vegan Chilli</h3>
-            <p>A brilliant recipe, this easy, family friendly vegan chilli is full of lovely vegetables the lentils give it a glorious consistency – it’s a perfect easy to reheat welcome meal.</p>
-            <p class="price">4 Portions £24 6 Portions £36</p>
-        </div>
-        <div class="card">
-            <div class="image-wrapper"><img src="/assets/images/Vegan-Chilli-.jpg" alt="Hero Image 3"></div>
-            <h3>Beef Chilli Con Carne</h3>
-            <p>A good, slow-cooked chilli always goes down a storm and is great for feeding a crowd. I’ve also included popped kidney beans for fantastic texture. Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, or tacos.</p>
-            <p class="price">4 Portions £24 6 Portions £36</p>
-        </div>
+        {% endfor %}
     </div>
 </section>
 
 <section class="features-grid-cards one-pot ripped after-ripped footer-home">
     <div class="container">
-        <h2>Breakfast hampers</h2>
-        <p>“Smoke ‘n Stix” is our new communal dining and event space located next to our large communal firepit. Boasting a field kitchen, large wood fired oven and bbq area. Guests enjoy being able to communally dine for any celebration they choose.</p>
+        <h2>Breakfast Hampers</h2>
+        <p>{{ page.["Breakfast hampers Description"] }}</p>
     </div>
     <div class="container flex">
+        {% for hamper in page.["Breakfast hampers"] %}
         <div class="card">
-            <div class="image-wrapper"><img src="/assets/images/Chicken-Chorizo-Pot.jpg" alt="Hero Image 3"></div>
-            <h3>Hamper 1</h3>
-            <p>A tomato based mildly spiced with smoky paprika and Spanish chorizo sausage. A rich and flavoursome dish that all the family can enjoy. Simply serve with rice or jacket potatoes or fresh crusty bread.</p>
-            <p class="price">4 Portions £24 6 Portions £36</p>
+            <div class="image-wrapper"><img src="{{ hamper.Image }}" alt="{{ hamper.Title }}"></div>
+            <h3>{{ hamper.Title }}</h3>
+            <p>{{ hamper.Description }}</p>
         </div>
-        <div class="card">
-            <div class="image-wrapper"><img src="/assets/images/Chilli-Blackened-Peppers.jpg" alt="Hero Image 3"></div>
-            <h3>Hamper 2</h3>
-            <p>A brilliant recipe, this easy, family friendly vegan chilli is full of lovely vegetables the lentils give it a glorious consistency – it’s a perfect easy to reheat welcome meal.</p>
-            <p class="price">4 Portions £24 6 Portions £36</p>
-        </div>
-        <div class="card">
-            <div class="image-wrapper"><img src="/assets/images/Vegan-Chilli-.jpg" alt="Hero Image 3"></div>
-            <h3>Hamper 3</h3>
-            <p>A good, slow-cooked chilli always goes down a storm and is great for feeding a crowd. I’ve also included popped kidney beans for fantastic texture. Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, or tacos.</p>
-            <p class="price">4 Portions £24 6 Portions £36</p>
-        </div>
-        <div class="card">
-            <div class="image-wrapper"><img src="/assets/images/Vegan-Chilli-.jpg" alt="Hero Image 3"></div>
-            <h3>Hamper 4</h3>
-            <p>A good, slow-cooked chilli always goes down a storm and is great for feeding a crowd. I’ve also included popped kidney beans for fantastic texture. Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, or tacos.</p>
-            <p class="price">4 Portions £24 6 Portions £36</p>
-        </div>
+        {% endfor %}
     </div>
 </section>
