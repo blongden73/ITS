@@ -44,7 +44,7 @@ Breakfast hampers Description: "New for 2021, Normanton is the first dome you ap
   from the carpark. High on the hillside it has a view straight down the valley. Perfect
   for the evening sunsets. Styled with our eclectic choice of furnishings, the dome
   has a rocking chair and a beautiful antique slipper chair, plus all our standard
-  pieces!\n\n"  
+  pieces!\n\n"
 Breakfast hampers:
 - Title: Hamper 1
   Description: A tomato based mildly spiced with smoky paprika and Spanish chorizo
