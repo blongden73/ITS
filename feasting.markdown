@@ -43,3 +43,4 @@ One Pot Meals:
 layout: feasting
 ---
 
+Discover locally sourced organic produce and enjoy exquisite dining experiences curated just for you.
