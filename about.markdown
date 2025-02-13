@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-About Image: 
+About Image: "/assets/images/aboutimage.jpg"
 About One Title: A 5-year long dream
 About One Description: In the Stix is a family venture, the result of a 5-year long
   dream. Set in the heart of stunning Rutland, our aim is to reconnect our guests
