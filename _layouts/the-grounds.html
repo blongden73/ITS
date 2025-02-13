@@ -160,72 +160,19 @@ layout: default
 </section>
 
 <!-- Dome Features Section -->
-<section id="dome-features">
-        <div class="container flex">
-            <div class="feature-grid">
-                <!-- Placeholder for feature cards -->
-                <a href="#dome-features-links"><div class="feature">Dome Features</div></a>
-                <a href="#dome-1"><div class="feature">Dome 1</div></a>
-                <a href="#dome-2"><div class="feature">Dome 2</div></a>
-                <a href="#dome-3"><div class="feature">Dome 3</div></a>
-                <a href="#dome-4"><div class="feature">Dome 4</div></a>
-                <a href="#dome-5"><div class="feature">Dome 5</div></a>
-                <a href="#dome-6"><div class="feature">Dome 6</div></a>
-                <a href="#sauna"><div class="feature">Sauna</div></a>
-                <a href="#field-kitchen"><div class="feature">Field Kitchen</div></a>
-                <a href="#fire-pit"><div class="feature">Fire pit</div></a>
-                <a href="#play-area"><div class="feature">Play Area</div></a>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section id="dome-features-links" class="features-grid-cards">
     <div class="container">
         <h2>DOME FEATURES</h2>
-        <p>“Smoke ‘n Stix” is our new communal dining and event space located next to our large communal firepit. Boasting a field kitchen, large wood fired oven and bbq area. Guests enjoy being able to communally dine for any celebration they choose.</p>
+        <p>{{ page.SectionDescription }}</p>
     </div>
     <div class="container flex card-container">
+        {% for feature in page.["Dome Features"] %}
         <div class="card">
-            <img src="/assets/images/placeholder.jpg" alt="Hero Image 3">
-            <h3>lorem</h3>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite.</p>
+            <img src="/assets/images/placeholder.jpg" alt="Feature Image">
+            <h3>{{ feature.Title }}</h3>
+            <p>{{ feature.Description }}</p>
         </div>
-        <div class="card">
-            <img src="/assets/images/placeholder.jpg" alt="Hero Image 3">
-            <h3>lorem</h3>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite.</p>
-        </div>
-        <div class="card">
-            <img src="/assets/images/placeholder.jpg" alt="Hero Image 3">
-            <h3>lorem</h3>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite.</p>
-        </div>
-        <div class="card">
-            <img src="/assets/images/placeholder.jpg" alt="Hero Image 3">
-            <h3>lorem</h3>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite.</p>
-        </div>
-        <div class="card">
-            <img src="/assets/images/placeholder.jpg" alt="Hero Image 3">
-            <h3>lorem</h3>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite.</p>
-        </div>
-        <div class="card">
-            <img src="/assets/images/placeholder.jpg" alt="Hero Image 3">
-            <h3>lorem</h3>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite.</p>
-        </div>
-        <div class="card">
-            <img src="/assets/images/placeholder.jpg" alt="Hero Image 3">
-            <h3>lorem</h3>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite.</p>
-        </div>
-        <div class="card">
-            <img src="/assets/images/placeholder.jpg" alt="Hero Image 3">
-            <h3>lorem</h3>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite.</p>
-        </div>
+        {% endfor %}
     </div>
 </section>
 
@@ -234,182 +181,154 @@ layout: default
     <h2>The Domes</h2>
     <div class="domes">
         <article class="dome ripped ripped-cream" id="dome-1">
-        <div class="container">
-        <h4>Dome 1 - <span>Greetham</span></h4>
-        <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite. A Beautiful dome decorated in blues and greys. This dome has the uninterrupted view over the brook and the golf course beyond. Set the furthest down the field and boasting the most private hot tub. This dome kitchen faces west for the evening sunset.</p>    
-        <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
-        </div>
-        <div class="container">
-        <div id="owl-demo" class="owl-carousel owl-theme">
- 
-            <div class="item"><img src="/assets/images/dome1/1.jpg" alt="The Last of us"></div>
-            <div class="item"><img src="/assets/images/dome1/2.jpg" alt="GTA V"></div>
-            <div class="item"><img src="/assets/images/dome1/3.jpg" alt="Mirror Edge"></div>
-            <div class="item"><img src="/assets/images/dome1/4.jpg" alt="Mirror Edge"></div>
-           
-        </div>    
-         </div>
+            <div class="container">
+                <h4>{{ page.["Dome 1 Title"] }}</h4>
+                <p>{{ page.["Dome 1 Description"] }}</p>
+                <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
+            </div>
+            <div class="container">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Dome 1 Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Dome 1 Image"></div>
+                    {% endfor %}
+                </div>
+            </div>
         </article>
         <article class="dome ripped" id="dome-2">
             <div class="container">
-            <h4>Dome 2 - <span>Barrow</span></h4>
-            <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite. A Beautiful dome decorated in blues and greys. This dome has the uninterrupted view over the brook and the golf course beyond. Set the furthest down the field and boasting the most private hot tub. This dome kitchen faces west for the evening sunset.</p>    
-            <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
-        </div>
+                <h4>{{ page.["Dome 2 Title"] }}</h4>
+                <p>{{ page.["Dome 2 Description"] }}</p>
+                <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
+            </div>
             <div class="container">
-            <div id="owl-demo" class="owl-carousel owl-theme">
-     
-                <div class="item"><img src="/assets/images/dome2/1.jpg" alt="The Last of us"></div>
-            <div class="item"><img src="/assets/images/dome2/2.jpg" alt="GTA V"></div>
-            <div class="item"><img src="/assets/images/dome2/3.jpg" alt="Mirror Edge"></div>
-            <div class="item"><img src="/assets/images/dome2/4.jpg" alt="Mirror Edge"></div>
-               
-            </div>    
-             </div>
-            </article>
-            <article class="dome ripped ripped-cream" id="dome-3">
-                <div class="container">
-                <h4>Dome 3 - <span>Hambleton</span></h4>
-                <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite. A Beautiful dome decorated in blues and greys. This dome has the uninterrupted view over the brook and the golf course beyond. Set the furthest down the field and boasting the most private hot tub. This dome kitchen faces west for the evening sunset.</p>    
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Dome 2 Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Dome 2 Image"></div>
+                    {% endfor %}
+                </div>
+            </div>
+        </article>
+        <article class="dome ripped ripped-cream" id="dome-3">
+            <div class="container">
+                <h4>{{ page.["Dome 3 Title"] }}</h4>
+                <p>{{ page.["Dome 3 Description"] }}</p>
                 <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
             </div>
-                <div class="container">
+            <div class="container">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-         
-                    <div class="item"><img src="/assets/images/dome3/1.jpg" alt="The Last of us"></div>
-            <div class="item"><img src="/assets/images/dome3/2.jpg" alt="GTA V"></div>
-            <div class="item"><img src="/assets/images/dome3/3.jpg" alt="Mirror Edge"></div>
-            <div class="item"><img src="/assets/images/dome3/4.jpg" alt="Mirror Edge"></div>
-                   
-            </div>    
+                    {% for image in page.["Dome 3 Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Dome 3 Image"></div>
+                    {% endfor %}
                 </div>
-            </article>
-            <article class="dome ripped" id="dome-4">
-                <div class="container">
-                <h4>Dome 4 - <span>Exton</span></h4>
-                <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite. A Beautiful dome decorated in blues and greys. This dome has the uninterrupted view over the brook and the golf course beyond. Set the furthest down the field and boasting the most private hot tub. This dome kitchen faces west for the evening sunset.</p>    
+            </div>
+        </article>
+        <article class="dome ripped" id="dome-4">
+            <div class="container">
+                <h4>{{ page.["Dome 4 Title"] }}</h4>
+                <p>{{ page.["Dome 4 Description"] }}</p>
                 <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
             </div>
-                <div class="container">
+            <div class="container">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/dome4/1.jpg" alt="The Last of us"></div>
-            <div class="item"><img src="/assets/images/dome4/2.jpg" alt="GTA V"></div>
-            <div class="item"><img src="/assets/images/dome4/3.jpg" alt="Mirror Edge"></div>
-            <div class="item"><img src="/assets/images/dome4/4.jpg" alt="Mirror Edge"></div>
-                    
-            </div>    
+                    {% for image in page.["Dome 4 Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Dome 4 Image"></div>
+                    {% endfor %}
                 </div>
-            </article>
-            <article class="dome ripped ripped-cream" id="dome-5">
-                <div class="container">
-                <h4>Dome 5 - <span>Clipsham</span></h4>
-                <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite. A Beautiful dome decorated in blues and greys. This dome has the uninterrupted view over the brook and the golf course beyond. Set the furthest down the field and boasting the most private hot tub. This dome kitchen faces west for the evening sunset.</p>    
+            </div>
+        </article>
+        <article class="dome ripped ripped-cream" id="dome-5">
+            <div class="container">
+                <h4>{{ page.["Dome 5 Title"] }}</h4>
+                <p>{{ page.["Dome 5 Description"] }}</p>
                 <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
             </div>
-                <div class="container">
+            <div class="container">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/dome5/1.jpg" alt="The Last of us"></div>
-            <div class="item"><img src="/assets/images/dome5/2.jpg" alt="GTA V"></div>
-            <div class="item"><img src="/assets/images/dome5/3.jpg" alt="Mirror Edge"></div>
-            <div class="item"><img src="/assets/images/dome5/4.jpg" alt="Mirror Edge"></div>
-                    
-            </div>    
+                    {% for image in page.["Dome 5 Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Dome 5 Image"></div>
+                    {% endfor %}
                 </div>
-            </article>
-                <article class="dome ripped" id="dome-6">
-                    <div class="container">
-                    <h4>Dome 6 - <span>Normanton</span></h4>
-                    <p>Greetham, is named after our local village, situated a short walk along the brook from the campsite. A Beautiful dome decorated in blues and greys. This dome has the uninterrupted view over the brook and the golf course beyond. Set the furthest down the field and boasting the most private hot tub. This dome kitchen faces west for the evening sunset.</p>    
-                    <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
+            </div>
+        </article>
+        <article class="dome ripped" id="dome-6">
+            <div class="container">
+                <h4>{{ page.["Dome 6 Title"] }}</h4>
+                <p>{{ page.["Dome 6 Description"] }}</p>
+                <a href="https://supercontrol-proxy-eprl6owae-blongden73s-projects.vercel.app/api/availability" class="btn">book now</a>
+            </div>
+            <div class="container">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Dome 6 Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Dome 6 Image"></div>
+                    {% endfor %}
                 </div>
-                    <div class="container">
-                    <div id="owl-demo" class="owl-carousel owl-theme">
-                
-                        <div class="item"><img src="/assets/images/dome6/1.jpg" alt="The Last of us"></div>
-            <div class="item"><img src="/assets/images/dome6/2.jpg" alt="GTA V"></div>
-            <div class="item"><img src="/assets/images/dome6/3.jpg" alt="Mirror Edge"></div>
-            <div class="item"><img src="/assets/images/dome6/4.jpg" alt="Mirror Edge"></div>
-                        
-                </div>    
-                    </div>
-                </article>
-
-        <!-- Add more domes as needed -->
+            </div>
+        </article>
     </div>
 </section>
+
 
 <!-- Facilities Section -->
 <section id="facilities">
     <h2>FACILITIES AT IN THE STIX</h2>
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col ripped flipped">
+    <section id="field-kitchen" class="plan facilities-wrapper flex two-col">
         <div class="container flex">
             <div class="left">
-            <h4>Field Kitchen</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+                <h4>Field Kitchen</h4>
+                <p>{{ page.["Field Kitchen Text"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/image.jpg" alt="The Last of us"></div>
-                    <div class="item"><img src="/assets/images/image-1.jpg" alt="GTA V"></div>
-                    <div class="item"><img src="/assets/images/image-2.jpg" alt="Mirror Edge"></div>
-                    
-            </div>  
+                    {% for image in page.["Field Kitchen Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Field Kitchen Image"></div>
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </section>
-    <section id="fire-pit" class="plan facilities-wrapper flex two-col white ripped after-ripped">
+    <section id="fire-pit" class="plan facilities-wrapper flex two-col">
         <div class="container flex">
             <div class="left">
-            <h4>FIRE PIT</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+                <h4>Fire Pit</h4>
+                <p>{{ page.["Fire Pit Text"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/image.jpg" alt="The Last of us"></div>
-                    <div class="item"><img src="/assets/images/image-1.jpg" alt="GTA V"></div>
-                    <div class="item"><img src="/assets/images/image-2.jpg" alt="Mirror Edge"></div>
-                    
-            </div>  
+                    {% for image in page.["Fire Pit Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Fire Pit Image"></div>
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </section>
     <section id="play-area" class="plan facilities-wrapper flex two-col">
         <div class="container flex">
             <div class="left">
-            <h4>Play Area</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+                <h4>Play Area</h4>
+                <p>{{ page.["Play Area Text"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/image.jpg" alt="The Last of us"></div>
-                    <div class="item"><img src="/assets/images/image-1.jpg" alt="GTA V"></div>
-                    <div class="item"><img src="/assets/images/image-2.jpg" alt="Mirror Edge"></div>
-                    
-            </div>  
+                    {% for image in page.["Play Area Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Play Area Image"></div>
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </section>
-    <section id="sauna" class="plan facilities-wrapper flex two-col white ripped after-ripped">
+    <section id="sauna" class="plan facilities-wrapper flex two-col">
         <div class="container flex">
             <div class="left">
-            <h4>Sauna</h4>
-            <p>New for 2021, Normanton is the first dome you approach from the carpark. High on the hillside it has a view straight down the valley. Perfect for the evening sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!</p>
+                <h4>Sauna</h4>
+                <p>{{ page.["Sauna Text"] }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-            
-                    <div class="item"><img src="/assets/images/image.jpg" alt="The Last of us"></div>
-                    <div class="item"><img src="/assets/images/image-1.jpg" alt="GTA V"></div>
-                    <div class="item"><img src="/assets/images/image-2.jpg" alt="Mirror Edge"></div>
-                    
-            </div>  
+                    {% for image in page.["Sauna Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Sauna Image"></div>
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </section>
-    <!-- Add more facilities as needed -->
 </section>

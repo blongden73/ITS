@@ -1,7 +1,8 @@
 ---
 title: The Grounds
 permalink: "/the-grounds/"
-Dome Features:
+SectionDescription: “Smoke ‘n Stix” is our new communal dining and event space located next to our large communal firepit. Boasting a field kitchen, large wood fired oven and bbq area. Guests enjoy being able to communally dine for any celebration they choose. this
+Dome Features: 
 - Title: Lorem
   Description: "Greetham, is named after our local village, situated a short walk
     along the brook from the campsite.\n\n"
@@ -96,7 +97,7 @@ Field Kitchen Text: "New for 2021, Normanton is the first dome you approach from
   carpark. High on the hillside it has a view straight down the valley. Perfect for
   the evening sunsets. Styled with our eclectic choice of furnishings, the dome has
   a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!\n\n"
-Fire Pit Images:
+Field Kitchen Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
