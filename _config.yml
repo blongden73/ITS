@@ -3,8 +3,8 @@ title: ITS
 timezone: UTC
 collections:
   blogs:
-    title: Blogs
     output: true
+    permalink: /blogs/:path/
   posts:
     title: Posts
     output: true

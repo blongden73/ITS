@@ -10,13 +10,18 @@ layout: default
 </section>
 <section id="dome-features-links" class="features-grid-cards explore-area ripped ripped-cream">
     <div class="container flex card-container">
-        {% for blog in site.blogs %}
+        {%assign blogList = site.blog | sort: "position" %}
+        {{blogList}}
+        {% for blog in blogList %}
         <div class="card">
             <img src="{{ blog.image }}" alt="{{ blog.title }}">
             <h3>{{ blog.title }}</h3>
             <p>{{ blog.excerpt | truncatewords: 20 }}</p>
             <a href="{{ blog.url }}" class="btn">View post</a>
         </div>
+        {% else %}
+        <p>No blog posts found. Check if your `_blogs` folder and `_config.yml` are correctly set up.</p>
         {% endfor %}
     </div>
 </section>
+
