@@ -6,43 +6,19 @@ layout: default
 <section id="reviews">
     <div class="about">
         <div class="container">
-        <h2>{{ page.title }}</h2>
-        <p>What people say about us</p>
-    </div>
+            <h2>{{ page.title }}</h2>
+            <p>What people say about us</p>
+        </div>
     </div>
     <section id="dome-features-links" class="features-grid-cards explore-area ripped ripped-cream">
         <div class="container flex card-container">
+            {% for review in page.["Field name"] %}
             <div class="card">
                 {% include stars.html %}
-                <h4>Lorem</h4>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
+                <h4>{{ review.Name }}</h4>
+                <p>{{ review.Review }}</p>
             </div>
-            <div class="card">
-                {% include stars.html %}
-                <h4>Lorem</h4>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
-            <div class="card">
-                {% include stars.html %}
-                <h4>Lorem</h4>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
-            <div class="card">
-                {% include stars.html %}
-                <h4>Lorem</h4>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
-            <div class="card">
-                {% include stars.html %}
-                <h4>Lorem</h4>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
-            <div class="card">
-                {% include stars.html %}
-                <h4>Lorem</h4>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
+            {% endfor %}
         </div>
     </section>
 </section>
-
