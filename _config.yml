@@ -2,11 +2,11 @@
 title: ITS
 timezone: UTC
 collections:
-  blogs:
-    output: true
-    permalink: /blogs/:path/
   posts:
     title: Posts
+    output: true
+  stories:
+    title: Stories
     output: true
   uploads:
     title: Uploads
