@@ -35,3 +35,4 @@ Explore Locations Grid:
 layout: explore
 ---
 
+Rutland is a beautiful and often overlooked county due to it’s size. It is the smallest county in England but with such a lot to offer it’s visitors. Known as Multum in Parvo (Much in Little) it certainly lives up to its name.

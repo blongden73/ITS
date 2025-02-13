@@ -1,8 +1,11 @@
 ---
 title: The Grounds
 permalink: "/the-grounds/"
-SectionDescription: “Smoke ‘n Stix” is our new communal dining and event space located next to our large communal firepit. Boasting a field kitchen, large wood fired oven and bbq area. Guests enjoy being able to communally dine for any celebration they choose. this
-Dome Features: 
+SectionDescription: "“Smoke ‘n Stix” is our new communal dining and event space located
+  next to our large communal firepit. Boasting a field kitchen, large wood fired oven
+  and bbq area. Guests enjoy being able to communally dine for any celebration they
+  choose. this"
+Dome Features:
 - Title: Lorem
   Description: "Greetham, is named after our local village, situated a short walk
     along the brook from the campsite.\n\n"
