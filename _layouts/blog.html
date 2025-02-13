@@ -11,7 +11,6 @@ layout: default
 <section id="dome-features-links" class="features-grid-cards explore-area ripped ripped-cream">
     <div class="container flex card-container">
         {% assign blogList = site.stories %}
-        {{blogList}}
         {% for blog in blogList %}
         <div class="card">
             <img src="{{ blog.image }}" alt="{{ blog.title }}">
