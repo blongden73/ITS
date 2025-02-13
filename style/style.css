@@ -1676,3 +1676,23 @@ header:not(.hero):after {
 .mobile-menu {
     display: none;
 }
+
+.max-width {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    padding-bottom: 100px;
+}
+
+.max-width p {
+    width: 100% !important;
+    max-width: 900px;
+    text-align: left;
+}
+
+.max-width img {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
