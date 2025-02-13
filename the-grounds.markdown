@@ -37,7 +37,7 @@ Dome 1 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
-Dome 2 Title: Dome 1 - Greetham
+Dome 2 Title: Dome 2 - Barrow
 Dome 2 Description: Greetham, is named after our local village, situated a short walk
   along the brook from the campsite. A Beautiful dome decorated in blues and greys.
   This dome has the uninterrupted view over the brook and the golf course beyond.
@@ -48,7 +48,7 @@ Dome 2 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
-Dome 3 Title: Dome 1 - Greetham
+Dome 3 Title: Dome 3 - Hambleton
 Dome 3 Description: Greetham, is named after our local village, situated a short walk
   along the brook from the campsite. A Beautiful dome decorated in blues and greys.
   This dome has the uninterrupted view over the brook and the golf course beyond.
@@ -59,7 +59,7 @@ Dome 3 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
-Dome 4 Title: Dome 1 - Greetham
+Dome 4 Title: Dome 4 - Exton
 Dome 4 Description: Greetham, is named after our local village, situated a short walk
   along the brook from the campsite. A Beautiful dome decorated in blues and greys.
   This dome has the uninterrupted view over the brook and the golf course beyond.
@@ -70,7 +70,7 @@ Dome 4 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
-Dome 5 Title: Dome 1 - Greetham
+Dome 5 Title: Dome 5 - Clipsham
 Dome 5 Description: Greetham, is named after our local village, situated a short walk
   along the brook from the campsite. A Beautiful dome decorated in blues and greys.
   This dome has the uninterrupted view over the brook and the golf course beyond.
@@ -81,7 +81,7 @@ Dome 5 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
-Dome 6 Title: Dome 1 - Greetham
+Dome 6 Title: Dome 6 - Normanton
 Dome 6 Description: Greetham, is named after our local village, situated a short walk
   along the brook from the campsite. A Beautiful dome decorated in blues and greys.
   This dome has the uninterrupted view over the brook and the golf course beyond.
@@ -92,6 +92,14 @@ Dome 6 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
+Field Kitchen Text: "New for 2021, Normanton is the first dome you approach from the
+  carpark. High on the hillside it has a view straight down the valley. Perfect for
+  the evening sunsets. Styled with our eclectic choice of furnishings, the dome has
+  a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!\n\n"
+Field Kitchen Images:
+- "/assets/images/image.jpg"
+- "/assets/images/image-1.jpg"
+- "/assets/images/image-2.jpg"
 layout: the-grounds
 ---
 
