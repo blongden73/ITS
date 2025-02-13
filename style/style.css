@@ -1696,3 +1696,25 @@ header:not(.hero):after {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.booking-toggle {
+    justify-content: left;
+    margin-bottom: 20px;
+}
+
+.booking-toggle .btn {
+    margin-right: 10px;
+}
+
+.platform {
+    display: none;
+}
+
+.platform.active {
+    display: block;
+}
+
+.active-btn {
+    background-color: #DA5626 !important;
+    color: #fff !important;
+}

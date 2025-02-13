@@ -192,4 +192,33 @@ $(document).ready(function () {
     });
 });
 
+document.addEventListener("DOMContentLoaded", function () {
+    const accomodationButton = document.querySelector(".accomodation-button");
+    const spaButton = document.querySelector(".spa-button");
+    const bookingCal = document.querySelector(".booking-cal");
+    const bookingSpa = document.querySelector(".booking-spa");
+
+    // Run the script only if the elements exist on the page
+    if (accomodationButton && spaButton && bookingCal && bookingSpa) {
+        function toggleBooking(showElement, hideElement, activeButton, inactiveButton) {
+            showElement.classList.add("active");
+            hideElement.classList.remove("active");
+
+            // Add 'active-btn' class to selected button and remove from the other
+            activeButton.classList.add("active-btn");
+            inactiveButton.classList.remove("active-btn");
+        }
+
+        accomodationButton.addEventListener("click", function () {
+            toggleBooking(bookingCal, bookingSpa, accomodationButton, spaButton);
+        });
+
+        spaButton.addEventListener("click", function () {
+            toggleBooking(bookingSpa, bookingCal, spaButton, accomodationButton);
+        });
+
+        // Ensure one section is shown by default and the corresponding button is highlighted
+        toggleBooking(bookingCal, bookingSpa, accomodationButton, spaButton);
+    }
+});
 
