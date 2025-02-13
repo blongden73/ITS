@@ -6,45 +6,22 @@ layout: default
 <section id="explore">
     <div class="about">
         <div class="container">
-        <h2>{{ page.title }}</h2>
-        <p>{{ page.content }}</p>
-    </div>
+            <h2>{{ page.title }}</h2>
+            <p>{{ page.content }}</p>
+        </div>
     </div>
     <div class="grounds-map">
         {% include map-area.html %}
     </div>
     <section id="dome-features-links" class="features-grid-cards explore-area ripped-cream after-ripped-cream ripped footer-home">
         <div class="container flex card-container">
+            {% for location in page.["Explore Locations Grid"] %}
             <div class="card">
-                <img src="/assets/images/oakham.jpg" alt="Hero Image 3">
-                <h3>Oakham</h3>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
+                <img src="{{ location.Image }}" alt="{{ location.Title }}">
+                <h3>{{ location.Title }}</h3>
+                <p>{{ location.Description }}</p>
             </div>
-            <div class="card">
-                <img src="/assets/images/stamford.jpg" alt="Hero Image 3">
-                <h3>Stamford</h3>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
-            <div class="card">
-                <img src="/assets/images/beltonhouse.jpg" alt="Hero Image 3">
-                <h3>Belton House</h3>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
-            <div class="card">
-                <img src="/assets/images/burghleyhouse.jpg" alt="Hero Image 3">
-                <h3>Burghley House</h3>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
-            <div class="card">
-                <img src="/assets/images/belvoircastle.jpg" alt="Hero Image 3">
-                <h3>Belvoir Castle</h3>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
-            <div class="card">
-                <img src="/assets/images/grimsthorpecastle.jpg" alt="Hero Image 3">
-                <h3>Grimsthorpe Castle</h3>
-                <p>Rutland and the surrounding area are rich with a wonderful variety of organically grown and ethically sourced food, supporting many local farmers, amazing pubs, restaurants, shops and wonderful bakeries.</p>
-            </div>
+            {% endfor %}
         </div>
     </section>
 </section>
