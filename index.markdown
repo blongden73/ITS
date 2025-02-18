@@ -7,7 +7,7 @@ Home Carousel Images:
 - assets/images/DSC9064-Edit.jpg
 Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Sub Title: connections are strong
-Home Hero Button Link: "/book-now/"
+Home Hero Button Link: "/the-grounds/"
 Home Hero Button Text: Explore The Grounds
 Home About Section: Phones Off Around the Fire
 Home About Section Text: Reconnect with nature, unwind, and spend quality time away

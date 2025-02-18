@@ -104,6 +104,10 @@ Field Kitchen Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
+Fire Pit Images:
+- "/assets/images/image.jpg"
+- "/assets/images/image-1.jpg"
+- "/assets/images/image-2.jpg"
 Fire Pit Text: "New for 2021, Normanton is the first dome you approach from the carpark.
   High on the hillside it has a view straight down the valley. Perfect for the evening
   sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking
