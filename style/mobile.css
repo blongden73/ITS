@@ -391,5 +391,20 @@
     #retreats {
         padding: 0 !important;
     }
+    .mobile-header-top {
+        display: block;
+    }
+
+    .mobile-header-top ul {
+        list-style: none;
+        display: flex;
+        padding-left: 0;
+        flex-direction: row !important;
+        justify-content: center !important;
+        gap: 20px;
+        font-family: 'Koulen', sans-serif;
+        font-size: 4.5vw;
+        line-height: 1.2;
+    }
 }
 

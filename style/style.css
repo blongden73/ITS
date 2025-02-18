@@ -1743,3 +1743,7 @@ header:not(.hero):after {
     background-color: #DA5626 !important;
     color: #fff !important;
 }
+
+.mobile-header-top {
+    display: none;
+}
