@@ -197,6 +197,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const spaButton = document.querySelector(".spa-button");
     const bookingCal = document.querySelector(".booking-cal");
     const bookingSpa = document.querySelector(".booking-spa");
+    const urlHash = window.location.hash;
 
     // Run the script only if the elements exist on the page
     if (accomodationButton && spaButton && bookingCal && bookingSpa) {
@@ -220,5 +221,12 @@ document.addEventListener("DOMContentLoaded", function () {
         // Ensure one section is shown by default and the corresponding button is highlighted
         toggleBooking(bookingCal, bookingSpa, accomodationButton, spaButton);
     }
-});
 
+    if (urlHash === "#spa") {
+        console.log('spa mode');
+        spaButton.classList.add("active-btn");
+        bookingSpa.classList.add("active");
+        accomodationButton.classList.remove("active-btn");
+        bookingCal.classList.remove("active");
+    } 
+});

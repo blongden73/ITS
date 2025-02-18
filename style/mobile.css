@@ -303,9 +303,17 @@
     }
 
     .feature-grid {
-        font-size: 15px !important;
+        font-size: 18px !important;
         flex-wrap: wrap;
         gap: 10px !important;
+    }
+
+    .logos.flex {
+        gap: 20px;
+    }
+
+    .booking-toggle .btn {
+        margin-bottom: 20px;
     }
 
     .container .left h4 {
@@ -374,6 +382,14 @@
 
     .hero .carousel {
         height: 88vh;
+    }
+
+    .owl-item .item {
+        height: 240px !important;
+    }
+
+    #retreats {
+        padding: 0 !important;
     }
 }
 
