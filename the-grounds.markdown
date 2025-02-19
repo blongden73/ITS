@@ -6,30 +6,26 @@ SectionDescription: "“Smoke ‘n Stix” is our new communal dining and event 
   and bbq area. Guests enjoy being able to communally dine for any celebration they
   choose. this"
 Dome Features:
-- Title: Lorem
-  Description: "Greetham, is named after our local village, situated a short walk
-    along the brook from the campsite.\n\n"
-- Title: Lorem
-  Description: "Greetham, is named after our local village, situated a short walk
-    along the brook from the campsite.\n\n"
-- Title: Lorem
-  Description: "Greetham, is named after our local village, situated a short walk
-    along the brook from the campsite.\n\n"
-- Title: Lorem
-  Description: "Greetham, is named after our local village, situated a short walk
-    along the brook from the campsite.\n\n"
-- Title: Lorem
-  Description: "Greetham, is named after our local village, situated a short walk
-    along the brook from the campsite.\n\n"
-- Title: Lorem
-  Description: "Greetham, is named after our local village, situated a short walk
-    along the brook from the campsite.\n\n"
-- Title: Lorem
-  Description: "Greetham, is named after our local village, situated a short walk
-    along the brook from the campsite.\n\n"
-- Title: Lorem
-  Description: "Greetham, is named after our local village, situated a short walk
-    along the brook from the campsite.\n\n"
+- Title: Ensuite Showers rooms with flushing WC
+  Description: "\n\n"
+- Title: Chesterfield leather sofas
+  Description: 
+- Title: Log burners
+  Description: 
+- Title: Downstairs king size beds
+  Description: 
+- Title: Upstairs mezzanine
+  Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
+- Title: Chest full of board games
+  Description: "\n"
+- Title: Hanging chair
+  Description: 
+- Title: Personal log fired hot tub
+  Description: "(additional cost of £45)"
+- Title: Personal kitchen
+  Description: "(with pizza oven and 2 ringed gas hob)"
+- Title: Covered outdoor seating area
+  Description: 
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Description: Offering the utmost privacy to its guests. With its serene location
   near a soothing babbling brook, this dome provides uninterrupted views of the surrounding
