@@ -28,11 +28,11 @@ Pizza & Steak Nights Images:
 One Pot Meals Description: Our one-pot meals have proven to be a fantastic solution
   for easing the stress of cooking on your first night of your holiday. Our home-cooked
   dishes provide a delicious and convenient way to feed the whole family within minutes
-  of your arrival.These meals are preordered and will be waiting for you in your dome,
-  ready to be reheated and served. All you need to do is bring along some rice or
-  pasta to complete your meal! With our one-pot offerings, you can settle in and enjoy
-  your time together without the fuss of cooking after a long journey. Let us take
-  care of dinner so you can focus on relaxing and making the most of your stay!
+  of your arrival. These meals are preordered and will be waiting for you in your
+  dome, ready to be reheated and served. All you need to do is bring along some rice
+  or pasta to complete your meal! With our one-pot offerings, you can settle in and
+  enjoy your time together without the fuss of cooking after a long journey. Let us
+  take care of dinner so you can focus on relaxing and making the most of your stay!
 One Pot Meals:
 - Title: Chicken and Chorizo Ragu
   Description: A tomato based mildly spiced with smoky paprika and Spanish chorizo
