@@ -75,38 +75,38 @@ Breakfast hampers:
   Image: "/assets/images/Chicken-Chorizo-Pot.jpg"
 - Title: Large Hamper £68 (Veggie option minus meat £55)
   Description: |-
-    12 Farmer Lou Lincolnshire sausages
-    12 Farmer Lou dry cured back bacon
-    4 large Hambleton Bakery breakfast muffins
-    4 Hambleton Bakery croissants
-    1 large Hambleton bakery whole-meal loaf
-    1 jar Barlow's of Belvoir marmalade or jam
-    12 local free range eggs
-    500g Hambleton bakery granola
-    2 litres of semi skimmed milk
-    250g Two Chimps ground coffee
-    250g butter
-    2 litres of freshly squeezed orange juice
+    — 12 Farmer Lou Lincolnshire sausages
+    — 12 Farmer Lou dry cured back bacon
+    — 4 large Hambleton Bakery breakfast muffins
+    — 4 Hambleton Bakery croissants
+    — 1 large Hambleton bakery whole-meal loaf
+    — 1 jar Barlow's of Belvoir marmalade or jam
+    — 12 local free range eggs
+    — 500g Hambleton bakery granola
+    — 2 litres of semi skimmed milk
+    — 250g Two Chimps ground coffee
+    — 250g butter
+    — 2 litres of freshly squeezed orange juice
   Image: "/assets/images/Chilli-Blackened-Peppers.jpg"
 - Title: Small Vegan Hamper £38
   Description: |-
-    4 large Hambleton Bakery Breakfast muffins
-    1 small Hambleton bakery seven cereal loaf
-    1 jar of Barlow’s of Belvoir marmalade or jam
-    500g Hambleton Bakery granola. 2 litres of Oatly Organic Oat Milk
-    1 litre of fresh orange juice
-    250g Two Chimps ground coffee
-    350g Coconut dairy free natural yogurt alternative
+    — 4 large Hambleton Bakery Breakfast muffins
+    — 1 small Hambleton bakery seven cereal loaf
+    — 1 jar of Barlow’s of Belvoir marmalade or jam
+    — 500g Hambleton Bakery granola. 2 litres of Oatly Organic Oat Milk
+    — 1 litre of fresh orange juice
+    — 250g Two Chimps ground coffee
+    — 350g Coconut dairy free natural yogurt alternative
   Image: "/assets/images/Vegan-Chilli-.jpg"
 - Title: Large Vegan Hamper £50
   Description: |-
-    8 large Hambleton Bakery breakfast muffins
-    1 large Hambleton Bakery whole-meal loaf
-    1 jar of Barlow’s of Belvoir marmalade or jam
-    500g Hambleton bakery granola
-    2 Litres of fresh orange juice
-    250g Two Chimps ground coffee
-    350g Coconut dairy free natural yogurt alternative 3 litres of Oatly Organic Oat Milk
+    — 8 large Hambleton Bakery breakfast muffins
+    — 1 large Hambleton Bakery whole-meal loaf
+    — 1 jar of Barlow’s of Belvoir marmalade or jam
+    — 500g Hambleton bakery granola
+    — 2 Litres of fresh orange juice
+    — 250g Two Chimps ground coffee
+    — 350g Coconut dairy free natural yogurt alternative 3 litres of Oatly Organic Oat Milk
   Image: "/assets/images/Vegan-Chilli-.jpg"
 layout: feasting
 ---
