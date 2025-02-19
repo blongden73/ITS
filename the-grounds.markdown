@@ -53,11 +53,13 @@ Dome 2 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 3 Title: Dome 3 - Hambleton
-Dome 3 Description: Greetham, is named after our local village, situated a short walk
-  along the brook from the campsite. A Beautiful dome decorated in blues and greys.
-  This dome has the uninterrupted view over the brook and the golf course beyond.
-  Set the furthest down the field and boasting the most private hot tub. This dome
-  kitchen faces west for the evening sunset.
+Dome 3 Description: Nestled into the hillside, this dome offers elevated views that
+  will take your breath away. Inside, you’ll find an eclectic mix of handpicked retro
+  furniture, including a unique coach seat that adds character and comfort to your
+  stay. Venture outside and ascend the steps carved into the hillside leading to your
+  private hot tub, where the stunning vistas continue to unfold. As the sun sets,
+  you’ll be treated to a spectacular display of colours that will leave you in awe.
+  What more could you possibly need?
 Dome 3 Images:
 - "/assets/images/dome1/1.jpg"
 - "/assets/images/dome1/2.jpg"
