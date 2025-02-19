@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: home
 Home Carousel Images:
 - assets/images/ITS-carousel-home.jpg
 - assets/images/DSC8899-Edit.jpg
@@ -32,7 +31,7 @@ Featured in logos:
 - assets/images/image 3.png
 - assets/images/image 5.png
 - assets/images/image 4.png
-Home About Section Three Title: New Section
+Home About Section Three Title: Sleep
 Home About Section Three Text: Reconnect with nature, unwind, and spend quality time
   away from the noise. Explore our unique interiors and enjoy modern amenities surrounded
   by the outdoors.
@@ -40,5 +39,6 @@ Home About Section Three Image: assets/images/phones-off-fire.jpg
 Awarded in Images:
 - assets/images/aaaward.png
 - assets/images/shortlisted_award.png
+layout: home
 ---
 
