@@ -12,26 +12,26 @@ SectionDescription: Our original mezzanine design offers a unique upper-floor be
   of the master bedroom, our domes are not just accommodation; they are a sanctuary
   where you can relax and enjoy the beauty of nature without compromising on comfort.
 Dome Features:
-- Title: Ensuite Showers rooms with flushing WC
-  Description: "\n\n"
-- Title: Chesterfield leather sofas
-  Description: 
+- Title: Ensuite Showers rooms
+  Description: " With flushing WC."
+- Title: Chesterfield sofas
+  Description: Made with real leather for luxurious comfort.
 - Title: Log burners
-  Description: 
+  Description: Description to go here.
 - Title: Downstairs king size beds
-  Description: 
+  Description: Description to go here.
 - Title: Upstairs mezzanine
   Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
 - Title: Chest full of board games
-  Description: "\n"
+  Description: Description to go here.
 - Title: Hanging chair
-  Description: 
+  Description: Description to go here.
 - Title: Personal log fired hot tub
-  Description: "(additional cost of £45)"
+  Description: "(Additional cost of £45)."
 - Title: Personal kitchen
-  Description: "(with pizza oven and 2 ringed gas hob)"
+  Description: "(With pizza oven and 2 ringed gas hob)."
 - Title: Covered outdoor seating area
-  Description: 
+  Description: Description to go here.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Description: Offering the utmost privacy to its guests. With its serene location
   near a soothing babbling brook, this dome provides uninterrupted views of the surrounding
