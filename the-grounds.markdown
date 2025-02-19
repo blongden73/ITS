@@ -31,22 +31,26 @@ Dome Features:
   Description: "Greetham, is named after our local village, situated a short walk
     along the brook from the campsite.\n\n"
 Dome 1 Title: Dome 1 - Greetham
-Dome 1 Description: Greetham, is named after our local village, situated a short walk
-  along the brook from the campsite. A Beautiful dome decorated in blues and greys.
-  This dome has the uninterrupted view over the brook and the golf course beyond.
-  Set the furthest down the field and boasting the most private hot tub. This dome
-  kitchen faces west for the evening sunset.
+Dome 1 Description: Offering the utmost privacy to its guests. With its serene location
+  near a soothing babbling brook, this dome provides uninterrupted views of the surrounding
+  landscape, making it an ideal retreat for couples or anyone seeking a tranquil getaway.
+  The interior is beautifully decorated in calming blue and grey tones, creating a
+  peaceful atmosphere that encourages relaxation and rejuvenation. Greetham is a beloved
+  choice for those looking to escape the hustle and bustle of everyday life and immerse
+  themselves in nature’s beauty.
 Dome 1 Images:
 - "/assets/images/dome1/1.jpg"
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 2 Title: Dome 2 - Barrow
-Dome 2 Description: Greetham, is named after our local village, situated a short walk
-  along the brook from the campsite. A Beautiful dome decorated in blues and greys.
-  This dome has the uninterrupted view over the brook and the golf course beyond.
-  Set the furthest down the field and boasting the most private hot tub. This dome
-  kitchen faces west for the evening sunset.
+Dome 2 Description: Ideally located at the base of the valley, providing easy access
+  for our less able-bodied visitors. Its vibrant Moroccan-inspired design features
+  enchanting splashes of orange and turquoise, creating a lively and inviting atmosphere.
+  Guests can enjoy breathtaking views overlooking the nearby golf course, making it
+  a visual delight. Barrow also boasts a lovely private outdoor seating area, perfect
+  for savouring morning coffee or unwinding in the evening sun. This dome is a cherished
+  favourite for those seeking an accessible escape in nature.
 Dome 2 Images:
 - "/assets/images/dome1/1.jpg"
 - "/assets/images/dome1/2.jpg"
@@ -66,33 +70,41 @@ Dome 3 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 4 Title: Dome 4 - Exton
-Dome 4 Description: Greetham, is named after our local village, situated a short walk
-  along the brook from the campsite. A Beautiful dome decorated in blues and greys.
-  This dome has the uninterrupted view over the brook and the golf course beyond.
-  Set the furthest down the field and boasting the most private hot tub. This dome
-  kitchen faces west for the evening sunset.
+Dome 4 Description: With its warm and inviting decor in beautiful shades of pink and
+  red, Exton is designed to make you feel right at home. The east-facing kitchen and
+  outdoor seating area are ideal for those who cherish morning moments bathed in sunlight,
+  making breakfast al fresco a delightful experience. Set at the base of the valley,
+  Exton is our second most accessible dome, featuring just one step down from the
+  kitchen to your dome and a hot tub conveniently located on the same level. It’s
+  the perfect blend of comfort and charm, inviting you to relax and soak in the beauty
+  of your surroundings.
 Dome 4 Images:
 - "/assets/images/dome1/1.jpg"
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 5 Title: Dome 5 - Clipsham
-Dome 5 Description: Greetham, is named after our local village, situated a short walk
-  along the brook from the campsite. A Beautiful dome decorated in blues and greys.
-  This dome has the uninterrupted view over the brook and the golf course beyond.
-  Set the furthest down the field and boasting the most private hot tub. This dome
-  kitchen faces west for the evening sunset.
+Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touch for
+  those who appreciate a little extra space. Nestled into the hillside, Clipsham offers
+  fantastic elevated views from both the hot tub and the cozy seating area, allowing
+  you to bask in the beauty of your surroundings. Its calming green tones create an
+  elegant and peaceful ambiance, making it an ideal retreat for relaxation. Located
+  on the opposite side of the valley from our event space, Clipsham is particularly
+  convenient for groups attending events, ensuring you have a serene escape just a
+  stone's throw away.
 Dome 5 Images:
 - "/assets/images/dome1/1.jpg"
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 6 Title: Dome 6 - Normanton
-Dome 6 Description: Greetham, is named after our local village, situated a short walk
-  along the brook from the campsite. A Beautiful dome decorated in blues and greys.
-  This dome has the uninterrupted view over the brook and the golf course beyond.
-  Set the furthest down the field and boasting the most private hot tub. This dome
-  kitchen faces west for the evening sunset.
+Dome 6 Description: Conveniently located just a five-minute walk from the car park.
+  This dome also has a walk in wardrobe and is situated alongside Dome 5 on a hillside
+  that boasts stunning elevated views and spectacular sunsets. Families will appreciate
+  the outdoor seating area, where parents can relax while keeping an eye on their
+  children playing in the distance. The design of the dome includes gently sloping
+  steps leading to the mezzanine, making it more accessible for small children and
+  guests with mobility challenges.
 Dome 6 Images:
 - "/assets/images/dome1/1.jpg"
 - "/assets/images/dome1/2.jpg"
