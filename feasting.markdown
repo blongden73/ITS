@@ -26,7 +26,7 @@ Pizza & Steak Nights Images:
 - "/assets/images/image-2.jpg"
 - "/assets/images/image-2.jpg"
 One Pot Meals Description: Our one-pot meals have proven to be a fantastic solution
-  for easing the stress of cooking on your first night of your holiday. Our homecooked
+  for easing the stress of cooking on your first night of your holiday. Our home-cooked
   dishes provide a delicious and convenient way to feed the whole family within minutes
   of your arrival.These meals are preordered and will be waiting for you in your dome,
   ready to be reheated and served. All you need to do is bring along some rice or
