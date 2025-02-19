@@ -1,10 +1,16 @@
 ---
 title: The Grounds
 permalink: "/the-grounds/"
-SectionDescription: "“Smoke ‘n Stix” is our new communal dining and event space located
-  next to our large communal firepit. Boasting a field kitchen, large wood fired oven
-  and bbq area. Guests enjoy being able to communally dine for any celebration they
-  choose. this"
+SectionDescription: Our original mezzanine design offers a unique upper-floor bedroom
+  that adds a touch of excitement to your glamping experience, making it a perfect
+  sleeping space for both adults and children. Accessed by charming wooden steps,
+  this cozy loft style space is an adventure waiting to be enjoyed. Meanwhile, downstairs,
+  our beautiful master bedroom provides a spacious and serene sleeping environment,
+  ensuring a restful night’s sleep. With ample room to accommodate a cot if needed,
+  this inviting space is perfect for families, allowing everyone to relax and unwind
+  in comfort. Whether you’re snuggled up on the mezzanine or enjoying the tranquillity
+  of the master bedroom, our domes are not just accommodation; they are a sanctuary
+  where you can relax and enjoy the beauty of nature without compromising on comfort.
 Dome Features:
 - Title: Ensuite Showers rooms with flushing WC
   Description: "\n\n"
