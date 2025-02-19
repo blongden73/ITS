@@ -30,7 +30,7 @@ Dome Features:
   Description: "(Additional cost of £45)."
 - Title: Personal kitchen
   Description: "(With pizza oven and 2 ringed gas hob)."
-- Title: Covered outdoor seating area
+- Title: "Covered outdoor \nseating area"
   Description: Description to go here.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Description: Offering the utmost privacy to its guests. With its serene location
