@@ -112,10 +112,20 @@ Dome 6 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
-Field Kitchen Text: "New for 2021, Normanton is the first dome you approach from the
-  carpark. High on the hillside it has a view straight down the valley. Perfect for
-  the evening sunsets. Styled with our eclectic choice of furnishings, the dome has
-  a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!\n\n"
+Field Kitchen Text: Each dome at our location comes equipped with a private field
+  kitchen, providing guests with a dedicated dining area that accommodates up to six
+  people. These kitchens are separate structures from the domes, ensuring privacy
+  and convenience for your culinary adventures.You will find a fully stocked kitchen
+  featuring  a two-ring gas hob, a log oven, or a charcoal ceramic egg grill (depending
+  on which dome you choose). Each kitchen is kitted out with everything you could
+  possibly need, including pots, pans, crockery, cutlery and glassware.We also supply
+  a range of kitchen essentials to make your stay as comfortable as possible. This
+  includes tea, coffee, sugar, olive oil, bin bags, kitchen towels, cling film, tinfoil,
+  salt, pepper, and much more! For your convenience, food can be kept fresh in a giant
+  coolbox, which we provide along with freezer blocks to ensure your perishables stay
+  cold.With these amenities, you can enjoy the freedom of outdoor cooking and dining
+  while saving yourself the stresses of having to remember to bring everything, it
+  has all been thought out for you.
 Field Kitchen Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -124,26 +134,50 @@ Fire Pit Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Fire Pit Text: "New for 2021, Normanton is the first dome you approach from the carpark.
-  High on the hillside it has a view straight down the valley. Perfect for the evening
-  sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking
-  chair and a beautiful antique slipper chair, plus all our standard pieces!\n\n"
+Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
+  an impressive 8-meter span that invites everyone to gather. This spacious setup
+  allows guests from all the domes to come together, fostering a sense of community
+  and connection.Logs for the fire are conveniently supplied and can be found in your
+  dedicated log sheds, ensuring you always have what you need to keep the flames roaring.
+  It’s the perfect spot to relax with friends and family, share stories, and get to
+  know fellow campers.As the sun sets, you can toast marshmallows, enjoy some star
+  gazing, and even have a sing-along, creating unforgettable memories under the \nnight
+  sky. Whether you’re savouring a drink in hand or simply enjoying the soothing sounds
+  of the crackling fire, this communal area is an ideal setting for relaxation and
+  camaraderie. Come and experience the warmth and joy that the fire pit brings to
+  your stay!"
 Play Area Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Play Area Text: "New for 2021, Normanton is the first dome you approach from the carpark.
-  High on the hillside it has a view straight down the valley. Perfect for the evening
-  sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking
-  chair and a beautiful antique slipper chair, plus all our standard pieces!\n\n"
+Play Area Text: Our dedicated play area is located at the opposite end of the field
+  from the domes, providing a safe and spacious environment for children to run free
+  and explore. This fantastic space features a large play structure that includes
+  a tree house, two slides, a climbing wall, and three swings, ensuring endless fun
+  for kids of all ages.In addition to the play structure, there’s a designated football
+  area complete with two goals, perfect for friendly matches and active play. The
+  natural surroundings allow children to roam freely, make dens in the wooded areas,
+  or paddle in the nearby brook—ideal for adventurous little ones, with or without
+  their wellies!This play area is truly a paradise for children, offering them the
+  opportunity to connect with nature, engage in imaginative play, and create cherished
+  memories. Parents can relax knowing their kids are safe and living their best lives
+  in this fantastic outdoor setting.
 Sauna Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Sauna Text: "New for 2021, Normanton is the first dome you approach from the carpark.
-  High on the hillside it has a view straight down the valley. Perfect for the evening
-  sunsets. Styled with our eclectic choice of furnishings, the dome has a rocking
-  chair and a beautiful antique slipper chair, plus all our standard pieces!\n\n"
+Sauna Text: Introduced in 2024 our new log-fired barrel sauna is set to enhance your
+  experience at our site! Available for hire for three-hour sessions (for guests staying
+  with us) or enjoy this on our new spa days. This unique sauna provides the perfect
+  opportunity to relax and unwind while enjoying stunning views. Positioned at the
+  highest point of the site, you'll be treated to breathtaking far-reaching vistas
+  over Exton Park.In addition to the sauna, we offer a cold outdoor shower for those
+  looking to embrace the benefits of hot and cold therapy. And coming in 2025, we
+  will feature a cold outdoor plunge in a charming Victorian bath, adding another
+  element to your wellness experience.The location is also perfect for witnessing
+  the most incredible sunsets, so we highly recommend booking an evening session to
+  truly make the most of this magical experience. Treat yourself to a moment of tranquillity
+  and let nature rejuvenate your spirit!
 layout: the-grounds
 ---
 
