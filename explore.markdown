@@ -9,13 +9,10 @@ Explore Locations Grid:
     amazing pubs, restaurants, shops and wonderful bakeries.\n\n"
 - Image: "/assets/images/oakham.jpg"
   Title: Stamford
-  Description: It is known for its castle, although Oakham Castle is not actually
-    a castle but a Norman manor house built between 1180-1190. It is thought to be
-    one of the finest examples of late 12th century architecture in England. The Great
-    Hall still remains intact today and is still used for occasional crown courts
-    and for weddings. Having just received a substantial grant from the Heritage Lottery
-    Fund it is well worth a visit. Admission is free  – check the website for opening
-    times www.rutland.gov.uk
+  Description: "Stamford is an equally interesting old market town. With its many
+    cobbled streets and alleyways it is a very attractive town to explore. With architecture
+    ranging from medieval times to a more dominant Georgian presence. It is well worth
+    a visit with Market day on Friday and farmers market alternate Fridays. \n\n[www.stamford.co.uk](www.stamford.co.uk)"
 - Image: "/assets/images/stamford.jpg"
   Title: Oakham
   Description: "Rutland and the surrounding area are rich with a wonderful variety
