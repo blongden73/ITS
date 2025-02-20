@@ -4,8 +4,6 @@ permalink: "/faqs/"
 layout: standard
 ---
 
-This is temporary text to see how the design looks. 
-
 # Heading one test
 ## Heading two test
 ### Heading three test
@@ -13,88 +11,76 @@ This is temporary text to see how the design looks.
 *Italics test
 
 
-The Hudnalls Hideout is committed to protecting and respecting your privacy. We believe you should always know what data we collect from you and how we use it. That’s the purpose of this Privacy Policy.
-This privacy notice sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+Q: Is there a minimum age to book? 
+A: Minimum booking age is 30, we will consider younger bookings but they must be agreed in advance with the owners before any booking commences.
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Q: Do all the domes have their own hot tub?
+A: All our domes are equipped with their very own wood fired hot tub, idle away the day or evening whilst enjoying a glass of your favourite tipple.
 
-For the purposes of data protection legislation in force from time to time the data controller is HH (Wye Valley) Ltd t/a The Hudnalls Hideout at Hudnalls Loop Road, The Common, St Briavels, Glos, GL15 6SG.
+Q: Can we have guests join us on site?
+A: In the interest of protecting the integrity for our other site users, we kindly ask that a maximum of 2 people per dome are welcome to join you during the day. we kindly ask that all guests sign in at reception, and vacate the site by 20.30These guests are not permitted to stay overnight.
 
-## **Who we are**
-The Hudnalls Hideout (“We”) acts as a self-catering holiday let luxury treehouse.
+Q: Do you charge a security deposit?
+A: Yes we do charge a deposit which is fully refundable within 72hrs of the departure date and after checking that no damage or breakages have occurred and having received your bank details for the transfer.The charge is £100 per booking, this must be paid in advance of your booking. Guests are liable for the full cost of any breakages that occur in excess of the deposit amount. (as per our terms & conditions)
 
-### **The website**
-This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies with all UK national laws and requirements for user privacy.
+Q: What time can we arrive?
+A: Your dome will be ready from 4pm. We are there to welcome guest between 4.00 pm and 6.30 pm. Please advise us if you will be arriving late so there is someone to greet you. Please note that guests checking in later than 6.30pm will incur a small charge of £20.
 
-Use of cookies
-What are cookies?
-Cookies are small files saved to the user’s computer’s hard drive that track, save and store information about the user’s interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.
+Q: What do I need to bring?
+A: All linens and towels are included in the price. All your pillows, duvets and additional blankets, for those chilly nights, can be found in your domes. You only need to bring your wellies and your food.
 
-What do we use cookies for?
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses analytical/performance cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information.
+Q: What cooking facilities are there?
+A: Each dome has it’s own private field kitchen. This will contain a log fired oven for cooking, this will be perfect for everything from your slow cooked casseroles, to your fry ups or pizzas. There is a two ringed gas hob for quick and easy cup of tea and quick pasta dishes. Each Kitchen is equipped with pots and pans, crockery, cutlery and cooking utensils. There is a kitchen sink with hot and cold running wate
 
-Should users wish to deny the use and saving of cookies from this website onto their computer’s hard drive, they should take necessary steps within their web browser’s security settings to block all cookies from this website and its external serving vendors.
+Q: Is there a fridge?
+A: There are large cool boxes, which are kept cold by the use of freezer blocks. These can be replaced as often as necessary, by swapping for new ones at the freezer in reception.
 
-Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+Q: Do you have mobile signal or Wifi on site?
+A: Our aim is to have people totally relax during their stay with us. The kids put down their Ipads and the parents stop answering their emails. The wifi and mobile connection is therefore down to your own individual provider.
 
-Personal Information
-Whilst using our website, software applications or services, you may be required to provide personal information (name, address, email, account details, etc.). We will use this information to administer our website, applications, client databases and marketing material. We will ensure that all personal information supplied is held securely in accordance with the General Data Protection Regulation (EU) 2016/679, as adopted into law of the United Kingdom in the Data Protection Act 2018. Further, by providing telephone, fax and email details, you consent to The Hudnalls Hideout contacting you using that method. You have the right at any time to request a copy of the personal information we hold on you. Should you wish to receive a copy of this, or would like to be removed from our database, please contact us at marketing@hudnallshideout.co.uk.
+Q: Do you have electric on site?
+A: There is no electricity on site. We light the site through solar and 12 volt lighting. This is to reduce light pollution from the site. You will appreciate this when the stars come out!
 
-Information collection and use
-How do we collect information?
-We collect information in two possible ways:
+Q: Do you accept large single sex bookings? (Hen or stag do's)
+A: Sadly, due to past experiences, we only allow single sex bookings of up to 6 people. We reserve the right to ask any guest who is not respecting our site and other guests to leave.
 
-a. When you directly give it to us (“Directly Provided Data”)
-When you visit our website, purchase our services, or communicate with us, you may choose to voluntarily give us certain information to make an enquiry or download information from the site. All this information requires a direct action by you at that time in order for us to receive it.
+Q: Can we pitch additional tents next to our dome?
+A: We regret that we do not allow tents on site
 
-b. When you give us permission to obtain from other accounts (“User Authorised Data”)
+Q: How many can each dome sleep?
+A: Each dome can be tailored to your needs, sleeping a maximum of 6 in beds, made up as doubles or singles, with 1 additional cot.
 
-Depending on your settings or the privacy policies for other online services, you may give us permission to obtain information from third party sites. For example, this can be via social media or by choosing to send us your location data when accessing our website from your smartphone.
+Q: What bathroom facilities are there?
+A: Each dome comes with it’s own en-suite, containing a shower, sink (hot and cold running water) and a flushing WC.
 
-How long do we keep your data for?
-We will not retain your personal information longer than necessary. We will hold onto the information you provide either while your client account is in existence, or as needed to be able to provide the services to you.
+Q: Can we light campfires or BBQ's?
+A: Unfortunately we cannot have campfires or BBQs on site. We have created a communal fire-pit where all guests are welcome to lights fires, or use it to toast marshmallows, (a great way to make new friends). Each kitchen comes with its own wood fired pizza oven, which is very versatile. You can cook anything from pizzas to BBQs and roast dinners.
 
-If legally required or if it is reasonably necessary to meet regulatory requirements, resolve disputes, prevent fraud and abuse, or enforce our Terms and Conditions, we may also retain some of your information for a limited period of time as required.
+Q: Can we have music on site?
+A: We regret that we cannot have any amplified music whatsoever on site, however a guitar around the campfire is allowed! We ask our guests to please respect your neighbours and that noise is kept to a minimum after 10.30pm. Please note failure to comply with this could result in your eviction from the site.
 
-We will not sell or rent your personally identifiable information, gathered from this website, to anyone.
+Q: Can we drive to the dome to unload the car?
+A: We have kept our site free from vehicles, so children and animals can play in safety. All vehicles can be parked in the car park where you can obtain a wheelbarrow to assist you with transporting your luggage.
 
-Where we process your data
-We process data at in the UK and (under contract) at the sites of data processors and third parties appointed by us. Some of these processors may be outside the EEA.
+Q: Can we brig the dog?
+A: We welcome friendly and well-trained dogs. We request that dogs are kept on a lead around the campsite, and that owners are vigilant in picking up after their dogs on site and on the lead when walking near livestock. We request that they are not allowed on furniture or beds. There is an extra cleaning charge of £25 per stay.
 
-We apply UK data protection law to our processing.
+Q: What is there for children to do?
+A: We have a lovely little brook which the children love to play in. Please be aware all children need to be supervised near the water. There are some perfect trees to climb and dens to be made, which our children will happily share with you! There is lots of field meadow for them to run around in safely (as we do not allow cars or bikes onto the site) ball games are permitted. For nearby entertainment please see our list in local attractions. We also have a large play structure with slides, swings and a climbing wall. There are two goals set up so the children can enjoy a game of football.
 
-Grounds for processing your data
-We undertake activities for the following reasons
+Q: What does the price include?
+A: The price includes everything you need for the duration of your stay except additional firewood used for the outdoor wood ovens and internal log burners.
 
-In pursuance of our legitimate interests as a commercial organisation, including the promotion and marketing of our brand and services;
-To enable us to fulfil any contractual obligations that may exist when you make a booking and purchase any of our services;
-Based on your consent (if applicable).
-Who we may share your data with
-To undertake our legitimate business interests and provide you with the marketing services you have requested, we will sometimes have to share your data with third parties, including business partners, suppliers and contractors that we use to undertake our business activities.
+We have had to introduce a cost for the use of the hot tubs. This is just £40 which goes to help towards the cost of cleaning and refilling the tubs and also for the logs and chemicals used and the daily monitoring of the water.
 
-We use a third party provider, Mail Chimp, to deliver our email marketing communications. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our communications to you. For more information, please see Mail Chimp’s Privacy Notice.
+We have also added a late check out option (only available on Sundays when booking out of high season) and an early check in option (only 2 available per change over)
 
-Accessing and updating the data we hold
-We understand that you trust us with your personal information and we are committed to ensuring you can manage the privacy and security of your personal information yourself.
+Q: Can I hire a cot?
+A: Yes we have full sized travel cots (free of charge) with an additional mattress, please let us know in advance and we will set it up prior to your arrival. We can also provide high chairs on request free of charge.
 
-With respect to the information relating to you that ends up in our possession, and recognising that it is your choice to provide us with your personally identifiable information, we commit to giving you the ability to do all of the following:
+Q: How many domes do you currently have on site?
+A: We currently have 6 domes onsite.
 
-You can verify the details you have submitted to us by contacting marketing@hudnallshideout.co.uk. Our security procedures mean that we may request proof of identity before we reveal information, including your email address and possibly your address.
 
-You can also contact us by the same method to change, correct, or delete your personal information controlled by us regarding your profile at any time. Please note though that, if you have shared any information with others through social media channels, that information may remain visible, even if your account is deleted.
 
-You can always feel free to update us on your details at any point by email.
 
-You can unsubscribe from receiving marketing emails from us by clicking the “unsubscribe” link at the bottom of any email. Once you do this, you will no longer receive any marketing emails from us. However, we may retain archived copies of your information as required by law or for legitimate business purposes.
-
-You can request a readable copy of the personal data we hold on you at any time. To do this, please contact us at marketing@hudnallshideout.co.uk.
-
-Updates to this policy
-Please note, we are constantly reviewing how we process and protect your data. Therefore, changes to our policy may occur at any time. We will endeavour to publicise any changes but please check back frequently to see any updates or changes to our privacy policy on this site.
-
-Concerns or complaints
-If you have any complaints about how we are collecting, storing or processing your data, please contact us by email at marketing@hudnallshideout.co.uk.
-
-You may also complain to the ICO (Information Commissioners Office), the UK’s independent authority set up to uphold information rights in the public interest, promoting openness by public bodies and data privacy for individuals.
-
-Last updated: 31st January 2020
