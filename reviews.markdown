@@ -14,10 +14,12 @@ Field name:
 
     Review by:
     Kathryn K
-- Name: Lorem
-  Review: Rutland and the surrounding area are rich with a wonderful variety of organically
-    grown and ethically sourced food, supporting many local farmers, amazing pubs,
-    restaurants, shops and wonderful bakeries.
+- Name: Perfection
+  Review: |-
+    Absolutely gorgeous! One of the best glamping stays we've done. The bed is unbelievably comfy, the domes are immaculate and the site is beautiful. There is everything you could possibly need. Alex is an amazing host, friendly and down to earth without being imposing. The Plough in town does fabulous burgers, the Wheatsheaf does lovely food and a friendly atmosphere, both a 15 min walk. If you've got a designated driver the Grainstore in oakham which is a short drive (15 min) does a good selection of ales and a mean steak and ale pie. Rutland water is a good couple of days out with lots to deplore and do. All in all well worth a visit. Thanks Alex x
+
+    Review by:
+    Carol Davies
 - Name: Perfect location for special occasions
   Review: |-
     We chose In The Stix to celebrate our 20th wedding anniversary as we’d stayed in the domes before and knew it would be a great location. We had 100 guests, many of whom stayed on-site; either in the domes or camping in the additional field. From beginning to end we were looked after by the owners Alex & Darren who made sure we had an amazing weekend. We had caterers for the main meal and a bar for the evening, but In The Stix also provided delicious breakfast hampers and meal pots for anyone who needed it – so no-one went hungry! Alex organised everything for us including the caterers, the bar, the photographer and a licence for the event so that we could have music outside until late. We used many different parts of the site; the woods for our ceremony, the brook for cutting the cake and the event space for our food. The event space was used again on Sunday for homemade pizzas, and all those staying in the domes enjoyed a relaxing hot-tub. We had so much positive feedback from all our friends and family who all agreed it was the perfect weekend, and we now have so many happy memories to look back on – thank you In The Stix.
