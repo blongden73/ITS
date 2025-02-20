@@ -25,13 +25,41 @@ Field name:
     Review by:
     velvet4real
 - Name: Relax and unwind
-  Review: Friendly and welcoming. A great place to relax and unwind without the fuss
-    of organising all the camping gear. Great facilities, a beautiful area and lovely
-    starry nights.
-- Name: Lorem
-  Review: Rutland and the surrounding area are rich with a wonderful variety of organically
-    grown and ethically sourced food, supporting many local farmers, amazing pubs,
-    restaurants, shops and wonderful bakeries.
+  Review: |-
+    Friendly and welcoming. A great place to relax and unwind without the fuss of organising all the camping gear. Great facilities, a beautiful area and lovely starry nights.
+
+    Review by:
+    Wanderer402946
+- Name: Perfect, whatever the weather.
+  Review: |-
+    Second time staying at In The Stix and definitely won't be the last. It's honestly brilliant in every way even on the grey days. Great accommodation, great location, great hosts..go there!!!
+
+    Review by:
+    Mark B
+- Name: A wonderful introduction to camping for the kids!
+  Review: |-
+    We have just come back from a fabulous mid-week break at in the stix. The accommodation was lovely - it felt like the perfect introduction for my kids to camping, feelings simultaneously out-doorsy with all the joys of camping, without the need to cart all the gear all the way and with some luxuries that meant camping with kids still felt like a holiday! Alex & Duncan made us feel welcome and we’re really quick to help with anything we needed including refills of tin foil etc. All the essentials were included, and a generous amount of logs to keep all the fires burning all week. Couldn’t fault the experience one bit, and Rutland provided lots of nearby family friendly days out too (helped also by the Welcome Pack explaining what was nearby).
+
+    Review by:
+    Caroline B
+- Name: In The Stix's really know how to put the Glamour into Camping!
+  Review: |-
+    We really enjoyed our stay at In The Stix. The Pods and facilities are excellent. The bathroom really exceeded our expectations and was as good as most hotel bathrooms, very impressed. The wood burning stove in the pods are a welcome addition and Jane's (site Manager) hand over was perfect, meaning we had no problems getting it lit. It really helps take the chill out of the air. We also made use of the wood burning oven and hot tub. You have to be patient when heating the hot tub, it can take up to 3 hours, but when it's up to temperature they really are great. The sight itself is really well laid out, with plenty of room between pods and the location is fab too. We made the most of the recommendations and went to 2 of the gastro pubs and made the most of the local attractions. Overall we had a fab time and wouldn't hesitate in recommending.
+
+    Review by:
+    Philip M
+- Name: Peace in the Country
+  Review: |-
+    Excellent accommodation in a uniquely designed Dome for relaxing and sleeping with lovely views over the countryside. The pod and the detached kitchen have all the facilities you need. There is just a ten minute walk to the nearest village and it is worth booking ahead if you want to dine at the Wheatsheaf that serves excellent food.
+
+    Review by:
+    sticky233
+- Name: Relaxing escape especially if you enjoy outside cooking
+  Review: |-
+    We had this Glamping recommended to us by friends for a care free break from the world. It is a beautiful secluded venue. The glamping domes have everything you need with real beds and bedding, a comfortable bathroom and my daughter’s favourite the hanging globe chair. The outdoor kitchen we had provided an efficient simple stove and large cool box. The Kamado Egg bbq was excellent and we cooked every night. We opted to have the extra hot tub option and didn’t regret it, the tub is wood fired so you have to time heating it for use but once it’s warm it’s wonderful to sit and watch the sunset. We would definitely come back.
+
+    Review by:
+    Scott M
 layout: reviews
 ---
 
