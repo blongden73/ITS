@@ -7,7 +7,7 @@ layout: default
     <div class="hero-image">
         <div class="centred-content">
             <h4>{{ page.title }}</h4>
-            <p>Whether you are looking to have a festival style wedding, a luxurious bohemian party, a relaxed picnic – whatever your style and taste, our site is a blank canvas for your perfect celebration.</p>
+            <p>{{ page.["Hero Description"] }}</p>
         </div>
         <img src="/assets/images/wellness.jpg"> 
     </div>
@@ -18,7 +18,7 @@ layout: default
         <div class="container flex">
             <div class="left">
             <h4>SPA DAYS</h4>
-            <p>{{ page.["Spa Days Description"] }}</p>
+            <p>{{ page.["Spa Days Description"] | markdownify }}</p>
             <a href="/book-now/#spa" class="btn">Book Now</a>
             </div>
             <div class="right">
@@ -34,7 +34,7 @@ layout: default
         <div class="container flex">
             <div class="left">
             <h4>RETREATS</h4>
-            <p>{{ page.["Retreats Description"] }}</p>
+            <p>{{ page.["Retreats Description"] | markdownify }}</p>
             <a href="/book-now/#spa" class="btn">Book Now</a>
             </div>
             <div class="right">
@@ -50,7 +50,7 @@ layout: default
         <div class="container flex">
             <div class="left">
             <h4>YOGA</h4>
-            <p>{{ page.["YOGA Description"] }}</p>
+            <p>{{ page.["YOGA Description"] | markdownify }}</p>
             <a href="/book-now/#spa" class="btn">Book Now</a>
             </div>
             <div class="right">

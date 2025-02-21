@@ -21,7 +21,7 @@ layout: default
                 T: <a href="tel:+44{{ number | remove: ' ' }}">{{ number }}</a>{% unless forloop.last %} / {% endunless %}
                 {% endfor %}
             </p>
-            <p class="smaller-text">For precise location</p>
+            <p class="smaller-text">For precise location:</p>
             <p class="flex-www"><img src="/assets/images/what3wrods.png"><a href="https://w3w.co/cool.actors.showrooms">{{ site.data.contact.what3words }}</a></p>
         </div>
         </div>

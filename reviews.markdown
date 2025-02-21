@@ -1,6 +1,7 @@
 ---
 title: Reviews
 permalink: "/reviews/"
+Hero Description: What people say about us
 Field name:
 - Name: Amazing and recommend for ambulatory wheelchair users too
   Review: |-

@@ -11,6 +11,6 @@ layout: default
     {% if page.Image %}
         <img src="{{ page.Image }}">
     {% endif %}
-    {{page.content}}
+    {{page.content | markdownify }}
 </div>
 </section>

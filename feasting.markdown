@@ -1,6 +1,8 @@
 ---
 title: Feasting
 permalink: "/feasting/"
+Hero Description: Discover locally sourced organic produce and enjoy exquisite dining experiences curated just for you.
+Intro Title: Locally sourced organic produce
 Smoke N Sticks Description: "Introducing Smoke n Stix, our unique event and outdoor
   kitchen space designed for unforgettable culinary experiences! Available for groups
   booking two domes or more, this versatile area allows you to cook and dine together

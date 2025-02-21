@@ -7,7 +7,7 @@ layout: default
     <div class="hero-image">
         <div class="centred-content">
             <h4>{{ page.title }}</h4>
-            <p>{{ page.content }}</p>
+            <p>{{ page.["Hero Description"] }}</p>
         </div>
         <img src="/assets/images/events.jpg"> 
     </div>
@@ -18,7 +18,7 @@ layout: default
         <div class="container flex">
             <div class="left">
             <h4>PARTIES</h4>
-            <p>{{ page.["Parties Description"] }}</p>
+            <p>{{ page.["Parties Description"] | markdownify }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
@@ -33,7 +33,7 @@ layout: default
         <div class="container flex">
             <div class="left">
             <h4>WEDDINGS</h4>
-            <p>{{ page.["Wedding Description"] }}</p>
+            <p>{{ page.["Wedding Description"] | markdownify }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
@@ -48,7 +48,7 @@ layout: default
         <div class="container flex">
             <div class="left">
             <h4>RETREATS</h4>
-            <p>{{ page.["Retreats Description"] }}</p>
+            <p>{{ page.["Retreats Description"] | markdownify }}</p>
             <a href="/book-now/#spa" class="btn">Book Now</a>
             </div>
             <div class="right">
@@ -64,7 +64,7 @@ layout: default
         <div class="container flex">
             <div class="left">
             <h4>BBQs</h4>
-            <p>{{ page.["bbqs Description"] }}</p>
+            <p>{{ page.["bbqs Description"] | markdownify }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">

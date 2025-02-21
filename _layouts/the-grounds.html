@@ -67,7 +67,7 @@ layout: default
                 <h3>Meadow</h3>
                 <p>This is a short description</p>
             </div>
-            <a class="btn" href="#dome-1">Jump to</a>
+            <a class="btn" href="#meadow">Jump to</a>
             
         </div>
         <div class="map-elements element-five">
@@ -85,7 +85,7 @@ layout: default
                 <h3>Dome 1 - <span>Barrow</span></h3>
                 <p>This is a short description</p>
             </div>
-            <a class="btn" href="#dome-3">Jump to</a>
+            <a class="btn" href="#dome-1">Jump to</a>
             
         </div>
         <div class="map-elements element-seven">
@@ -94,7 +94,7 @@ layout: default
                 <h3>Dome 3 - <span>Barrow</span></h3>
                 <p>This is a short description</p>
             </div>
-            <a class="btn" href="#dome-4">Jump to</a>
+            <a class="btn" href="#dome-3">Jump to</a>
             
         </div>
         <div class="map-elements element-eight">
@@ -130,7 +130,7 @@ layout: default
                 <h3>Brook</h3>
                 <p>This is a short description</p>
             </div>
-            <a class="btn" href="#sauna">Jump to</a>
+            <a class="btn" href="#brook">Jump to</a>
             
         </div>
         <div class="map-elements element-eleven">
@@ -148,7 +148,7 @@ layout: default
                 <h3>Parking</h3>
                 <p>This is a short description</p>
             </div>
-            <a class="btn" href="#deck">Jump to</a>
+            <a class="btn" href="#parking">Jump to</a>
             
         </div>
         <!-- fire pit right of kitchen -->
@@ -296,7 +296,7 @@ layout: default
         <div class="container flex">
             <div class="left">
                 <h4>Field Kitchen</h4>
-                <p>{{ page.["Field Kitchen Text"] }}</p>
+                <p>{{ page.["Field Kitchen Text"] | markdownify }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
@@ -311,7 +311,7 @@ layout: default
         <div class="container flex">
             <div class="left">
                 <h4>Fire Pit</h4>
-                <p>{{ page.["Fire Pit Text"] }}</p>
+                <p>{{ page.["Fire Pit Text"] | markdownify }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
@@ -326,7 +326,7 @@ layout: default
         <div class="container flex">
             <div class="left">
                 <h4>Play Area</h4>
-                <p>{{ page.["Play Area Text"] }}</p>
+                <p>{{ page.["Play Area Text"] | markdownify }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
@@ -341,12 +341,72 @@ layout: default
         <div class="container flex">
             <div class="left">
                 <h4>Sauna</h4>
-                <p>{{ page.["Sauna Text"] }}</p>
+                <p>{{ page.["Sauna Text"] | markdownify }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
                     {% for image in page.["Sauna Images"] %}
                     <div class="item"><img src="{{ image }}" alt="Sauna Image"></div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="deck" class="plan white ripped facilities-wrapper flex two-col">
+        <div class="container flex">
+            <div class="left">
+                <h4>Deck</h4>
+                <p>{{ page.["Deck Text"] | markdownify }}</p>
+            </div>
+            <div class="right">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Deck Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Deck Image"></div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="brook" class="plan white ripped facilities-wrapper flex two-col">
+        <div class="container flex">
+            <div class="left">
+                <h4>Brook</h4>
+                <p>{{ page.["Brook Text"] | markdownify }}</p>
+            </div>
+            <div class="right">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Brook Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Brook Image"></div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="meadow" class="plan white ripped facilities-wrapper flex two-col">
+        <div class="container flex">
+            <div class="left">
+                <h4>Meadow</h4>
+                <p>{{ page.["Meadow Text"] | markdownify }}</p>
+            </div>
+            <div class="right">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Meadow Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Meadow Image"></div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="parking" class="plan white ripped facilities-wrapper flex two-col">
+        <div class="container flex">
+            <div class="left">
+                <h4>Parking</h4>
+                <p>{{ page.["Parking Text"] | markdownify }}</p>
+            </div>
+            <div class="right">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Parking Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Parking Image"></div>
                     {% endfor %}
                 </div>
             </div>

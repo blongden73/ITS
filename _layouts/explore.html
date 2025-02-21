@@ -7,7 +7,7 @@ layout: default
     <div class="about">
         <div class="container">
             <h2>{{ page.title }}</h2>
-            <p>{{ page.content }}</p>
+            <p>{{ page.["Hero Description"] }}</p>
         </div>
     </div>
     <div class="grounds-map">
@@ -19,7 +19,7 @@ layout: default
             <div class="card">
                 <img src="{{ location.Image }}" alt="{{ location.Title }}">
                 <h3>{{ location.Title }}</h3>
-                <p>{{ location.Description }}</p>
+                <p>{{ location.Description | markdownify }}</p>
             </div>
             {% endfor %}
         </div>

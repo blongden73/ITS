@@ -7,7 +7,7 @@ layout: default
     <div class="hero-image">
         <div class="centred-content">
             <h4>{{ page.title }}</h4>
-            <p>Discover locally sourced organic produce and enjoy exquisite dining experiences curated just for you.</p>
+            <p>{{ page.["Hero Description"] }}</p>
         </div>
         <img src="/assets/images/feasting.jpg"> 
     </div>
@@ -15,7 +15,7 @@ layout: default
 
 <section id="feastings" class="ripped after-ripped">
     <div class="container intro">
-        <h2>Locally sourced organic produce</h2>
+        <h2>{{ page.["Intro Title"] }}</h2>
         <p>{{ page.["Smoke N Sticks Description"] }}</p>    
     </div>
     <section id="field-kitchen" class="plan facilities-wrapper flex two-col ripped-cream">
@@ -60,7 +60,7 @@ layout: default
         <div class="card">
             <div class="image-wrapper"><img src="{{ meal.Image }}" alt="{{ meal.Title }}"></div>
             <h3>{{ meal.Title }}</h3>
-            <p>{{ meal.Description }}</p>
+            <p>{{ meal.Description | markdownify }}</p>
         </div>
         {% endfor %}
     </div>
@@ -76,7 +76,7 @@ layout: default
         <div class="card">
             <div class="image-wrapper"><img src="{{ hamper.Image }}" alt="{{ hamper.Title }}"></div>
             <h3>{{ hamper.Title }}</h3>
-            <p>{{ hamper.Description }}</p>
+            <p>{{ hamper.Description | markdownify }}</p>
         </div>
         {% endfor %}
     </div>

@@ -12,7 +12,20 @@
     }
 
     h2:after {
-        transform: translateY(0px);
+        transform: translateY(-13px);
+    }
+
+    header:not(.hero):after {
+        width: 103% !important;
+    }
+
+    .navbar {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    .container .left h4 {
+        margin-bottom: 20px !important;
     }
 
     .image-par {
@@ -141,6 +154,14 @@
         display: none !important;
     }
 
+    .features-grid-cards .card h3 {
+        line-height: 1.2;
+    }
+
+    header {
+        z-index: 2000;
+    }
+
     /* Navbar adjustments */
     .navbar ul, 
     .navbar .nav-links {
@@ -215,11 +236,31 @@
     }
 
     /* Adjust maps and images */
-    .map-container iframe, 
     .image-wrapper img, 
     .about-width img {
         width: 100% !important;
         height: auto !important;
+    }
+
+    /* Adjust maps and images */
+    .map-container iframe {
+        width: 100% !important;
+        height: 500px !important;
+    }
+
+    .about-container {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .about-image {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .about-image img {
+        width: 200%;
+        transform: translateX(-11%);
     }
 
     .about-width {
@@ -299,13 +340,20 @@
     }
 
     #dome-features {
-        top: 115px !important;
+        top: 121px !important;
+        padding-top: 20px !important;
+    }
+
+    .dome h4 {
+        font-size: 28px !important;
+        line-height: 1.2;
     }
 
     .feature-grid {
         font-size: 18px !important;
         flex-wrap: wrap;
         gap: 10px !important;
+        line-height: 1.2 !important;
     }
 
     .logos.flex {
@@ -376,12 +424,9 @@
         padding-top: 50px !important;
     }
 
-    .map-container {
-        display: none !important;
-    }
 
     .hero .carousel {
-        height: 88vh;
+        height: 80vh;
     }
 
     .owl-item .item {

@@ -1,6 +1,7 @@
 ---
 title: Explore
 permalink: "/explore/"
+Hero Description: Rutland is a beautiful and often overlooked county due to it’s size. It is the smallest county in England but with such a lot to offer it’s visitors. Known as Multum in Parvo (Much in Little) it certainly lives up to its name.
 Explore Locations Grid:
 - Image: "/assets/images/oakham.jpg"
   Title: 1—Oakham
@@ -12,7 +13,7 @@ Explore Locations Grid:
   Description: "Stamford is an equally interesting old market town. With its many
     cobbled streets and alleyways it is a very attractive town to explore. With architecture
     ranging from medieval times to a more dominant Georgian presence. It is well worth
-    a visit with Market day on Friday and farmers market alternate Fridays. \n\n[www.stamford.co.uk](www.stamford.co.uk)"
+    a visit with Market day on Friday and farmers market alternate Fridays. \n\n[www.stamford.co.uk](https://www.stamford.co.uk)"
 - Image: "/assets/images/stamford.jpg"
   Title: Oakham
   Description: "Rutland and the surrounding area are rich with a wonderful variety
@@ -35,5 +36,3 @@ Explore Locations Grid:
     amazing pubs, restaurants, shops and wonderful bakeries.\n\n"
 layout: explore
 ---
-
-Rutland is a beautiful and often overlooked county due to it’s size. It is the smallest county in England but with such a lot to offer it’s visitors. Known as Multum in Parvo (Much in Little) it certainly lives up to its name.

@@ -2,6 +2,7 @@
 title: Wellness
 permalink: "/wellness/"
 layout: wellness
+Hero Description: Whether you are looking to have a festival style wedding, a luxurious bohemian party, a relaxed picnic – whatever your style and taste, our site is a blank canvas for your perfect celebration.
 Spa Days Description: "New for 2021, Normanton is the first dome you approach from
   the carpark. High on the hillside it has a view straight down the valley. Perfect
   for the evening sunsets. Styled with our eclectic choice of furnishings, the dome
