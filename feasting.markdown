@@ -62,7 +62,7 @@ Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, sho
 Breakfast hampers:
 - Title: Small Hamper £48 (Veggie option minus meat £40)
   Description: |-
-    * 6 Farmer Lou Lincolnshire sausages
+    * **6 Farmer Lou Lincolnshire sausages**
     * 6 Farmer Lou dry cured back bacon
     * 2 large Hambleton Bakery breakfast muffins
     * 2 Hambleton Bakery Croissants
