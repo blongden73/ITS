@@ -3,15 +3,16 @@ title: Explore
 permalink: "/explore/"
 Explore Locations Grid:
 - Image: "/assets/images/oakham.jpg"
-  Title: Oakham
+  Title: 1—Oakham
   Description: "Rutland and the surrounding area are rich with a wonderful variety
     of organically grown and ethically sourced food, supporting many local farmers,
     amazing pubs, restaurants, shops and wonderful bakeries.\n\n"
 - Image: "/assets/images/oakham.jpg"
   Title: Stamford
-  Description: "Rutland and the surrounding area are rich with a wonderful variety
-    of organically grown and ethically sourced food, supporting many local farmers,
-    amazing pubs, restaurants, shops and wonderful bakeries.\n\n"
+  Description: "Stamford is an equally interesting old market town. With its many
+    cobbled streets and alleyways it is a very attractive town to explore. With architecture
+    ranging from medieval times to a more dominant Georgian presence. It is well worth
+    a visit with Market day on Friday and farmers market alternate Fridays. \n\n[www.stamford.co.uk](www.stamford.co.uk)"
 - Image: "/assets/images/stamford.jpg"
   Title: Oakham
   Description: "Rutland and the surrounding area are rich with a wonderful variety
