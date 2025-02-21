@@ -1,7 +1,9 @@
 ---
 title: Events
 permalink: "/events/"
-Hero Description: Whether you are looking to have a festival style wedding, a luxurious bohemian party, a relaxed picnic – whatever your style and taste, our site is a blank canvas for your perfect celebration.
+Hero Description: Whether you are looking to have a festival style wedding, a luxurious
+  bohemian party, a relaxed picnic – whatever your style and taste, our site is a
+  blank canvas for your perfect celebration.
 Parties Description: If you're searching for a special venue to host your celebration,
   look no further than In the Stix! Our enchanting event space has been the backdrop
   for countless memorable occasions, including birthdays, wedding anniversaries, vow

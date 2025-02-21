@@ -1,7 +1,9 @@
 ---
 title: Explore
 permalink: "/explore/"
-Hero Description: Rutland is a beautiful and often overlooked county due to it’s size. It is the smallest county in England but with such a lot to offer it’s visitors. Known as Multum in Parvo (Much in Little) it certainly lives up to its name.
+Hero Description: Rutland is a beautiful and often overlooked county due to it’s size.
+  It is the smallest county in England but with such a lot to offer it’s visitors.
+  Known as Multum in Parvo (Much in Little) it certainly lives up to its name.
 Explore Locations Grid:
 - Image: "/assets/images/oakham.jpg"
   Title: 1—Oakham
@@ -36,3 +38,4 @@ Explore Locations Grid:
     amazing pubs, restaurants, shops and wonderful bakeries.\n\n"
 layout: explore
 ---
+
