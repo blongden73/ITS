@@ -12,6 +12,7 @@ layout: standard
 
 
 Q: Is there a minimum age to book? 
+
 A: Minimum booking age is 30, we will consider younger bookings but they must be agreed in advance with the owners before any booking commences.
 
 Q: Do all the domes have their own hot tub?
