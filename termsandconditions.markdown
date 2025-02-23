@@ -41,44 +41,47 @@ If you would like this contract in another format for example, larger print, aud
 
 3.2. Bookings must be paid in full (the remaining 50%), 6 weeks before your agreed arrival date.
 
-3.3 If the balance is not paid by the due date, we reserve the right to re-let the lodge and retain the non-refundable booking deposit. 
+3.3. If the balance is not paid by the due date, we reserve the right to re-let the lodge and retain the non-refundable booking deposit. 
 
 ### 4. Security Deposit 
 4.1. When your booking has been confirmed by email we will require a security deposit of £50 per Dome is held against your card to cover any damage to the Dome or the Property caused by you or any member of a group booking.  
 
 4.2. The security deposit will only be charged if:
 
-(a) a final inspection of the Dome reveals any damage
-(b) payment has not been received for any additional logs used.   
-(c) All extras including hot tubs and food ordered have not been settled.
+(a)  a final inspection of the Dome reveals any damage
+(b)  payment has not been received for any additional logs used.   
+(c)  All extras including hot tubs and food ordered have not been settled.
 
-4.3. Should you breach any of the terms of this agreement and in particular clauses 9 to 14 we reserve the right to retain the security deposit to be offset against the cost of damage to the Dome and/or Property. 
+4.3.  Should you breach any of the terms of this agreement and in particular clauses 9 to 14 we reserve the right to retain the security deposit to be offset against the cost of damage to the Dome and/or Property. 
 
 ### 5. Group Bookings
-5.1. If your group is larger than 6 persons and/or a single sex group booking, please contact us prior to making the booking. We reserve the right to refuse bookings for large groups.  
+5.1.  If your group is larger than 6 persons and/or a single sex group booking, please contact us prior to making the booking. We reserve the right to refuse bookings for large groups.  
 
-5.2. In the event that your group is larger than 6 persons or requires more than one Dome to be booked please note section 4 above.  
+5.2.  In the event that your group is larger than 6 persons or requires more than one Dome to be booked please note section 4 above.  
 
-5.3. Security Deposits taken by a group booking may be held by ourselves should any damage/loss or heavy soiling of equipment occur in any one Dome included in that booking exceed the amount of the individual security deposit. 
+5.3.  Security Deposits taken by a group booking may be held by ourselves should any damage/loss or heavy soiling of equipment occur in any one Dome included in that booking exceed the amount of the individual security deposit. 
 
-5.4. We reserve the right to refuse bookings for large groups. 
+5.4.  We reserve the right to refuse bookings for large groups. 
 
 ### 6. How to Make a Booking 
-6.1 We will accept bookings made by telephone or through the website. Both forms of booking are subject to the terms of this agreement. 
+6.1  We will accept bookings made by telephone or through the website. Both forms of booking are subject to the terms of this agreement. 
 
-6.2. You must be over the age of 30 to make a booking and be granted a licence to occupy our Property. 
+6.2.  You must be over the age of 30 to make a booking and be granted a licence to occupy our Property. 
 
-6.3. You make a booking on the website by selecting which Dome you wish to occupy, select the available dates (two night minimum stay), select add to basket and then select go to check out. During the check out process you will be asked to enter your personal details and payment details to pay the deposit (or full amount). We accept payment by credit card, debit card and Paypal. Please note that your credit card may be subject to an additional charge. 
+6.3.  You make a booking on the website by selecting which Dome you wish to occupy, select the available dates (two night minimum stay), select add to basket and then select go to check out. During the check out process you will be asked to enter your personal details and payment details to pay the deposit (or full amount). We accept payment by credit card, debit card and Paypal. Please note that your credit card may be subject to an additional charge. 
+
 You will then be asked to ‘pay now’ to confirm the booking. 
 This acknowledgement does not, however, mean that your order has been accepted.
+
 We may contact you to say that we do not accept your order. This is typically for the following reasons:
-the Dome is unavailable;
-we cannot authorise your payment;
-you are not allowed to licence part of our Property from us;
-we are not allowed to licence our part of our Property to you; 
-you have made a booking inconsistent with this agreement; and
-there has been a mistake on the pricing or description of the licence.
-We will only accept your booking when we email you to confirm this (final confirmation email). At this point, a legally binding contract will be in place between you and us. If we don’t confirm your booking by final confirmation email we will refund your deposit. 
+(a)  the Dome is unavailable;
+(b)  we cannot authorise your payment;
+(c)  you are not allowed to licence part of our Property from us;
+(d)  we are not allowed to licence our part of our Property to you; 
+(e)  you have made a booking inconsistent with this agreement; and
+(f)  there has been a mistake on the pricing or description of the licence.
+
+6.7.  We will only accept your booking when we email you to confirm this (final confirmation email). At this point, a legally binding contract will be in place between you and us. If we don’t confirm your booking by final confirmation email we will refund your deposit. 
 Please check the details on your confirmation carefully, if any of the details are incorrect, or changed, especially your address, you must inform us immediately.
 Special Requirements
 Should you have any specific special requirements such as restricted mobility, a disability or particular care requirements, please contact us so that we can make reasonable adjustments. 
