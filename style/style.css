@@ -863,6 +863,15 @@ footer .menu ul a:hover {
     background-color: #EBDEC7;
 }
 
+#dome-features-links .card-container {
+    align-items: flex-start;
+}
+
+#dome-features-links .card-container h3 {
+    line-height: 1.2;
+    margin-top: 10px;
+}
+
 .dot {
     height: 10px;
     width: 10px;

@@ -14,26 +14,37 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
   compromising on comfort."
 Dome Features:
 - Title: Ensuite Showers rooms
+  Image: /assets/images/placeholder.jpg
   Description: " With flushing WC."
 - Title: Chesterfield sofas
+  Image: /assets/images/placeholder.jpg
   Description: Made with real leather for luxurious comfort.
 - Title: Log burners
+  Image: /assets/images/placeholder.jpg
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
+  Image: /assets/images/placeholder.jpg
   Description: For easy access.
 - Title: Upstairs mezzanine
+  Image: /assets/images/placeholder.jpg
   Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
 - Title: Chest full of board games
+  Image: /assets/images/placeholder.jpg
   Description: Description to go here.
 - Title: Hanging chair
+  Image: /assets/images/placeholder.jpg
   Description: Description to go here.
 - Title: Personal log fired hot tub
+  Image: /assets/images/placeholder.jpg
   Description: "(Additional cost of £45)."
 - Title: Personal kitchen
+  Image: /assets/images/placeholder.jpg
   Description: "(With pizza oven and 2 ringed gas hob)."
 - Title: "Covered outdoor \nseating area"
+  Image: /assets/images/placeholder.jpg
   Description: Description to go here.
 Dome 1 Title: Dome 1 - Greetham
+Dome 1 Mini Description: Dome 1 - Greetham
 Dome 1 Description: Offering the utmost privacy to its guests. With its serene location
   near a soothing babbling brook, this dome provides uninterrupted views of the surrounding
   landscape, making it an ideal retreat for couples or anyone seeking a tranquil getaway.
@@ -47,6 +58,7 @@ Dome 1 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 2 Title: Dome 2 - Barrow
+Dome 2 Mini Description: 
 Dome 2 Description: Ideally located at the base of the valley, providing easy access
   for our less able-bodied visitors. Its vibrant Moroccan-inspired design features
   enchanting splashes of orange and turquoise, creating a lively and inviting atmosphere.
@@ -60,6 +72,7 @@ Dome 2 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 3 Title: Dome 3 - Hambleton
+Dome 3 Mini Description:
 Dome 3 Description: Nestled into the hillside, this dome offers elevated views that
   will take your breath away. Inside, you’ll find an eclectic mix of handpicked retro
   furniture, including a unique coach seat that adds character and comfort to your
@@ -73,6 +86,7 @@ Dome 3 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 4 Title: Dome 4 - Exton
+Dome 4 Mini Description: 
 Dome 4 Description: With its warm and inviting decor in beautiful shades of pink and
   red, Exton is designed to make you feel right at home. The east-facing kitchen and
   outdoor seating area are ideal for those who cherish morning moments bathed in sunlight,
@@ -87,6 +101,7 @@ Dome 4 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 5 Title: Dome 5 - Clipsham
+Dome 5 Mini Description: 
 Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touch for
   those who appreciate a little extra space. Nestled into the hillside, Clipsham offers
   fantastic elevated views from both the hot tub and the cozy seating area, allowing
@@ -101,6 +116,7 @@ Dome 5 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 6 Title: Dome 6 - Normanton
+Dome 6 Mini Description: 
 Dome 6 Description: Conveniently located just a five-minute walk from the car park.
   This dome also has a walk in wardrobe and is situated alongside Dome 5 on a hillside
   that boasts stunning elevated views and spectacular sunsets. Families will appreciate
@@ -113,6 +129,7 @@ Dome 6 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
+Field Kitchen Title: Field Kitchen
 Field Kitchen Text: "Each dome at our location comes equipped with a private field
   kitchen, providing guests with a dedicated dining area that accommodates up to six
   people. These kitchens are separate structures from the domes, ensuring privacy
@@ -127,10 +144,13 @@ Field Kitchen Text: "Each dome at our location comes equipped with a private fie
   cold. \n\nWith these amenities, you can enjoy the freedom of outdoor cooking and
   dining while saving yourself the stresses of having to remember to bring everything,
   it has all been thought out for you."
+Field Kitchen Mini Description:
 Field Kitchen Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
+Fire Pit Title: Fire Pit
+Fire Pit Mini Description:
 Fire Pit Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -147,6 +167,8 @@ Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, fea
   the soothing sounds of the crackling fire, this communal area is an ideal setting
   for relaxation and camaraderie. Come and experience the warmth and joy that the
   fire pit brings to your stay!"
+Play Area Title: Play Area
+Play Area Mini Description:
 Play Area Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -163,6 +185,8 @@ Play Area Text: "Our dedicated play area is located at the opposite end of the f
   them the opportunity to connect with nature, engage in imaginative play, and create
   cherished memories. Parents can relax knowing their kids are safe and living their
   best lives in this fantastic outdoor setting."
+Sauna Title: Sauna
+Sauna Mini Description:
 Sauna Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -179,6 +203,8 @@ Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   the most incredible sunsets, so we highly recommend booking an evening session to
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
+Deck Title: Deck
+Deck Mini Description:
 Deck Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -195,6 +221,8 @@ Deck Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance 
   the most incredible sunsets, so we highly recommend booking an evening session to
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
+Brook Title: Brook
+Brook Mini Description:
 Brook Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -211,6 +239,8 @@ Brook Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   the most incredible sunsets, so we highly recommend booking an evening session to
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
+Meadow Title: Meadow
+Meadow Mini Description:
 Meadow Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -227,11 +257,31 @@ Meadow Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhanc
   witnessing the most incredible sunsets, so we highly recommend booking an evening
   session to truly make the most of this magical experience. Treat yourself to a moment
   of tranquillity and let nature rejuvenate your spirit!"
+Parking Title: Parking
+Parking Mini Description:
 Parking Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Parking Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
+  your experience at our site! Available for hire for three-hour sessions (for guests
+  staying with us) or enjoy this on our new spa days. This unique sauna provides the
+  perfect opportunity to relax and unwind while enjoying stunning views. Positioned
+  at the highest point of the site, you'll be treated to breathtaking far-reaching
+  vistas over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower
+  for those looking to embrace the benefits of hot and cold therapy. And coming in
+  2025, we will feature a cold outdoor plunge in a charming Victorian bath, adding
+  another element to your wellness experience. \n\nThe location is also perfect for
+  witnessing the most incredible sunsets, so we highly recommend booking an evening
+  session to truly make the most of this magical experience. Treat yourself to a moment
+  of tranquillity and let nature rejuvenate your spirit!"
+Extra Title: Extra Section
+Extra Mini Description:
+Extra Images:
+- "/assets/images/image.jpg"
+- "/assets/images/image-1.jpg"
+- "/assets/images/image-2.jpg"
+Extra Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   your experience at our site! Available for hire for three-hour sessions (for guests
   staying with us) or enjoy this on our new spa days. This unique sauna provides the
   perfect opportunity to relax and unwind while enjoying stunning views. Positioned
