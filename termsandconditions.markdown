@@ -48,8 +48,8 @@ If you would like this contract in another format for example, larger print, aud
 
 4.2.  The security deposit will only be charged if:
 
-(a)  a final inspection of the Dome reveals any damage
-(b)  payment has not been received for any additional logs used.   
+(a)  a final inspection of the Dome reveals any damage.
+(b)  payment has not been received for any additional logs used.
 (c)  All extras including hot tubs and food ordered have not been settled.
 
 4.3.  Should you breach any of the terms of this agreement and in particular clauses 9 to 14 we reserve the right to retain the security deposit to be offset against the cost of damage to the Dome and/or Property. 
@@ -57,7 +57,7 @@ If you would like this contract in another format for example, larger print, aud
 ### 5. Group Bookings
 5.1.  If your group is larger than 6 persons and/or a single sex group booking, please contact us prior to making the booking. We reserve the right to refuse bookings for large groups.  
 
-5.2.  In the event that your group is larger than 6 persons or requires more than one Dome to be booked please note section 4 above.  
+5.2.  In the event that your group is larger than 6 persons or requires more than one Dome to be booked please note section 4. above.  
 
 5.3.  Security Deposits taken by a group booking may be held by ourselves should any damage/loss or heavy soiling of equipment occur in any one Dome included in that booking exceed the amount of the individual security deposit. 
 
