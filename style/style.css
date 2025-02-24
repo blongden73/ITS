@@ -875,6 +875,7 @@ footer .menu ul a:hover {
 .tooltip h3{
     margin-bottom: 0;
     font-family: 'Koulen', sans-serif;
+    margin-top: 6px;
 }
 
 .tooltip p{
