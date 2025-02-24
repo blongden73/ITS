@@ -4,19 +4,19 @@ permalink: "/events/"
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
-Parties Description: If you're searching for a special venue to host your celebration,
+Parties Description: "If you're searching for a special venue to host your celebration,
   look no further than In the Stix! Our enchanting event space has been the backdrop
   for countless memorable occasions, including birthdays, wedding anniversaries, vow
   renewals, special milestones, and hen parties. It’s the perfect gathering spot for
-  friends and loved ones.For those who want to add music to the festivities, we can
-  easily apply for an events license. We also offer the option to hire a bar, sound
-  equipment, and even a DJ to bring your celebration to life. Whatever your vision,
-  we are here to help you make it a reality. In addition, we partner with fantastic
-  local chefs who can cater to your culinary desires, whether you’re craving pizzas,
-  Thai food, or something else entirely. The space can be booked for just a night
-  or for an entire weekend, and if you reserve all the domes, you’ll enjoy exclusive
-  use of the entire site. Let us help you create an unforgettable celebration at In
-  the Stix!
+  friends and loved ones.\n\nFor those who want to add music to the festivities, we
+  can easily apply for an events license. We also offer the option to hire a bar,
+  sound equipment, and even a DJ to bring your celebration to life. Whatever your
+  vision, we are here to help you make it a reality. \n\nIn addition, we partner with
+  fantastic local chefs who can cater to your culinary desires, whether you’re craving
+  pizzas, Thai food, or something else entirely. \n\nThe space can be booked for just
+  a night or for an entire weekend, and if you reserve all the domes, you’ll enjoy
+  exclusive use of the entire site. Let us help you create an unforgettable celebration
+  at In the Stix!"
 Parties Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
@@ -35,10 +35,10 @@ Wedding Description: "Whether you are looking to have a festival style wedding, 
   Friday (4 nights) or Friday – Monday (3 nights) offering either a midweek wedding
   or a weekend wedding. The midweek option gives you the fourth day free of charge.\n\nLOW
   SEASON March, April & October (3 or 4 day celebration). Bridal dome £615 + land
-  rent £1200 total £1815 Remaining 5 domes £615 each, to be rented as guest accommodation.
+  rent £1200 total £1815. Remaining 5 domes £615 each, to be rented as guest accommodation.
   \n\nMID SEASON May, June & Sept (3 or 4 day celebration). Bridal dome £715 + land
-  rent £1350 total £2065Remaining 5 domes £715 each, to be rented as guest accommodation.\n\nHIGH
-  SEASON July & August (3 or 4 day celebration)Bridal dome £815 + land rent £1500
+  rent £1350 total £2065. Remaining 5 domes £715 each, to be rented as guest accommodation.\n\nHIGH
+  SEASON July & August (3 or 4 day celebration) Bridal dome £815 + land rent £1500
   total £2315. Remaining 5 domes £815 each, to be rented as guest accommodationWe
   want to provide you with as much flexibility as we can to create your own day; whether
   you chose to say “I do” elsewhere and just party the night away with us or have
