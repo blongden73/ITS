@@ -336,7 +336,25 @@
     }
 
     #the-grounds {
+        display: block;
+    }
+
+    .grounds-map {
+        width: 100%;
+        overflow-y: scroll;
+    }
+
+    .grounds-map svg {
+        width: 300%;
+    }
+
+    .grounds-map .map-elements {
         display: none;
+    }
+
+    #the-grounds .heading-short{
+        margin-top: 0;
+        margin-bottom: 50px;
     }
 
     #dome-features {
