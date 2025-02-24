@@ -1,25 +1,26 @@
 ---
 title: The Grounds
 permalink: "/the-grounds/"
-SectionDescription: Our original mezzanine design offers a unique upper-floor bedroom
+SectionDescription: "Our original mezzanine design offers a unique upper-floor bedroom
   that adds a touch of excitement to your glamping experience, making it a perfect
-  sleeping space for both adults and children. Accessed by charming wooden steps,
-  this cozy loft style space is an adventure waiting to be enjoyed. Meanwhile, downstairs,
-  our beautiful master bedroom provides a spacious and serene sleeping environment,
-  ensuring a restful night’s sleep. With ample room to accommodate a cot if needed,
-  this inviting space is perfect for families, allowing everyone to relax and unwind
-  in comfort. Whether you’re snuggled up on the mezzanine or enjoying the tranquillity
-  of the master bedroom, our domes are not just accommodation; they are a sanctuary
-  where you can relax and enjoy the beauty of nature without compromising on comfort.
+  sleeping space for both adults and children. \n\nAccessed by charming wooden steps,
+  this cozy loft style space is an adventure waiting to be enjoyed. \n\nMeanwhile,
+  downstairs, our beautiful master bedroom provides a spacious and serene sleeping
+  environment, ensuring a restful night’s sleep. With ample room to accommodate a
+  cot if needed, this inviting space is perfect for families, allowing everyone to
+  relax and unwind in comfort. \n\nWhether you’re snuggled up on the mezzanine or
+  enjoying the tranquillity of the master bedroom, our domes are not just accommodation;
+  they are a sanctuary where you can relax and enjoy the beauty of nature without
+  compromising on comfort."
 Dome Features:
 - Title: Ensuite Showers rooms
   Description: " With flushing WC."
 - Title: Chesterfield sofas
   Description: Made with real leather for luxurious comfort.
 - Title: Log burners
-  Description: Description to go here.
+  Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Description: Description to go here.
+  Description: For easy access.
 - Title: Upstairs mezzanine
   Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
 - Title: Chest full of board games
