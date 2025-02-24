@@ -19,13 +19,13 @@ b.  You, or your means the person making the booking. This licence is personal t
 
 c.  If you don’t understand any of this agreement and want to talk to us about it, please contact us by:
 
-i.  Email:hello@inthestix.co.uk
-ii.  Telephone 07958 378 971. 07818. 066 690
+i.  Email: hello@inthestix.co.uk
+ii.  Telephone: 07958 378 971, or 07818 066 690
 
 If you would like this contract in another format for example, larger print, audio, please contact us to make arrangements.  
 
 ### 1. Accommodation
-1.1. We provide a unique and luxurious alternative to camping and our accommodation comprises of large luxurious domes (‘the Domes’). Our website provides specific details of the Domes and their availability. 
+1.1.  We provide a unique and luxurious alternative to camping and our accommodation comprises of large luxurious domes (‘the Domes’). Our website provides specific details of the Domes and their availability. 
 
 1.2.  We grant you a short term licence to occupy our property for the time period and price agreed which will be stated in the final confirmation email. This licence is subject to the terms of this agreement and we reserve the right to terminate or amend your booking in accordance with the terms of or in the event of breach of this agreement. 
 
@@ -37,7 +37,7 @@ If you would like this contract in another format for example, larger print, aud
 2.3.  The agreed price is for accommodation only. 
 
 ### 3. Booking Deposit
-3.1  When you make a booking, we require a deposit on all bookings of 50% (or full payment) of the total cost of your stay, if the booking is for a Group or for more than one Dome then a booking deposit of 50% per Dome is required. The deposit is non-refundable unless we have not confirmed your booking by way of final confirmation email. 
+3.1.  When you make a booking, we require a deposit on all bookings of 50% (or full payment) of the total cost of your stay, if the booking is for a Group or for more than one Dome then a booking deposit of 50% per Dome is required. The deposit is non-refundable unless we have not confirmed your booking by way of final confirmation email. 
 
 3.2.  Bookings must be paid in full (the remaining 50%), 6 weeks before your agreed arrival date.
 
