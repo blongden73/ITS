@@ -14,34 +14,34 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
   compromising on comfort."
 Dome Features:
 - Title: Ensuite Showers rooms
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5510-Edit-b33efa.jpg"
   Description: " With flushing WC."
 - Title: Chesterfield sofas
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: Made with real leather for luxurious comfort.
 - Title: Log burners
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5513-Edit-6954ae.jpg"
   Description: For easy access.
 - Title: Upstairs mezzanine
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
 - Title: Chest full of board games
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: Description to go here.
 - Title: Hanging chair
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
   Description: Description to go here.
 - Title: Personal log fired hot tub
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: "(Additional cost of £45)."
 - Title: Personal kitchen
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
   Description: "(With pizza oven and 2 ringed gas hob)."
 - Title: "Covered outdoor \nseating area"
-  Image: /assets/images/placeholder.jpg
+  Image: "/uploads/DSC5513-Edit-6954ae.jpg"
   Description: Description to go here.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Mini Description: Dome 1 - Greetham
@@ -296,18 +296,18 @@ Extra Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Extra Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
-  your experience at our site! Available for hire for three-hour sessions (for guests
-  staying with us) or enjoy this on our new spa days. This unique sauna provides the
-  perfect opportunity to relax and unwind while enjoying stunning views. Positioned
-  at the highest point of the site, you'll be treated to breathtaking far-reaching
-  vistas over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower
-  for those looking to embrace the benefits of hot and cold therapy. And coming in
-  2025, we will feature a cold outdoor plunge in a charming Victorian bath, adding
-  another element to your wellness experience. \n\nThe location is also perfect for
-  witnessing the most incredible sunsets, so we highly recommend booking an evening
-  session to truly make the most of this magical experience. Treat yourself to a moment
-  of tranquillity and let nature rejuvenate your spirit!"
+Extra Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
+  experience at our site! Available for hire for three-hour sessions (for guests staying
+  with us) or enjoy this on our new spa days. This unique sauna provides the perfect
+  opportunity to relax and unwind while enjoying stunning views. Positioned at the
+  highest point of the site, you'll be treated to breathtaking far-reaching vistas
+  over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower for
+  those looking to embrace the benefits of hot and cold therapy. And coming in 2025,
+  we will feature a cold outdoor plunge in a charming Victorian bath, adding another
+  element to your wellness experience. \n\nThe location is also perfect for witnessing
+  the most incredible sunsets, so we highly recommend booking an evening session to
+  truly make the most of this magical experience. Treat yourself to a moment of tranquillity
+  and let nature rejuvenate your spirit!"
 layout: the-grounds
 ---
 
