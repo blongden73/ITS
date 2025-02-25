@@ -14,34 +14,34 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
   compromising on comfort."
 Dome Features:
 - Title: Ensuite Showers rooms
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC5510-Edit-b33efa.jpg"
   Description: " With flushing WC."
 - Title: Chesterfield sofas
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC9303-Edit-ae8618.jpg"
   Description: Made with real leather for luxurious comfort.
 - Title: Log burners
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC5513-Edit-6954ae.jpg"
   Description: For easy access.
 - Title: Upstairs mezzanine
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
 - Title: Chest full of board games
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: Description to go here.
 - Title: Hanging chair
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
   Description: Description to go here.
 - Title: Personal log fired hot tub
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: "(Additional cost of £45)."
 - Title: Personal kitchen
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC9303-Edit-ae8618.jpg"
   Description: "(With pizza oven and 2 ringed gas hob)."
 - Title: "Covered outdoor \nseating area"
-  Image: "/assets/images/placeholder.jpg"
+  Image: "/uploads/DSC5513-Edit-6954ae.jpg"
   Description: Description to go here.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Mini Description: Dome 1 - Greetham
