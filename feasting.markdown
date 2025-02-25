@@ -63,7 +63,7 @@ Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, sho
 Breakfast hampers:
 - Title: Small Hamper £48 (Veggie option minus meat £40)
   Description: |-
-    * **6 Farmer Lou Lincolnshire sausages**
+    * 6 Farmer Lou Lincolnshire sausages
     * 6 Farmer Lou dry cured back bacon
     * 2 large Hambleton Bakery breakfast muffins
     * 2 Hambleton Bakery Croissants
@@ -96,7 +96,8 @@ Breakfast hampers:
     * 4 large Hambleton Bakery Breakfast muffins
     * 1 small Hambleton bakery seven cereal loaf
     * 1 jar of Barlow’s of Belvoir marmalade or jam
-    * 500g Hambleton Bakery granola. 2 litres of Oatly Organic Oat Milk
+    * 500g Hambleton Bakery granola
+    * 2 litres of Oatly Organic Oat Milk
     * 1 litre of fresh orange juice
     * 250g Two Chimps ground coffee
     * 350g Coconut dairy free natural yogurt alternative
@@ -109,7 +110,8 @@ Breakfast hampers:
     * 500g Hambleton bakery granola
     * 2 Litres of fresh orange juice
     * 250g Two Chimps ground coffee
-    * 350g Coconut dairy free natural yogurt alternative 3 litres of Oatly Organic Oat Milk
+    * 350g Coconut dairy free natural yogurt alternative
+    * 3 litres of Oatly Organic Oat Milk
   Image: "/assets/images/Vegan-Chilli-.jpg"
 layout: feasting
 ---
