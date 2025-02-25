@@ -17,7 +17,7 @@ Dome Features:
   Image: "/uploads/DSC5510-Edit-b33efa.jpg"
   Description: " With flushing WC."
 - Title: Chesterfield sofas
-  Image: "/uploads/DSC9303-Edit-ae8618.jpg"
+  Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: Made with real leather for luxurious comfort.
 - Title: Log burners
   Image: "/uploads/DSC5510-Edit-88d42e.jpg"
@@ -38,7 +38,7 @@ Dome Features:
   Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: "(Additional cost of £45)."
 - Title: Personal kitchen
-  Image: "/uploads/DSC9303-Edit-ae8618.jpg"
+  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
   Description: "(With pizza oven and 2 ringed gas hob)."
 - Title: "Covered outdoor \nseating area"
   Image: "/uploads/DSC5513-Edit-6954ae.jpg"
