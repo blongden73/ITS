@@ -59,7 +59,7 @@ Dome 1 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 2 Title: Dome 2 - Barrow
-Dome 2 Mini Description:
+Dome 2 Mini Description: 
 Map Dome 2 Images: 
 Dome 2 Description: Ideally located at the base of the valley, providing easy access
   for our less able-bodied visitors. Its vibrant Moroccan-inspired design features
@@ -74,7 +74,7 @@ Dome 2 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 3 Title: Dome 3 - Hambleton
-Dome 3 Mini Description:
+Dome 3 Mini Description: 
 Map Dome 3 Images: 
 Dome 3 Description: Nestled into the hillside, this dome offers elevated views that
   will take your breath away. Inside, you’ll find an eclectic mix of handpicked retro
@@ -89,7 +89,7 @@ Dome 3 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 4 Title: Dome 4 - Exton
-Dome 4 Mini Description:
+Dome 4 Mini Description: 
 Map Dome 4 Images: 
 Dome 4 Description: With its warm and inviting decor in beautiful shades of pink and
   red, Exton is designed to make you feel right at home. The east-facing kitchen and
@@ -105,8 +105,8 @@ Dome 4 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 5 Title: Dome 5 - Clipsham
-Dome 5 Mini Description:
-Map Dome 5 Images:
+Dome 5 Mini Description: 
+Map Dome 5 Images: 
 Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touch for
   those who appreciate a little extra space. Nestled into the hillside, Clipsham offers
   fantastic elevated views from both the hot tub and the cozy seating area, allowing
@@ -121,7 +121,7 @@ Dome 5 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 6 Title: Dome 6 - Normanton
-Dome 6 Mini Description:
+Dome 6 Mini Description: 
 Map Dome 6 Images: 
 Dome 6 Description: Conveniently located just a five-minute walk from the car park.
   This dome also has a walk in wardrobe and is situated alongside Dome 5 on a hillside
@@ -150,14 +150,14 @@ Field Kitchen Text: "Each dome at our location comes equipped with a private fie
   cold. \n\nWith these amenities, you can enjoy the freedom of outdoor cooking and
   dining while saving yourself the stresses of having to remember to bring everything,
   it has all been thought out for you."
-Field Kitchen Mini Description:
+Field Kitchen Mini Description: 
 Map Field Kitchen Images: 
 Field Kitchen Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Title: Fire Pit
-Fire Pit Mini Description:
+Fire Pit Mini Description: 
 Map Fire Pit Images: 
 Fire Pit Images:
 - "/assets/images/image.jpg"
@@ -176,8 +176,8 @@ Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, fea
   for relaxation and camaraderie. Come and experience the warmth and joy that the
   fire pit brings to your stay!"
 Play Area Title: Play Area
-Play Area Mini Description:
-Map Play Area Images:
+Play Area Mini Description: 
+Map Play Area Images: 
 Play Area Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -195,8 +195,8 @@ Play Area Text: "Our dedicated play area is located at the opposite end of the f
   cherished memories. Parents can relax knowing their kids are safe and living their
   best lives in this fantastic outdoor setting."
 Sauna Title: Sauna
-Sauna Mini Description:
-Map Sauna Images:
+Sauna Mini Description: 
+Map Sauna Images: 
 Sauna Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -214,8 +214,8 @@ Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Deck Title: Deck
-Deck Mini Description:
-Map Deck Images:
+Deck Mini Description: 
+Map Deck Images: 
 Deck Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -233,8 +233,8 @@ Deck Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance 
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Brook Title: Brook
-Brook Mini Description:
-Map Brook Images:
+Brook Mini Description: 
+Map Brook Images: 
 Brook Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -252,8 +252,8 @@ Brook Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Meadow Title: Meadow
-Meadow Mini Description:
-Map Meadow Images:
+Meadow Mini Description: 
+Map Meadow Images: 
 Meadow Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -271,8 +271,8 @@ Meadow Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhanc
   session to truly make the most of this magical experience. Treat yourself to a moment
   of tranquillity and let nature rejuvenate your spirit!"
 Parking Title: Parking
-Parking Mini Description:
-Map Parking Images:
+Parking Mini Description: 
+Map Parking Images: 
 Parking Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -290,8 +290,8 @@ Parking Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhan
   session to truly make the most of this magical experience. Treat yourself to a moment
   of tranquillity and let nature rejuvenate your spirit!"
 Extra Title: Extra Section
-Extra Mini Description:
-Map Extra Images:
+Extra Mini Description: 
+Map Extra Images: 
 Extra Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
