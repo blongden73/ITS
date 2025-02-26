@@ -21,7 +21,7 @@ Explore Locations Grid:
 
     Tickets:
     [https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate](https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate)
-- Image: "/assets/images/beltonhouse.jpg"
+- Image: "/uploads/download-2.jpg"
   Title: 4—Belvoir Castle
   Description: |-
     Early 19th-century bastion with gilded salons, tapestries, jousting tournaments and costumed guides.
@@ -36,7 +36,7 @@ Explore Locations Grid:
 
     [https://www.strettonlakes.co.uk/fishing/
     ](https://www.strettonlakes.co.uk/fishing/)
-- Image: "/assets/images/belvoircastle.jpg"
+- Image: "/uploads/download-1.jpg"
   Title: 6—The Olive Branch Country Inn
   Description: |
     Award Winning Village Pub and Inn. Good Hotel Guide Best Hotel in the Midland 2024. The Times Cosy Pubs for Autumn. Daily Mail Inspector Calls 5 stars.
@@ -72,7 +72,7 @@ Explore Locations Grid:
 - Image: 
   Title: 14—
   Description: 
-- Image: 
+- Image: "/uploads/images.jpg"
   Title: 15—Burghley House
   Description: |-
     Description here.
