@@ -20,6 +20,7 @@ b.  You, or your means the person making the booking. This licence is personal t
 c.  If you don’t understand any of this agreement and want to talk to us about it, please contact us by:
 
 i.  Email: hello@inthestix.co.uk
+
 ii.  Telephone: 07958 378 971, or 07818 066 690
 
 If you would like this contract in another format for example, larger print, audio, please contact us to make arrangements.  
@@ -74,11 +75,17 @@ You will then be asked to ‘pay now’ to confirm the booking.
 This acknowledgement does not, however, mean that your order has been accepted.
 
 We may contact you to say that we do not accept your order. This is typically for the following reasons:
+
 (a)  the Dome is unavailable;
+
 (b)  we cannot authorise your payment;
+
 (c)  you are not allowed to licence part of our Property from us;
+
 (d)  we are not allowed to licence our part of our Property to you; 
+
 (e)  you have made a booking inconsistent with this agreement; and
+
 (f)  there has been a mistake on the pricing or description of the licence.
 
 6.7.  We will only accept your booking when we email you to confirm this (final confirmation email). At this point, a legally binding contract will be in place between you and us. If we don’t confirm your booking by final confirmation email we will refund your deposit. 
