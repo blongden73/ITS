@@ -44,7 +44,7 @@ Dome Features:
   Image: "/uploads/DSC5513-Edit-6954ae.jpg"
   Description: Description to go here.
 Dome 1 Title: Dome 1 - Greetham
-Dome 1 Mini Description: Dome 1 - Greetham
+Dome 1 Mini Description: The blue one
 Map Dome 1 Images: 
 Dome 1 Description: Offering the utmost privacy to its guests. With its serene location
   near a soothing babbling brook, this dome provides uninterrupted views of the surrounding
@@ -59,7 +59,7 @@ Dome 1 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 2 Title: Dome 2 - Barrow
-Dome 2 Mini Description: 
+Dome 2 Mini Description: The most accessible one
 Map Dome 2 Images: 
 Dome 2 Description: Ideally located at the base of the valley, providing easy access
   for our less able-bodied visitors. Its vibrant Moroccan-inspired design features
@@ -74,7 +74,7 @@ Dome 2 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 3 Title: Dome 3 - Hambleton
-Dome 3 Mini Description: 
+Dome 3 Mini Description: The retro bus seat one
 Map Dome 3 Images: 
 Dome 3 Description: Nestled into the hillside, this dome offers elevated views that
   will take your breath away. Inside, you’ll find an eclectic mix of handpicked retro
@@ -89,7 +89,7 @@ Dome 3 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 4 Title: Dome 4 - Exton
-Dome 4 Mini Description: 
+Dome 4 Mini Description: The morning sun one
 Map Dome 4 Images: 
 Dome 4 Description: With its warm and inviting decor in beautiful shades of pink and
   red, Exton is designed to make you feel right at home. The east-facing kitchen and
@@ -105,7 +105,7 @@ Dome 4 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 5 Title: Dome 5 - Clipsham
-Dome 5 Mini Description: 
+Dome 5 Mini Description: The slipper chair one
 Map Dome 5 Images: 
 Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touch for
   those who appreciate a little extra space. Nestled into the hillside, Clipsham offers
@@ -121,7 +121,7 @@ Dome 5 Images:
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 6 Title: Dome 6 - Normanton
-Dome 6 Mini Description: 
+Dome 6 Mini Description: The rocking chair one
 Map Dome 6 Images: 
 Dome 6 Description: Conveniently located just a five-minute walk from the car park.
   This dome also has a walk in wardrobe and is situated alongside Dome 5 on a hillside
