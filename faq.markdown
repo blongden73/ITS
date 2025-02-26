@@ -4,13 +4,6 @@ permalink: "/faqs/"
 layout: standard
 ---
 
-# Heading one test
-## Heading two test
-### Heading three test
-`Code test
-*Italics test
-
-
 Q: Is there a minimum age to book? 
 
 A: Minimum booking age is 30, we will consider younger bookings but they must be agreed in advance with the owners before any booking commences.
