@@ -7,7 +7,7 @@ Intro Title: Locally sourced organic produce
 Smoke N Sticks Description: "Introducing Smoke n Stix, our unique event and outdoor
   kitchen space designed for unforgettable culinary experiences! Available for groups
   booking two domes or more, this versatile area allows you to cook and dine together
-  in a beautiful setting. \n\nWith seating for up to 40 people, Smoke n' Stix offers
+  in a beautiful setting. \n\nWith seating for up to 40 people, Smoke 'n Stix offers
   a fantastic undercover space that blends indoor and outdoor elements, ensuring you
   can enjoy your time together regardless of the weather. \n\nEquipped with outdoor
   cooking facilities, including a giant log-fired pizza oven, BBQ, gas hob, and oven,
