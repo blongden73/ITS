@@ -70,8 +70,12 @@ Explore Locations Grid:
     from medieval times to a more dominant Georgian presence. It is well worth a visit
     with Market day on Friday and farmers market alternate Fridays. www.stamford.co.uk
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.22.27.png"
-  Title: 11—
-  Description: Description here.
+  Title: 11. Rumble Rutland (outdoor laser tag)
+  Description: |-
+    Rumble is a fantastic outdoor laser tag facility. On the edge of Rutland Water nestled in the woodland are the many arenas of Rumble! Hours of fun for all the family. An absolute must if you are visiting the water!
+
+
+    https://www.rumblelive.co.uk
 - Image: 
   Title: 12—
   Description: Description here.
