@@ -40,7 +40,7 @@ Explore Locations Grid:
     [https://www.strettonlakes.co.uk/fishing/
     ](https://www.strettonlakes.co.uk/fishing/)
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.21.02.png"
-  Title: 6—The Olive Branch Country Inn
+  Title: '6. The Olive Branch '
   Description: |
     Award Winning Village Pub and Inn. Good Hotel Guide Best Hotel in the Midland 2024. The Times Cosy Pubs for Autumn. Daily Mail Inspector Calls 5 stars.
 
@@ -52,14 +52,14 @@ Explore Locations Grid:
 
 '
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.59.39.png"
-  Title: Grimsthorpe Castle
+  Title: 8. Grimsthorpe Castle
   Description: "Historic house with gardens and parkland. Facilities include -large
     car park, adventure playground, food & drink, gift shop. Walk or cycle miles of
     traffic free tracks and trails in the park or take a guided tour of the castle
     and find out more about this hidden delight. Learn about Henry VII visit 500 years
     ago! \n\nhttps://grimsthorpe.co.uk"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.12.08.png"
-  Title: 9—Golf
+  Title: 9. Greetham Valley Golf
   Description: "Greetham Valley Golf Course is our neighbour and a short 15 minute
     walk to the club house or a 2 minute drive. \nGreetham Valley is set amidst 276
     acres of rolling Rutland countryside. With 45 spectacular holes!  \n\n\nhttps://www.greethamvalley.co.uk"
