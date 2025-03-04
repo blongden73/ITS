@@ -69,7 +69,7 @@ Explore Locations Grid:
     and alleyways it is a very attractive town to explore. With architecture ranging
     from medieval times to a more dominant Georgian presence. It is well worth a visit
     with Market day on Friday and farmers market alternate Fridays. www.stamford.co.uk
-- Image: 
+- Image: "/uploads/Screenshot%202025-03-04%20at%2018.22.27.png"
   Title: 11—
   Description: Description here.
 - Image: 
