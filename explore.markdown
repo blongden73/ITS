@@ -17,7 +17,7 @@ Explore Locations Grid:
     A traditional English pub with great pub grub favourites and chefs daily changing specials. Fantastic beer garden out the back and dog friendly too!
 
     [www.theploughgreetham.co.uk/](www.theploughgreetham.co.uk/)
-- Image: "/assets/images/stamford.jpg"
+- Image: "/uploads/Screenshot%202025-03-04%20at%2015.28.59.png"
   Title: 3—National Trust - Belton Estate
   Description: |-
     Classic 17th-century English house with opulent decor, fine furnishings and gardens. Dogs on leads.
