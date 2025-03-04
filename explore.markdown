@@ -13,7 +13,10 @@ Explore Locations Grid:
     door step! \n\n[www.wheatsheaf-greetham.co.uk](www.wheatsheaf-greetham.co.uk)\n\n"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.12.48.png"
   Title: 2—The Plough
-  Description: "Description here. \n\n[www.theploughgreetham.co.uk/](www.theploughgreetham.co.uk/)"
+  Description: |-
+    A traditional English pub with great pub grub favourites and chefs daily changing specials. Fantastic beer garden out the back and dog friendly too!
+
+    [www.theploughgreetham.co.uk/](www.theploughgreetham.co.uk/)
 - Image: "/assets/images/stamford.jpg"
   Title: 3—National Trust - Belton Estate
   Description: |-
