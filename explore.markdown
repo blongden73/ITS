@@ -46,7 +46,7 @@ Explore Locations Grid:
 
     [https://www.theolivebranchpub.com/
     ](https://www.theolivebranchpub.com/)
-- Image: 
+- Image: "/uploads/1000_F_166127714_NsoaC5XBRuVEivlBOdIFgNaQMLj36oSJ.jpg"
   Title: 7—Family Run
   Description: 'Description goes here.
 
