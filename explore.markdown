@@ -24,7 +24,7 @@ Explore Locations Grid:
 
     Tickets:
     [https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate](https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate)
-- Image: "/uploads/download-2.jpg"
+- Image: "/uploads/Screenshot%202025-03-04%20at%2017.51.47.png"
   Title: 4—Belvoir Castle
   Description: |-
     Early 19th-century bastion with gilded salons, tapestries, jousting tournaments and costumed guides.
@@ -46,7 +46,7 @@ Explore Locations Grid:
 
     [https://www.theolivebranchpub.com/
     ](https://www.theolivebranchpub.com/)
-- Image: "/uploads/Rutland-countryside-750x450.jpg"
+- Image: 
   Title: 7—Family Run
   Description: 'Description goes here.
 
