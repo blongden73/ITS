@@ -22,11 +22,9 @@ Spa Days Images:
 - "/uploads/_DSC9042-Edit.jpg"
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
-Retreats Description: "New for 2021, Normanton is the first dome you approach from
-  the carpark. High on the hillside it has a view straight down the valley. Perfect
-  for the evening sunsets. Styled with our eclectic choice of furnishings, the dome
-  has a rocking chair and a beautiful antique slipper chair, plus all our standard
-  pieces!\n\n"
+Retreats Description: "We're excited to announce a series of unique retreats coming
+  your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
+  tuned for more details! \n\n"
 Retreats Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
