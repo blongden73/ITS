@@ -63,9 +63,12 @@ Explore Locations Grid:
   Description: "Greetham Valley Golf Course is our neighbour and a short 15 minute
     walk to the club house or a 2 minute drive. \nGreetham Valley is set amidst 276
     acres of rolling Rutland countryside. With 45 spectacular holes!  \n\n\nhttps://www.greethamvalley.co.uk"
-- Image: 
-  Title: 10—All Saints Church, Stamford
-  Description: Description here.
+- Image: "/uploads/Screenshot%202025-03-04%20at%2018.16.12.png"
+  Title: 10. Stamford (All Saints Church)
+  Description: Stamford is an interesting old market town. With its many cobbled streets
+    and alleyways it is a very attractive town to explore. With architecture ranging
+    from medieval times to a more dominant Georgian presence. It is well worth a visit
+    with Market day on Friday and farmers market alternate Fridays. www.stamford.co.uk
 - Image: 
   Title: 11—
   Description: Description here.
