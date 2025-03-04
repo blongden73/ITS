@@ -51,8 +51,8 @@ Explore Locations Grid:
   Description: 'Description goes here.
 
 '
-- Image: 
-  Title: 8—
+- Image: "/uploads/Screenshot%202025-03-04%20at%2017.59.39.png"
+  Title: Grimsthorpe Castle
   Description: 'Historic house with gardens and parkland. Facilities include -large
     car park, adventure playground, food & drink, gift shop. Walk or cycle miles of
     traffic free tracks and trails in the park or take a guided tour of the castle
