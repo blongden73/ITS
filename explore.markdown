@@ -53,7 +53,11 @@ Explore Locations Grid:
 '
 - Image: 
   Title: 8—
-  Description: Description here.
+  Description: 'Historic house with gardens and parkland. Facilities include -large
+    car park, adventure playground, food & drink, gift shop. Walk or cycle miles of
+    traffic free tracks and trails in the park or take a guided tour of the castle
+    and find out more about this hidden delight. Learn about Henry VII visit 500 years
+    ago! '
 - Image: "/uploads/download.jpg"
   Title: 9—Golf
   Description: |-
