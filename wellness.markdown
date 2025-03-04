@@ -1,9 +1,9 @@
 ---
 title: Wellness
 permalink: "/wellness/"
-Hero Description: Whether you are looking to have a festival style wedding, a luxurious
-  bohemian party, a relaxed picnic – whatever your style and taste, our site is a
-  blank canvas for your perfect celebration.
+Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
+  a spa day, a spa weekend, or a retreat. In the Stix is now able to offer you all
+  of these experiences in our unique outdoor setting.
 Spa Days Description: "We are thrilled to announce the launch of our new spa days
   for 2025! Join us for a rejuvenating morning or afternoon session, perfect for couples
   or groups of up to 6 people. This exclusive experience offers unlimited access to
