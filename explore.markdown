@@ -46,7 +46,7 @@ Explore Locations Grid:
 
     [https://www.theolivebranchpub.com/
     ](https://www.theolivebranchpub.com/)
-- Image: 
+- Image: "/uploads/Rutland-countryside-750x450.jpg"
   Title: 7—Family Run
   Description: 'Description goes here.
 
