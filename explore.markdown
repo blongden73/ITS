@@ -6,26 +6,26 @@ Hero Description: Rutland is a beautiful and often overlooked county due to it�
   Known as Multum in Parvo (Much in Little) it certainly lives up to its name.
 Explore Locations Grid:
 - Image: "/assets/images/oakham.jpg"
-  Title: 1—The Wheatsheaf
+  Title: 1. The Wheatsheaf
   Description: "The Wheatsheaf, is by far our own favourite village pub, which is
     a very pleasant 10-minute walk from the site along the brook. Children and dogs
     welcome, a fantastic welcoming atmosphere and the most amazing food all on you
     door step! \n\n[www.wheatsheaf-greetham.co.uk](www.wheatsheaf-greetham.co.uk)\n\n"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.12.48.png"
-  Title: 2—The Plough
+  Title: 2. The Plough
   Description: |-
     A traditional English pub with great pub grub favourites and chefs daily changing specials. Fantastic beer garden out the back and dog friendly too!
 
     [www.theploughgreetham.co.uk/](www.theploughgreetham.co.uk/)
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.28.59.png"
-  Title: 3—National Trust - Belton Estate
+  Title: 3. National Trust - Belton Estate
   Description: |-
     Classic 17th-century English house with opulent decor, fine furnishings and gardens. With a huge outdoor adventure park for the children.Dogs welcome on leads.
 
     Tickets:
     [https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate](https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate)
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.51.47.png"
-  Title: 4—Belvoir Castle
+  Title: 4. Belvoir Castle
   Description: |-
     Early 19th-century bastion with gilded salons, tapestries, jousting tournaments and costumed guides.
 
@@ -33,7 +33,7 @@ Explore Locations Grid:
 
     [https://www.belvoircastle.com/book-tickets-castle-garden/](https://www.belvoircastle.com/book-tickets-castle-garden/)
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.54.16.png"
-  Title: 5—Fishing
+  Title: 5. Stretton Lakes
   Description: |-
     Located at the heart of Oakham, Rutland; Stretton Lakes is just the place for those who seek relaxation in a beautiful spot. At Stretton Lakes, you can visit with your friends and family and fish from dawn till dusk. They have six coarse fishing lakes stocked with many types of fish including Mirror, Common and Ghost Carp, Roach, Rudd, Tench and Bream. Their fishing lakes are open all year round. Stretton Lakes is an open coarse fishery, on a day ticket basis.
 
@@ -53,11 +53,11 @@ Explore Locations Grid:
 '
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.59.39.png"
   Title: Grimsthorpe Castle
-  Description: 'Historic house with gardens and parkland. Facilities include -large
+  Description: "Historic house with gardens and parkland. Facilities include -large
     car park, adventure playground, food & drink, gift shop. Walk or cycle miles of
     traffic free tracks and trails in the park or take a guided tour of the castle
     and find out more about this hidden delight. Learn about Henry VII visit 500 years
-    ago! '
+    ago! \n\nhttps://grimsthorpe.co.uk"
 - Image: "/uploads/download.jpg"
   Title: 9—Golf
   Description: |-
