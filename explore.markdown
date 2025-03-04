@@ -76,9 +76,12 @@ Explore Locations Grid:
 
 
     https://www.rumblelive.co.uk
-- Image: 
-  Title: 12—
-  Description: Description here.
+- Image: "/uploads/Screenshot%202025-03-04%20at%2018.31.56.png"
+  Title: 12. Rutland Cycle Hire
+  Description: |-
+    If you are at Rutland Water and you have the urge to cycle, then Rutland Cycle hire at Whitwell is the place to go for bikes of all sizes for all people, mountain bike or E bike they have got it covered.
+
+    https://www.rutlandcycling.com/holding-page/
 - Image: 
   Title: 13—
   Description: Description here.
