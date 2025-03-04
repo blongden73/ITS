@@ -1,17 +1,12 @@
 ---
 title: Wellness
 permalink: "/wellness/"
-layout: wellness
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
-Spa Days Description: "New for 2021, Normanton is the first dome you approach from
-  the carpark. High on the hillside it has a view straight down the valley. Perfect
-  for the evening sunsets. Styled with our eclectic choice of furnishings, the dome
-  has a rocking chair and a beautiful antique slipper chair, plus all our standard
-  pieces!\n\n"
+Spa Days Description: "\n\n"
 Spa Days Images:
-- "/assets/images/image.jpg"
+- "/uploads/_DSC9042-Edit.jpg"
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
 Retreats Description: "New for 2021, Normanton is the first dome you approach from
@@ -30,5 +25,6 @@ YOGA Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
 - "/assets/images/image-3.jpg"
+layout: wellness
 ---
 
