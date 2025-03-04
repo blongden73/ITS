@@ -20,7 +20,7 @@ Explore Locations Grid:
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.28.59.png"
   Title: 3—National Trust - Belton Estate
   Description: |-
-    Classic 17th-century English house with opulent decor, fine furnishings and gardens. Dogs on leads.
+    Classic 17th-century English house with opulent decor, fine furnishings and gardens. With a huge outdoor adventure park for the children.Dogs welcome on leads.
 
     Tickets:
     [https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate](https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate)
@@ -39,14 +39,14 @@ Explore Locations Grid:
 
     [https://www.strettonlakes.co.uk/fishing/
     ](https://www.strettonlakes.co.uk/fishing/)
-- Image: "/uploads/download-1.jpg"
+- Image: "/uploads/Screenshot%202025-03-04%20at%2017.21.02.png"
   Title: 6—The Olive Branch Country Inn
   Description: |
     Award Winning Village Pub and Inn. Good Hotel Guide Best Hotel in the Midland 2024. The Times Cosy Pubs for Autumn. Daily Mail Inspector Calls 5 stars.
 
     [https://www.theolivebranchpub.com/
     ](https://www.theolivebranchpub.com/)
-- Image: "/uploads/1000_F_166127714_NsoaC5XBRuVEivlBOdIFgNaQMLj36oSJ.jpg"
+- Image: 
   Title: 7—Family Run
   Description: 'Description goes here.
 
