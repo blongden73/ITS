@@ -32,7 +32,7 @@ Explore Locations Grid:
     Entry ticket: £10
 
     [https://www.belvoircastle.com/book-tickets-castle-garden/](https://www.belvoircastle.com/book-tickets-castle-garden/)
-- Image: "/assets/images/burghleyhouse.jpg"
+- Image: "/uploads/Screenshot%202025-03-04%20at%2017.54.16.png"
   Title: 5—Fishing
   Description: |-
     Located at the heart of Oakham, Rutland; Stretton Lakes is just the place for those who seek relaxation in a beautiful spot. At Stretton Lakes, you can visit with your friends and family and fish from dawn till dusk. They have six coarse fishing lakes stocked with many types of fish including Mirror, Common and Ghost Carp, Roach, Rudd, Tench and Bream. Their fishing lakes are open all year round. Stretton Lakes is an open coarse fishery, on a day ticket basis.
