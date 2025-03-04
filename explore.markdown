@@ -11,7 +11,7 @@ Explore Locations Grid:
     a very pleasant 10-minute walk from the site along the brook. Children and dogs
     welcome, a fantastic welcoming atmosphere and the most amazing food all on you
     door step! \n\n[www.wheatsheaf-greetham.co.uk](www.wheatsheaf-greetham.co.uk)\n\n"
-- Image: "/assets/images/oakham.jpg"
+- Image: "/uploads/Screenshot%202025-03-04%20at%2015.12.48.png"
   Title: 2—The Plough
   Description: "Description here. \n\n[www.theploughgreetham.co.uk/](www.theploughgreetham.co.uk/)"
 - Image: "/assets/images/stamford.jpg"
