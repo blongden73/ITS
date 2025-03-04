@@ -11,7 +11,7 @@ Explore Locations Grid:
     a very pleasant 10-minute walk from the site along the brook. Children and dogs
     welcome, a fantastic welcoming atmosphere and the most amazing food all on you
     door step! \n\n[www.wheatsheaf-greetham.co.uk](www.wheatsheaf-greetham.co.uk)\n\n"
-- Image: "/uploads/Screenshot%202025-03-04%20at%2015.12.48.png"
+- Image: "/uploads/the-plough-rutland.jpg"
   Title: 2. The Plough
   Description: |-
     A traditional English pub with great pub grub favourites and chefs daily changing specials. Fantastic beer garden out the back and dog friendly too!
@@ -69,19 +69,12 @@ Explore Locations Grid:
     and alleyways it is a very attractive town to explore. With architecture ranging
     from medieval times to a more dominant Georgian presence. It is well worth a visit
     with Market day on Friday and farmers market alternate Fridays. www.stamford.co.uk
-- Image: "/uploads/Screenshot%202025-03-04%20at%2018.22.27.png"
-  Title: 11. Rumble Rutland (outdoor laser tag)
-  Description: |-
-    Rumble is a fantastic outdoor laser tag facility. On the edge of Rutland Water nestled in the woodland are the many arenas of Rumble! Hours of fun for all the family. An absolute must if you are visiting the water!
-
-
-    https://www.rumblelive.co.uk
-- Image: "/uploads/Screenshot%202025-03-04%20at%2018.31.56.png"
-  Title: 12. Rutland Cycle Hire
-  Description: |-
-    If you are at Rutland Water and you have the urge to cycle, then Rutland Cycle hire at Whitwell is the place to go for bikes of all sizes for all people, mountain bike or E bike they have got it covered.
-
-    https://www.rutlandcycling.com/holding-page/
+- Image: 
+  Title: 11—
+  Description: Description here.
+- Image: 
+  Title: 12—
+  Description: Description here.
 - Image: 
   Title: 13—
   Description: Description here.
