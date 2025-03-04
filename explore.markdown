@@ -58,12 +58,11 @@ Explore Locations Grid:
     traffic free tracks and trails in the park or take a guided tour of the castle
     and find out more about this hidden delight. Learn about Henry VII visit 500 years
     ago! \n\nhttps://grimsthorpe.co.uk"
-- Image: "/uploads/download.jpg"
+- Image: "/uploads/Screenshot%202025-03-04%20at%2018.12.08.png"
   Title: 9—Golf
-  Description: |-
-    Description here.
-
-    [https://www.woolfox.uk/?utm_source=gmb&utm_medium=organic](https://www.woolfox.uk/?utm_source=gmb&utm_medium=organic)
+  Description: "Greetham Valley Golf Course is our neighbour and a short 15 minute
+    walk to the club house or a 2 minute drive. \nGreetham Valley is set amidst 276
+    acres of rolling Rutland countryside. With 45 spectacular holes!  \n\n\nhttps://www.greethamvalley.co.uk"
 - Image: 
   Title: 10—All Saints Church, Stamford
   Description: Description here.
