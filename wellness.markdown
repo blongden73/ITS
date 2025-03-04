@@ -19,7 +19,7 @@ Spa Days Description: "We are thrilled to announce the launch of our new spa day
   the ultimate spa experience amidst nature. We can’t wait to welcome you for a day
   of relaxation and indulgence!\n\n"
 Spa Days Images:
-- "/uploads/_DSC9042-Edit.jpg"
+- "/uploads/test-dome.jpg"
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
 - "/uploads/image-asset.png"
