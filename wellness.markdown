@@ -22,6 +22,7 @@ Spa Days Images:
 - "/uploads/_DSC9042-Edit.jpg"
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
+- "/uploads/image-asset.png"
 Retreats Description: "We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
   tuned for more details! \n\n"
