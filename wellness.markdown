@@ -8,12 +8,12 @@ Spa Days Description: "We are thrilled to announce the launch of our new spa day
   for 2025! Join us for a rejuvenating morning or afternoon session, perfect for couples
   or groups of up to 6 people. This exclusive experience offers unlimited access to
   our fantastic wellness facilities, including the log-fired barrel sauna, cold water
-  shower, and cold plunge bath.\nYou will also get to unwind in our luxurious log-fired
+  shower, and cold plunge bath.\n\nYou will also get to unwind in our luxurious log-fired
   hot tub and get to sample the comfort of a dome. Relax and enjoy the living area
   complete with a cozy log burner, Chesterfield sofas, hanging chair, and ensuite
   bathroom facilities. On warm summer days, you can take advantage of the outdoor
   sofas and soak up some sun.\nAs part of your session, you'll receive a £10 voucher
-  towards a delicious lunch, freshly prepared to order. \nThis unique opportunity
+  towards a delicious lunch, freshly prepared to order. \n\nThis unique opportunity
   allows you to relax and benefit from the incredible amenities at In the Stix, escape
   the everyday hustle and bustle, reconnect with friends, and immerse yourself in
   the ultimate spa experience amidst nature. We can’t wait to welcome you for a day
