@@ -70,10 +70,9 @@ Explore Locations Grid:
     from medieval times to a more dominant Georgian presence. It is well worth a visit
     with Market day on Friday and farmers market alternate Fridays. www.stamford.co.uk
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.22.27.png"
-  Title: 11. Rumble Rutland (outdoor laser tag)
+  Title: '11. Rumble Rutland '
   Description: |-
     Rumble is a fantastic outdoor laser tag facility. On the edge of Rutland Water nestled in the woodland are the many arenas of Rumble! Hours of fun for all the family. An absolute must if you are visiting the water!
-
 
     https://www.rumblelive.co.uk
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.31.56.png"
@@ -84,10 +83,10 @@ Explore Locations Grid:
     https://www.rutlandcycling.com/holding-page/
 - Image: "/uploads/Screenshot%202025-03-05%20at%2010.52.11.png"
   Title: 13. Aqua Park (Rutland Water)
-  Description: "One of the largest water park attractions, this is fun for all of
-    the family. Just 10 minutes drive from us at Rutland Water the water. It has the
-    UK's talent obstacle The Rutland Mammoth a 5.5m drop! Advanced booking is essential.
-    \n\n\n\n\nhttps://aquaparkgroup.co.uk/rutland/"
+  Description: "One of the largest inflatable water park attractions, this is fun
+    for all of the family. Just 10 minutes drive from us at Rutland Water the water.
+    It has the UK's talent obstacle The Rutland Mammoth a 5.5m drop! Advanced booking
+    is essential. \n\nhttps://aquaparkgroup.co.uk/rutland/"
 - Image: "/uploads/Screenshot%202025-03-05%20at%2011.26.09.png"
   Title: 14. Rutland Water Sports
   Description: "Whether you're looking to sail, windsurf, kayak, canoe or paddleboard,
@@ -146,18 +145,16 @@ Explore Locations Grid:
     varieties of cows, sheep, pigs, Llamas, alpacas, goats and rabbits. Children can
     explore and learn about farm life.\n\nhttps://rutlandfarmpark.co.uk \n"
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.12.23.png"
-  Title: 21. Twin Lakes (theme park)
+  Title: '21. Twin Lakes '
   Description: |
-    Twin Lakes is our local theme park, situated 30 minutes away in Melton Mowbray. It has a variety of rides and covers all age groups. It has a fanatic indoor barn for rainy days and when the sun is shinning they have an outdoor water slide park.
+    Twin Lakes is our local theme park, situated 30 minutes away in Melton Mowbray. It has a variety of rides and covers all age groups. It has a fantastic indoor barn for rainy days and when the sun is shinning they have an outdoor water slide park.
 
     https://www.twinlakespark.co.uk
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.20.58.png"
   Title: 22. Oakham
   Description: |
     Oakham, a pretty little market town steeped in history. Only a short 10-minute drive from the campsite. It has lots of lovely little independent shops and plenty of cafes and tea rooms, and a couple of good pubs.
-
-
-
+    Oakham market days are Wednesday and Saturday with a farmers market on Goal Street 3rd Saturday of each month.
 
     https://discover-rutland.co.uk/oakham/
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.22.57.png"
