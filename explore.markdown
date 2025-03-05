@@ -46,11 +46,9 @@ Explore Locations Grid:
 
     [https://www.theolivebranchpub.com/
     ](https://www.theolivebranchpub.com/)
-- Image: 
+- Image: "/uploads/Screenshot%202025-03-05%20at%2012.39.28.png"
   Title: 7—Family Run
-  Description: 'Description goes here.
-
-'
+  Description: "\n"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.59.39.png"
   Title: 8. Grimsthorpe Castle
   Description: "Historic house with gardens and parkland. Facilities include -large
