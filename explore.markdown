@@ -122,11 +122,16 @@ Explore Locations Grid:
     Rutland Belle plies from Whitwell on the North Shore and calls in at Normanton on the South Shore. Visitors can enjoy the scenery from the water, amidst the sailors, anglers and waterbirds, whilst listening to commentary highlighting points of interest.
 
     https://rutlandwatercruises.com
-- Image: 
-  Title: 18—
-  Description: 'Description here.
+- Image: "/uploads/Screenshot%202025-03-05%20at%2011.57.02.png"
+  Title: '18. '
+  Description: |2
 
-'
+    Ran in partnership with coaching organisation, Inspire2Tri, we put on weekly swim sessions throughout the summer season to help you master the right strokes and techniques to conquer the challenges that can come with open water swimming.
+
+    We offer two different courses in our open water sessions:
+
+    500m – for more confident swimmers
+    250m – for recreational swimmers.
 - Image: 
   Title: 19—
   Description: 'Description here.
