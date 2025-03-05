@@ -146,10 +146,11 @@ Explore Locations Grid:
     varieties of cows, sheep, pigs, Llamas, alpacas, goats and rabbits. Children can
     explore and learn about farm life.\n\nhttps://rutlandfarmpark.co.uk \n"
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.12.23.png"
-  Title: 21—
-  Description: 'Description here.
+  Title: 21. Twin Lakes (theme park)
+  Description: |
+    Twin Lakes is our local theme park, situated 30 minutes away in Melton Mowbray. It has a variety of rides and covers all age groups. It has a fanatic indoor barn for rainy days and when the sun is shinning they have an outdoor water slide park.
 
-'
+    https://www.twinlakespark.co.uk
 - Image: 
   Title: 22–
   Description: 'Description here.
