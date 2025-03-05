@@ -36,6 +36,7 @@ YOGA Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
 - "/assets/images/image-3.jpg"
+Test - new section: Test - new section
 layout: wellness
 ---
 
