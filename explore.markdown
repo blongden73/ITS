@@ -123,8 +123,8 @@ Explore Locations Grid:
 
     https://rutlandwatercruises.com
 - Image: "/uploads/Screenshot%202025-03-05%20at%2011.57.02.png"
-  Title: '18. '
-  Description: |2
+  Title: 18. Open water swimming
+  Description: |2-
 
     Ran in partnership with coaching organisation, Inspire2Tri, we put on weekly swim sessions throughout the summer season to help you master the right strokes and techniques to conquer the challenges that can come with open water swimming.
 
@@ -132,6 +132,8 @@ Explore Locations Grid:
 
     500m – for more confident swimmers
     250m – for recreational swimmers.
+
+    https://anglianwaterparks.co.uk/rutland-water-park/other-activities/open-water-swimming
 - Image: 
   Title: 19—
   Description: 'Description here.
