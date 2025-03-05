@@ -10,7 +10,7 @@ Explore Locations Grid:
   Description: "The Wheatsheaf, is by far our own favourite village pub, which is
     a very pleasant 10-minute walk from the site along the brook. Children and dogs
     welcome, a fantastic welcoming atmosphere and the most amazing food all on you
-    door step! \n\n\n\n"
+    door step! \nAdvanced booking is a must!\n\nhttps://www.wheatsheaf-greetham.co.uk"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.12.48.png"
   Title: 2. The Plough
   Description: |-
