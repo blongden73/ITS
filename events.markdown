@@ -16,7 +16,7 @@ Parties Description: "If you're searching for a special venue to host your celeb
   pizzas, Thai food, or something else entirely. \n\nThe space can be booked for just
   a night or for an entire weekend, and if you reserve all the domes, you’ll enjoy
   exclusive use of the entire site. Let us help you create an unforgettable celebration
-  at In the Stix!"
+  at In the Stix!\n\nEmail us with your enquiry."
 Parties Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
@@ -66,6 +66,8 @@ bbqs Images:
 - "/assets/images/image-3.jpg"
 - "/assets/images/image-3.jpg"
 - "/assets/images/image-3.jpg"
+- 
+Celebrations - test: 
 layout: events
 ---
 
