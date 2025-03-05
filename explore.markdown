@@ -113,7 +113,7 @@ Explore Locations Grid:
     ceilings, cask ales, small bustling bar and elegant Dining Room and Terrace with
     magnificent views over the water it is a perfect place to relax.\n\nGreat food,
     we highly recommend!\n\nhttps://www.finchsarms.co.uk/#restaurant\n"
-- Image: 
+- Image: "/uploads/Screenshot%202025-03-05%20at%2011.44.08.png"
   Title: 17—
   Description: 'Description here.
 
