@@ -17,7 +17,7 @@ Dome Features:
   Image: "/uploads/in-the-stix-rutland-glamping-shower-rooms.jpg"
   Description: Large walk in showers and full plumbed W.C.
 - Title: Chesterfield sofas
-  Image: "/uploads/_DSC5375-Edit.jpg"
+  Image: "/uploads/in-the-stix-rutland-glamping-chesterfield-sofas.jpg.webp"
   Description: To curl up on in front of the fire.
 - Title: Log burners
   Image: "/uploads/_DSC9026-Edit.jpg"
