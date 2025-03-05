@@ -94,7 +94,8 @@ Breakfast hampers:
     * 2 litres of freshly squeezed orange juice
   Image: "/assets/images/Chilli-Blackened-Peppers.jpg"
 - Title: Small Vegan Hamper £38
-  Description: |-
+  Description: |2-
+
     * 4 large Hambleton Bakery Breakfast muffins
     * 1 small Hambleton bakery seven cereal loaf
     * 1 jar of Barlow’s of Belvoir marmalade or jam
@@ -105,7 +106,8 @@ Breakfast hampers:
     * 350g Coconut dairy free natural yogurt alternative
   Image: "/assets/images/Vegan-Chilli-.jpg"
 - Title: Large Vegan Hamper £50
-  Description: |-
+  Description: |2-
+
     * 8 large Hambleton Bakery breakfast muffins
     * 1 large Hambleton Bakery whole-meal loaf
     * 1 jar of Barlow’s of Belvoir marmalade or jam
