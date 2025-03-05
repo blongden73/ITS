@@ -162,9 +162,10 @@ Explore Locations Grid:
     https://discover-rutland.co.uk/oakham/
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.22.57.png"
   Title: 23. Hitchen's Barn
-  Description: 'Description here.
-
-'
+  Description: "A multi award winning restaurant in the heart of Oakham.\n  Hitchen's
+    Barn serves Modern British & locally sourced food. \n​Neil & Louise Hitchen look
+    forward to welcoming you.\n​\nThey serve Lunch & Dinner Tuesday - Saturday.\nClosed
+    on Sunday & Monday's. \n\nFantastic food, we highly recommend!\n\nhttps://www.hitchensbarn.co.uk\n"
 - Image: 
   Title: 24–
   Description: 'Description here.
