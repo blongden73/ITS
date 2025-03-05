@@ -22,6 +22,8 @@ Explore Locations Grid:
   Description: |-
     Classic 17th-century English house with opulent decor, fine furnishings and gardens. With a huge outdoor adventure park for the children.Dogs welcome on leads.
 
+    Don't forget your National Trust Cards!
+
     Tickets:
     [https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate](https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate)
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.51.47.png"
@@ -45,6 +47,8 @@ Explore Locations Grid:
   Description: |
     Award Winning Village Pub and Inn. Good Hotel Guide Best Hotel in the Midland 2024. The Times Cosy Pubs for Autumn. Daily Mail Inspector Calls 5 stars.
 
+    Fabulous food just a 7 minute drive from us. Booking is essential.
+
     [https://www.theolivebranchpub.com/
     ](https://www.theolivebranchpub.com/)
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.39.28.png"
@@ -65,10 +69,10 @@ Explore Locations Grid:
     acres of rolling Rutland countryside. With 45 spectacular holes!  \n\n\nhttps://www.greethamvalley.co.uk"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.16.12.png"
   Title: 10. Stamford (All Saints Church)
-  Description: Stamford is an interesting old market town. With its many cobbled streets
-    and alleyways it is a very attractive town to explore. With architecture ranging
-    from medieval times to a more dominant Georgian presence. It is well worth a visit
-    with Market day on Friday and farmers market alternate Fridays. www.stamford.co.uk
+  Description: "Stamford is an interesting old market town. With its many cobbled
+    streets and alleyways it is a very attractive town to explore. With architecture
+    ranging from medieval times to a more dominant Georgian presence. It is well worth
+    a visit with Market day on Friday and farmers market alternate Fridays. \n\nhttps://www.visitlincolnshire.com/destinations/stamford/"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.22.27.png"
   Title: '11. Rumble Rutland '
   Description: |-
