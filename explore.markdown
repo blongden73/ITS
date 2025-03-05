@@ -88,9 +88,14 @@ Explore Locations Grid:
     the family. Just 10 minutes drive from us at Rutland Water the water. It has the
     UK's talent obstacle The Rutland Mammoth a 5.5m drop! Advanced booking is essential.
     \n\n\n\n\nhttps://aquaparkgroup.co.uk/rutland/"
-- Image: 
-  Title: 14—
-  Description: 
+- Image: "/uploads/Screenshot%202025-03-05%20at%2011.26.09.png"
+  Title: 14. Rutland Water Sports
+  Description: "Whether you're looking to sail, windsurf, kayak, canoe or paddleboard,
+    Rutland Water Sports have got activities, courses and days out to suit everyone.
+    \n\nLocated on the North Shore of Rutland Water, the Watersports Centre is an
+    AALA, British Canoeing and RYA certified training school. They have friendly,
+    enthusiastic and highly qualified instructors.\n\nTel: 01780 460154\n\nEmail.
+    rutlandactivities@anglianwater.co.uk\n\nhttps://anglianwaterparks.co.uk/rutland-water-park/watersports"
 - Image: "/uploads/images.jpg"
   Title: 15—Burghley House
   Description: |-
