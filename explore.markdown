@@ -27,11 +27,12 @@ Explore Locations Grid:
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.51.47.png"
   Title: 4. Belvoir Castle
   Description: |-
+    Belvoir Castle’s history dates back to the eleventh century. It is the ancestral home of the Duke of Rutland, where the family have lived in an unbroken line for almost a thousand years.
     Early 19th-century bastion with gilded salons, tapestries, jousting tournaments and costumed guides.
+    There are also beautiful gardens, an adventure play ground a retail park a bistro and a cafe.
+    Save 10% when you book online in advance!
 
-    Entry ticket: £10
-
-    [https://www.belvoircastle.com/book-tickets-castle-garden/](https://www.belvoircastle.com/book-tickets-castle-garden/)
+    https://www.belvoircastle.com
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.54.16.png"
   Title: 5. Stretton Lakes
   Description: |-
