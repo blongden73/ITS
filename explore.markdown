@@ -61,36 +61,36 @@ Explore Locations Grid:
     car park, adventure playground, food & drink, gift shop. Walk or cycle miles of
     traffic free tracks and trails in the park or take a guided tour of the castle
     and find out more about this hidden delight. Learn about Henry VII visit 500 years
-    ago! \n\nhttps://grimsthorpe.co.uk"
+    ago! \n\n[https://grimsthorpe.co.uk](https://grimsthorpe.co.uk)"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.12.08.png"
   Title: 9. Greetham Valley Golf
   Description: "Greetham Valley Golf Course is our neighbour and a short 15 minute
     walk to the club house or a 2 minute drive. \nGreetham Valley is set amidst 276
-    acres of rolling Rutland countryside. With 45 spectacular holes!  \n\n\nhttps://www.greethamvalley.co.uk"
+    acres of rolling Rutland countryside. With 45 spectacular holes!  \n\n\n[https://www.greethamvalley.co.uk](https://www.greethamvalley.co.uk)"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.16.12.png"
   Title: 10. Stamford (All Saints Church)
   Description: "Stamford is an interesting old market town. With its many cobbled
     streets and alleyways it is a very attractive town to explore. With architecture
     ranging from medieval times to a more dominant Georgian presence. It is well worth
-    a visit with Market day on Friday and farmers market alternate Fridays. \n\nhttps://www.visitlincolnshire.com/destinations/stamford/"
+    a visit with Market day on Friday and farmers market alternate Fridays. \n\n[https://www.visitlincolnshire.com/destinations/stamford/](https://www.visitlincolnshire.com/destinations/stamford/)"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.22.27.png"
   Title: '11. Rumble Rutland '
   Description: |-
     Rumble is a fantastic outdoor laser tag facility. On the edge of Rutland Water nestled in the woodland are the many arenas of Rumble! Hours of fun for all the family. An absolute must if you are visiting the water!
 
-    https://www.rumblelive.co.uk
+    [https://www.rumblelive.co.uk](https://www.rumblelive.co.uk)
 - Image: "/uploads/Screenshot%202025-03-04%20at%2018.31.56.png"
   Title: 12. Rutland Cycle Hire
   Description: |-
     If you are at Rutland Water and you have the urge to cycle, then Rutland Cycle hire at Whitwell is the place to go for bikes of all sizes for all people, mountain bike or E bike they have got it covered.
 
-    https://www.rutlandcycling.com/holding-page/
+    [https://www.rutlandcycling.com/holding-page/](https://www.rutlandcycling.com/holding-page/)
 - Image: "/uploads/Screenshot%202025-03-05%20at%2010.52.11.png"
   Title: 13. Aqua Park (Rutland Water)
   Description: "One of the largest inflatable water park attractions, this is fun
     for all of the family. Just 10 minutes drive from us at Rutland Water the water.
     It has the UK's talent obstacle The Rutland Mammoth a 5.5m drop! Advanced booking
-    is essential. \n\nhttps://aquaparkgroup.co.uk/rutland/"
+    is essential. \n\n[https://aquaparkgroup.co.uk/rutland/](https://aquaparkgroup.co.uk/rutland/)"
 - Image: "/uploads/Screenshot%202025-03-05%20at%2011.26.09.png"
   Title: 14. Rutland Water Sports
   Description: "Whether you're looking to sail, windsurf, kayak, canoe or paddleboard,
@@ -98,7 +98,7 @@ Explore Locations Grid:
     \n\nLocated on the North Shore of Rutland Water, the Watersports Centre is an
     AALA, British Canoeing and RYA certified training school. They have friendly,
     enthusiastic and highly qualified instructors.\n\nTel: 01780 460154\n\nEmail.
-    rutlandactivities@anglianwater.co.uk\n\nhttps://anglianwaterparks.co.uk/rutland-water-park/watersports"
+    rutlandactivities@anglianwater.co.uk\n\n[https://anglianwaterparks.co.uk/rutland-water-park/watersports](https://anglianwaterparks.co.uk/rutland-water-park/watersports)"
 - Image: "/uploads/images.jpg"
   Title: 15. Burghley House
   Description: |-
@@ -115,16 +115,17 @@ Explore Locations Grid:
     in the heart of the Hambleton peninsula on Rutland Water. \n\nWith it’s beamed
     ceilings, cask ales, small bustling bar and elegant Dining Room and Terrace with
     magnificent views over the water it is a perfect place to relax.\n\nGreat food,
-    we highly recommend!\n\nhttps://www.finchsarms.co.uk/#restaurant\n"
+    we highly recommend!\n\n[https://www.finchsarms.co.uk/#restaurant\n](https://www.finchsarms.co.uk/#restaurant)"
 - Image: "/uploads/Screenshot%202025-03-05%20at%2011.44.08.png"
   Title: '17. The Rutland Belle '
-  Description: |2
+  Description: |2-
 
     Rutland Water Cruises is a family-run business operating boat trips since 1986, cruising around the reservoir during daylight hours from April to October each year.
 
     Rutland Belle plies from Whitwell on the North Shore and calls in at Normanton on the South Shore. Visitors can enjoy the scenery from the water, amidst the sailors, anglers and waterbirds, whilst listening to commentary highlighting points of interest.
 
-    https://rutlandwatercruises.com
+    [https://rutlandwatercruises.com
+    ](https://rutlandwatercruises.com)
 - Image: "/uploads/Screenshot%202025-03-05%20at%2011.57.02.png"
   Title: 18. Open water swimming
   Description: |2-
@@ -136,37 +137,40 @@ Explore Locations Grid:
     500m – for more confident swimmers
     250m – for recreational swimmers.
 
-    https://anglianwaterparks.co.uk/rutland-water-park/other-activities/open-water-swimming
+    [https://anglianwaterparks.co.uk/rutland-water-park/other-activities/open-water-swimming](https://anglianwaterparks.co.uk/rutland-water-park/other-activities/open-water-swimming)
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.00.23.png"
   Title: 19. Rutland Water Nature Reserve
-  Description: |
+  Description: |-
     Rutland Water Nature Reserve is an internationally recognised Site of Special Scientific interest (SSSI), Special Protection Area (SPA) and a Ramsar Wetland of International Importance. It is one of the best places to enjoy birds and wildlife in the UK. Search for rare spring migrants, admire fishing ospreys in the summer, enjoy the autumn wader passage and marvel at huge flocks of winter wildfowl.
 
-    https://www.lrwt.org.uk/rutland-water
+    [https://www.lrwt.org.uk/rutland-water
+    ](https://www.lrwt.org.uk/rutland-water)
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.05.32.png"
   Title: 20. Rutland Farm Park
   Description: "Situated in Oakham itself, it has 18 acres of land filled with various
     varieties of cows, sheep, pigs, Llamas, alpacas, goats and rabbits. Children can
-    explore and learn about farm life.\n\nhttps://rutlandfarmpark.co.uk \n"
+    explore and learn about farm life.\n\n[https://rutlandfarmpark.co.uk \n](https://rutlandfarmpark.co.uk)"
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.12.23.png"
   Title: '21. Twin Lakes '
-  Description: |
+  Description: |-
     Twin Lakes is our local theme park, situated 30 minutes away in Melton Mowbray. It has a variety of rides and covers all age groups. It has a fantastic indoor barn for rainy days and when the sun is shinning they have an outdoor water slide park.
 
-    https://www.twinlakespark.co.uk
+    [https://www.twinlakespark.co.uk
+    ](https://www.twinlakespark.co.uk)
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.20.58.png"
   Title: 22. Oakham
-  Description: |
+  Description: |-
     Oakham, a pretty little market town steeped in history. Only a short 10-minute drive from the campsite. It has lots of lovely little independent shops and plenty of cafes and tea rooms, and a couple of good pubs.
     Oakham market days are Wednesday and Saturday with a farmers market on Goal Street 3rd Saturday of each month.
 
-    https://discover-rutland.co.uk/oakham/
+    [https://discover-rutland.co.uk/oakham/
+    ](https://discover-rutland.co.uk/oakham/)
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.22.57.png"
   Title: 23. Hitchen's Barn
   Description: "A multi award winning restaurant in the heart of Oakham.\n  Hitchen's
     Barn serves Modern British & locally sourced food. \n​Neil & Louise Hitchen look
     forward to welcoming you.\n​\nThey serve Lunch & Dinner Tuesday - Saturday.\nClosed
-    on Sunday & Monday's. \n\nFantastic food, we highly recommend!\n\nhttps://www.hitchensbarn.co.uk\n"
+    on Sunday & Monday's. \n\nFantastic food, we highly recommend!\n\n[https://www.hitchensbarn.co.uk\n](https://www.hitchensbarn.co.uk)"
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.30.14.png"
   Title: 24. Oakham Castle
   Description: "Oakham is known for its castle, although Oakham Castle is not actually
@@ -175,7 +179,7 @@ Explore Locations Grid:
     Hall still remains intact today and is still used for occasional crown courts
     and for weddings. Having just received a substantial grant from the Heritage Lottery
     Fund it is well worth a visit. Admission is free  – check the website for opening
-    times \n\nhttps://www.oakhamcastle.org\n"
+    times \n\n[https://www.oakhamcastle.org\n](https://www.oakhamcastle.org)"
 layout: explore
 ---
 
