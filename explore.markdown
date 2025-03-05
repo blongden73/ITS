@@ -47,8 +47,9 @@ Explore Locations Grid:
     [https://www.theolivebranchpub.com/
     ](https://www.theolivebranchpub.com/)
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.39.28.png"
-  Title: 7—Family Run
-  Description: "\n"
+  Title: 7. Family Run
+  Description: "There are lots of runs for the whole family straight from our door,
+    not a road in sight! \nFollow Darren's strava links to check out routes and distances:\n\n"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2017.59.39.png"
   Title: 8. Grimsthorpe Castle
   Description: "Historic house with gardens and parkland. Facilities include -large
