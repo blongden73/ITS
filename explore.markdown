@@ -14,7 +14,7 @@ Explore Locations Grid:
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.12.48.png"
   Title: 2. The Plough
   Description: |-
-    Yes we are lucky enough to have two great pubs in our village! A traditional English pub with great pub grub favourites and chefs daily changing specials. Fantastic beer garden out the back and dog friendly too!
+    Yes we are lucky enough to have two great pubs in our village! Also just a 10 minute walk down the brook from us is The Plough a traditional pub, great pub grub favourites and chefs daily changing specials. Fantastic beer garden out the back and dog friendly too!
 
     https://www.theploughgreetham.co.uk
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.28.59.png"
