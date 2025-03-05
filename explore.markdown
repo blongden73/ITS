@@ -97,9 +97,13 @@ Explore Locations Grid:
     enthusiastic and highly qualified instructors.\n\nTel: 01780 460154\n\nEmail.
     rutlandactivities@anglianwater.co.uk\n\nhttps://anglianwaterparks.co.uk/rutland-water-park/watersports"
 - Image: "/uploads/images.jpg"
-  Title: 15—Burghley House
+  Title: 15. Burghley House
   Description: |-
-    Description here.
+    One of the largest and grandest houses of the 16th Century, Burghley is the extraordinary legacy of William Cecil, Lord High Treasurer to Queen Elizabeth I.
+
+    Generations of his family have lived here ever since, ensuring this great House and Estate continues to thrive.
+
+    It has two spectacular gardens, each with their own distinct atmosphere and beauty. Also a huge outdoor play park for the children.
 
     [https://burghley.co.uk/](https://burghley.co.uk/)
 - Image: 
