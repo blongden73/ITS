@@ -166,11 +166,15 @@ Explore Locations Grid:
     Barn serves Modern British & locally sourced food. \n​Neil & Louise Hitchen look
     forward to welcoming you.\n​\nThey serve Lunch & Dinner Tuesday - Saturday.\nClosed
     on Sunday & Monday's. \n\nFantastic food, we highly recommend!\n\nhttps://www.hitchensbarn.co.uk\n"
-- Image: 
-  Title: 24–
-  Description: 'Description here.
-
-'
+- Image: "/uploads/Screenshot%202025-03-05%20at%2012.30.14.png"
+  Title: 24. Oakham Castle
+  Description: "Oakham is known for its castle, although Oakham Castle is not actually
+    a castle but a Norman manor house built between 1180-1190. It is thought to be
+    one of the finest examples of late 12th century architecture in England. The Great
+    Hall still remains intact today and is still used for occasional crown courts
+    and for weddings. Having just received a substantial grant from the Heritage Lottery
+    Fund it is well worth a visit. Admission is free  – check the website for opening
+    times \n\nhttps://www.oakhamcastle.org\n"
 layout: explore
 ---
 
