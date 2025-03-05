@@ -14,7 +14,7 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
   compromising on comfort."
 Dome Features:
 - Title: Ensuite Showers rooms
-  Image: "/uploads/DSC5510-Edit-b33efa.jpg"
+  Image: "/uploads/_DSC5455-Edit.jpg"
   Description: " With flushing WC."
 - Title: Chesterfield sofas
   Image: "/uploads/DSC5513-Edit-163b14.jpg"
