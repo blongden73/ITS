@@ -61,7 +61,7 @@ Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, sho
   perfect for a cozy getaway, while the **large hamper** accommodates 4 to 6 people,
   ideal for a weekend gathering with friends or family.'
 Breakfast hampers:
-- Title: Small Hamper £48 (Veggie option minus meat £40)
+- Title: Small Hamper £48 (Veggie option £40)
   Description: |-
     * 6 Farmer Lou Lincolnshire sausages
     * 6 Farmer Lou dry cured back bacon
@@ -76,7 +76,7 @@ Breakfast hampers:
     * 250g butter
     * 1 litre of freshly squeezed orange juice
   Image: "/assets/images/Chicken-Chorizo-Pot.jpg"
-- Title: Large Hamper £68 (Veggie option minus meat £55)
+- Title: Large Hamper £68 (Veggie option £55)
   Description: |-
     * 12 Farmer Lou Lincolnshire sausages
     * 12 Farmer Lou dry cured back bacon
