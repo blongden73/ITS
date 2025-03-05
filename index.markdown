@@ -8,10 +8,10 @@ Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Sub Title: connections are strong
 Home Hero Button Link: "/the-grounds/"
 Home Hero Button Text: Explore The Grounds
-Home About Section: Phones Off Around the Fire
-Home About Section Text: Reconnect with nature, unwind, and spend quality time away
-  from the noise. Explore our unique interiors and enjoy modern amenities surrounded
-  by the outdoors.
+Home About Section: Get grounded
+Home About Section Text: If you're looking to escape the screen and get back into
+  nature, in comfort, to recuperate and reconnect with yourself and those you love,
+  we created In The Stix for you.
 Home About Image: assets/images/phones-off-fire.jpg
 Home About Section Two Title: UNIQUE INTERIORS
 Home About Section Two Text: Each of our domes have a well furnished lounge area,
