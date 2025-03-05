@@ -31,7 +31,7 @@ Explore Locations Grid:
   Description: |-
     Belvoir Castle’s history dates back to the eleventh century. It is the ancestral home of the Duke of Rutland, where the family have lived in an unbroken line for almost a thousand years.
     Early 19th-century bastion with gilded salons, tapestries, jousting tournaments and costumed guides.
-    There are also beautiful gardens, an adventure play ground a retail park a bistro and a cafe.
+    There are also beautiful gardens, an adventure play ground, a retail park, a bistro and a cafe.
     Save 10% when you book online in advance!
 
     https://www.belvoircastle.com
