@@ -15,10 +15,10 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
 Dome Features:
 - Title: Ensuite Showers rooms
   Image: "/uploads/_DSC5455-Edit.jpg"
-  Description: " With flushing WC."
+  Description: Large walk in showers and full plumbed W.C.
 - Title: Chesterfield sofas
-  Image: "/uploads/DSC5513-Edit-163b14.jpg"
-  Description: Made with real leather for luxurious comfort.
+  Image: "/uploads/_DSC5375-Edit.jpg"
+  Description: To curl up on in front of the fire.
 - Title: Log burners
   Image: "/uploads/DSC5510-Edit-88d42e.jpg"
   Description: Stay warm and cosy.
