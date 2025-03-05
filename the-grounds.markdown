@@ -20,7 +20,7 @@ Dome Features:
   Image: "/uploads/_DSC5375-Edit.jpg"
   Description: To curl up on in front of the fire.
 - Title: Log burners
-  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
+  Image: "/uploads/_DSC9026-Edit.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
   Image: "/uploads/DSC5513-Edit-6954ae.jpg"
