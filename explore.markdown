@@ -151,11 +151,15 @@ Explore Locations Grid:
     Twin Lakes is our local theme park, situated 30 minutes away in Melton Mowbray. It has a variety of rides and covers all age groups. It has a fanatic indoor barn for rainy days and when the sun is shinning they have an outdoor water slide park.
 
     https://www.twinlakespark.co.uk
-- Image: 
-  Title: 22–
-  Description: 'Description here.
+- Image: "/uploads/Screenshot%202025-03-05%20at%2012.20.58.png"
+  Title: 22. Oakham
+  Description: |
+    Oakham, a pretty little market town steeped in history. Only a short 10-minute drive from the campsite. It has lots of lovely little independent shops and plenty of cafes and tea rooms, and a couple of good pubs.
 
-'
+
+
+
+    https://discover-rutland.co.uk/oakham/
 - Image: 
   Title: 23—
   Description: 'Description here.
