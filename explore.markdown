@@ -142,9 +142,9 @@ Explore Locations Grid:
     https://www.lrwt.org.uk/rutland-water
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.05.32.png"
   Title: 20. Rutland Farm Park
-  Description: 'Description here.
-
-'
+  Description: "Situated in Oakham itself, it has 18 acres of land filled with various
+    varieties of cows, sheep, pigs, Llamas, alpacas, goats and rabbits. Children can
+    explore and learn about farm life.\n\nhttps://rutlandfarmpark.co.uk \n"
 - Image: 
   Title: 21—
   Description: 'Description here.
