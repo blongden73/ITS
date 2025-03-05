@@ -44,8 +44,8 @@ Dome Features:
   Description: Fully equipped, which everything you could possibly need. With pizza
     oven and 2 ringed gas hob.
 - Title: "Covered outdoor \nseating area"
-  Image: "/uploads/DSC5513-Edit-6954ae.jpg"
-  Description: Description to go here.
+  Image: "/uploads/_DSC5843-Edit.jpg"
+  Description: Covered area to sit and enjoy the view.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Mini Description: The blue one
 Map Dome 1 Images: 
