@@ -61,8 +61,9 @@ Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, sho
   perfect for a cozy getaway, while the **large hamper** accommodates 4 to 6 people,
   ideal for a weekend gathering with friends or family.'
 Breakfast hampers:
-- Title: Small Hamper £48 (Veggie option £40)
+- Title: Small Hamper £48
   Description: |-
+    (Veggie option £40)
     * 6 Farmer Lou Lincolnshire sausages
     * 6 Farmer Lou dry cured back bacon
     * 2 large Hambleton Bakery breakfast muffins
@@ -76,8 +77,9 @@ Breakfast hampers:
     * 250g butter
     * 1 litre of freshly squeezed orange juice
   Image: "/assets/images/Chicken-Chorizo-Pot.jpg"
-- Title: Large Hamper £68 (Veggie option £55)
+- Title: Large Hamper £68
   Description: |-
+    (Veggie option £55)
     * 12 Farmer Lou Lincolnshire sausages
     * 12 Farmer Lou dry cured back bacon
     * 4 large Hambleton Bakery breakfast muffins
@@ -91,9 +93,7 @@ Breakfast hampers:
     * 250g butter
     * 2 litres of freshly squeezed orange juice
   Image: "/assets/images/Chilli-Blackened-Peppers.jpg"
-- Title: |-
-    Small Vegan Hamper
-    £38
+- Title: Small Vegan Hamper £38
   Description: |-
     * 4 large Hambleton Bakery Breakfast muffins
     * 1 small Hambleton bakery seven cereal loaf
@@ -104,9 +104,7 @@ Breakfast hampers:
     * 250g Two Chimps ground coffee
     * 350g Coconut dairy free natural yogurt alternative
   Image: "/assets/images/Vegan-Chilli-.jpg"
-- Title: |-
-    Large Vegan Hamper
-    £50
+- Title: Large Vegan Hamper £50
   Description: |-
     * 8 large Hambleton Bakery breakfast muffins
     * 1 large Hambleton Bakery whole-meal loaf
