@@ -20,7 +20,7 @@ Dome Features:
   Image: "/uploads/in-the-stix-rutland-glamping-chesterfield-sofas.jpg.webp"
   Description: To curl up on in front of the fire.
 - Title: Log burners
-  Image: "/uploads/_DSC9026-Edit.jpg"
+  Image: "/uploads/in-the-stix-rutland-glamping-log-burner.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
   Image: "/uploads/_DSC5849copy.jpg"
