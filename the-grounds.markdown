@@ -23,8 +23,8 @@ Dome Features:
   Image: "/uploads/_DSC9026-Edit.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: "/uploads/DSC5513-Edit-6954ae.jpg"
-  Description: For easy access.
+  Image: "/uploads/_DSC5849copy.jpg"
+  Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
   Image: "/uploads/DSC5513-Edit-163b14.jpg"
   Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
