@@ -292,7 +292,7 @@ Parking Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhan
   witnessing the most incredible sunsets, so we highly recommend booking an evening
   session to truly make the most of this magical experience. Treat yourself to a moment
   of tranquillity and let nature rejuvenate your spirit!"
-Extra Title: Extra Section
+Extra Title: Smoke 'N Stix - events space
 Extra Mini Description: 
 Map Extra Images: 
 Extra Images:
