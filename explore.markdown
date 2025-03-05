@@ -114,10 +114,14 @@ Explore Locations Grid:
     magnificent views over the water it is a perfect place to relax.\n\nGreat food,
     we highly recommend!\n\nhttps://www.finchsarms.co.uk/#restaurant\n"
 - Image: "/uploads/Screenshot%202025-03-05%20at%2011.44.08.png"
-  Title: 17—
-  Description: 'Description here.
+  Title: '17. The Rutland Belle '
+  Description: |2
 
-'
+    Rutland Water Cruises is a family-run business operating boat trips since 1986, cruising around the reservoir during daylight hours from April to October each year.
+
+    Rutland Belle plies from Whitwell on the North Shore and calls in at Normanton on the South Shore. Visitors can enjoy the scenery from the water, amidst the sailors, anglers and waterbirds, whilst listening to commentary highlighting points of interest.
+
+    https://rutlandwatercruises.com
 - Image: 
   Title: 18—
   Description: 'Description here.
