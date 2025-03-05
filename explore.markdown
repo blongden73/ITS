@@ -160,8 +160,8 @@ Explore Locations Grid:
 
 
     https://discover-rutland.co.uk/oakham/
-- Image: 
-  Title: 23—
+- Image: "/uploads/Screenshot%202025-03-05%20at%2012.22.57.png"
+  Title: 23. Hitchen's Barn
   Description: 'Description here.
 
 '
