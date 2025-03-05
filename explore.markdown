@@ -5,12 +5,12 @@ Hero Description: Rutland is a beautiful and often overlooked county due to itâ€
   It is the smallest county in England but with such a lot to offer itâ€™s visitors.
   Known as Multum in Parvo (Much in Little) it certainly lives up to its name.
 Explore Locations Grid:
-- Image: "/assets/images/oakham.jpg"
+- Image: "/uploads/Screenshot%202025-03-05%20at%2012.44.21.png"
   Title: 1. The Wheatsheaf
   Description: "The Wheatsheaf, is by far our own favourite village pub, which is
     a very pleasant 10-minute walk from the site along the brook. Children and dogs
     welcome, a fantastic welcoming atmosphere and the most amazing food all on you
-    door step! \n\n[www.wheatsheaf-greetham.co.uk](www.wheatsheaf-greetham.co.uk)\n\n"
+    door step! \n\n\n\n"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.12.48.png"
   Title: 2. The Plough
   Description: |-
