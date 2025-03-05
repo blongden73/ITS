@@ -7,16 +7,16 @@ Hero Description: Rutland is a beautiful and often overlooked county due to itâ€
 Explore Locations Grid:
 - Image: "/uploads/Screenshot%202025-03-05%20at%2012.44.21.png"
   Title: 1. The Wheatsheaf
-  Description: "The Wheatsheaf, is by far our own favourite village pub, which is
-    a very pleasant 10-minute walk from the site along the brook. Children and dogs
-    welcome, a fantastic welcoming atmosphere and the most amazing food all on you
-    door step! \nAdvanced booking is a must!\n\nhttps://www.wheatsheaf-greetham.co.uk"
+  Description: "The Wheatsheaf, is by far our own favourite pub, which is a very pleasant
+    10-minute walk from the site along the brook. Children and dogs welcome, a fantastic
+    welcoming atmosphere and the most amazing food all on you door step! \nAdvanced
+    booking is a must!\n\nhttps://www.wheatsheaf-greetham.co.uk"
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.12.48.png"
   Title: 2. The Plough
   Description: |-
-    A traditional English pub with great pub grub favourites and chefs daily changing specials. Fantastic beer garden out the back and dog friendly too!
+    Yes we are lucky enough to have two great pubs in our village! A traditional English pub with great pub grub favourites and chefs daily changing specials. Fantastic beer garden out the back and dog friendly too!
 
-    [www.theploughgreetham.co.uk/](www.theploughgreetham.co.uk/)
+    https://www.theploughgreetham.co.uk
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.28.59.png"
   Title: 3. National Trust - Belton Estate
   Description: |-
