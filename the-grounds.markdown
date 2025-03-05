@@ -14,7 +14,7 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
   compromising on comfort."
 Dome Features:
 - Title: Ensuite Showers rooms
-  Image: "/uploads/_DSC5455-Edit.jpg"
+  Image: "/uploads/in-the-stix-rutland-glamping-shower-rooms.jpg"
   Description: Large walk in showers and full plumbed W.C.
 - Title: Chesterfield sofas
   Image: "/uploads/_DSC5375-Edit.jpg"
