@@ -26,20 +26,23 @@ Dome Features:
   Image: "/uploads/_DSC5849copy.jpg"
   Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
-  Image: "/uploads/DSC5513-Edit-163b14.jpg"
-  Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
+  Image: "/uploads/_DSC5328-Edit.jpg"
+  Description: "Sleeps 4 (in singles or king/superking size beds, to suit your requirements)\n\n"
 - Title: Chest full of board games
-  Image: "/uploads/DSC5513-Edit-163b14.jpg"
-  Description: Description to go here.
+  Image: "/uploads/_DSC5387-Edit.jpg"
+  Description: Games for all the family.
 - Title: Hanging chair
-  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
-  Description: Description to go here.
+  Image: "/uploads/_DSC5616-Edit.jpg"
+  Description: A warm spot by the fire to read your book.
 - Title: Personal log fired hot tub
-  Image: "/uploads/DSC5513-Edit-163b14.jpg"
-  Description: "(Additional cost of £45)."
-- Title: Personal kitchen
-  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
-  Description: "(With pizza oven and 2 ringed gas hob)."
+  Image: "/uploads/_DSC9033-Edit.jpg"
+  Description: |-
+    Private tub for each dome.
+    (Additional cost of £45).
+- Title: Personal Field Kitchen
+  Image: "/uploads/_DSC5462-Edit.jpg"
+  Description: Fully equipped, which everything you could possibly need. With pizza
+    oven and 2 ringed gas hob.
 - Title: "Covered outdoor \nseating area"
   Image: "/uploads/DSC5513-Edit-6954ae.jpg"
   Description: Description to go here.
