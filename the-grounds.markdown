@@ -61,8 +61,6 @@ Dome 1 Images:
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
-- "/uploads/test2.jpg"
-- "/uploads/_DSC5758-Edit.jpg"
 Dome 2 Title: Dome 2 - Barrow
 Dome 2 Mini Description: The most accessible one
 Map Dome 2 Images: 
