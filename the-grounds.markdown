@@ -26,25 +26,25 @@ Dome Features:
   Image: "/uploads/in-the-stix-dome4-king-size-bed.jpg"
   Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
-  Image: "/uploads/_DSC5328-Edit.jp2"
+  Image: "/uploads/in-the-stix-dome1-imezzanine.jpg"
   Description: "Sleeps 4 (in singles or king/superking size beds, to suit your requirements)\n\n"
 - Title: Chest full of board games
-  Image: "/uploads/_DSC5387-Edit.jpg"
+  Image: "/uploads/in-the-stix-chest-of-games.jpg"
   Description: Games for all the family.
 - Title: Hanging chair
-  Image: "/uploads/_DSC5616-Edit.jpg"
+  Image: "/uploads/in-the-stix-hanging-chair.jpg"
   Description: A warm spot by the fire to read your book.
 - Title: Personal log fired hot tub
-  Image: "/uploads/_DSC9033-Edit.jpg"
+  Image: "/uploads/in-the-stix-hot-tub.jpg"
   Description: |-
     Private tub for each dome.
     (Additional cost of £45).
 - Title: Personal Field Kitchen
-  Image: "/uploads/_DSC5462-Edit.jpg"
+  Image: "/uploads/in-the-stix-field-kitchen.jpg"
   Description: Fully equipped, which everything you could possibly need. With pizza
     oven and 2 ringed gas hob.
 - Title: "Covered outdoor \nseating area"
-  Image: "/uploads/_DSC5843-Edit.jpg"
+  Image: "/uploads/in-the-stix-outdoor-seating-d84f15.jpg"
   Description: Covered area to sit and enjoy the view.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Mini Description: The blue one
