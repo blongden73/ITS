@@ -23,7 +23,7 @@ Dome Features:
   Image: "/uploads/in-the-stix-rutland-glamping-log-burner.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: "/uploads/king-size-bedroom-dome4.jpg"
+  Image: "/uploads/in-the-stix-dome4-king-size-bed.jpg"
   Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
   Image: "/uploads/_DSC5328-Edit.jpg"
