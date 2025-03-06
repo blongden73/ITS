@@ -23,28 +23,28 @@ Dome Features:
   Image: "/uploads/in-the-stix-rutland-glamping-log-burner.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: "/uploads/in-the-stix-dome4-king-size-bed.jpg"
+  Image: "/uploads/_DSC5849copy.jpg"
   Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
-  Image: "/uploads/in-the-stix-dome1-imezzanine.jpg"
+  Image: "/uploads/_DSC5328-Edit.jpg"
   Description: "Sleeps 4 (in singles or king/superking size beds, to suit your requirements)\n\n"
 - Title: Chest full of board games
-  Image: "/uploads/in-the-stix-chest-of-games.jpg"
+  Image: "/uploads/_DSC5387-Edit.jpg"
   Description: Games for all the family.
 - Title: Hanging chair
-  Image: "/uploads/in-the-stix-hanging-chair.jpg"
+  Image: "/uploads/_DSC5616-Edit.jpg"
   Description: A warm spot by the fire to read your book.
 - Title: Personal log fired hot tub
-  Image: "/uploads/in-the-stix-hot-tub.jpg"
+  Image: "/uploads/_DSC9033-Edit.jpg"
   Description: |-
     Private tub for each dome.
     (Additional cost of £45).
 - Title: Personal Field Kitchen
-  Image: "/uploads/in-the-stix-field-kitchen.jpg"
+  Image: "/uploads/_DSC5462-Edit.jpg"
   Description: Fully equipped, which everything you could possibly need. With pizza
     oven and 2 ringed gas hob.
 - Title: "Covered outdoor \nseating area"
-  Image: "/uploads/in-the-stix-outdoor-seating-d84f15.jpg"
+  Image: "/uploads/_DSC5843-Edit.jpg"
   Description: Covered area to sit and enjoy the view.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Mini Description: The blue one
@@ -109,7 +109,7 @@ Dome 4 Images:
 - "/assets/images/dome1/4.jpg"
 Dome 5 Title: Dome 5 - Clipsham
 Dome 5 Mini Description: The slipper chair one
-Map Dome 5 Images: 
+Map Dome 5 Images: "/uploads/temp-image.jpg"
 Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touch for
   those who appreciate a little extra space. Nestled into the hillside, Clipsham offers
   fantastic elevated views from both the hot tub and the cozy seating area, allowing
@@ -153,7 +153,7 @@ Field Kitchen Text: "Each dome at our location comes equipped with a private fie
   cold. \n\nWith these amenities, you can enjoy the freedom of outdoor cooking and
   dining while saving yourself the stresses of having to remember to bring everything,
   it has all been thought out for you."
-Field Kitchen Mini Description: 
+Field Kitchen Mini Description: Event hire
 Map Field Kitchen Images: 
 Field Kitchen Images:
 - "/assets/images/image.jpg"
@@ -163,7 +163,7 @@ Fire Pit Title: Fire Pit
 Fire Pit Mini Description: 
 Map Fire Pit Images: 
 Fire Pit Images:
-- "/assets/images/image.jpg"
+- "/uploads/DSC5732-Edit.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
