@@ -26,7 +26,7 @@ Dome Features:
   Image: "/uploads/in-the-stix-dome4-king-size-bed.jpg"
   Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
-  Image: "/uploads/_DSC5328-Edit.jpg"
+  Image: "/uploads/_DSC5328-Edit.jp2"
   Description: "Sleeps 4 (in singles or king/superking size beds, to suit your requirements)\n\n"
 - Title: Chest full of board games
   Image: "/uploads/_DSC5387-Edit.jpg"
