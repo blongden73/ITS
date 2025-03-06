@@ -23,28 +23,28 @@ Dome Features:
   Image: "/uploads/in-the-stix-rutland-glamping-log-burner.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: "/uploads/_DSC5849copy.jpg"
+  Image: "/uploads/in-the-stix-dome4-king-size-bed.jpg"
   Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
-  Image: "/uploads/_DSC5328-Edit.jpg"
+  Image: "/uploads/in-the-stix-dome1-imezzanine.jpg"
   Description: "Sleeps 4 (in singles or king/superking size beds, to suit your requirements)\n\n"
 - Title: Chest full of board games
-  Image: "/uploads/_DSC5387-Edit.jpg"
+  Image: "/uploads/in-the-stix-chest-of-games.jpg"
   Description: Games for all the family.
 - Title: Hanging chair
-  Image: "/uploads/_DSC5616-Edit.jpg"
+  Image: "/uploads/in-the-stix-hanging-chair.jpg"
   Description: A warm spot by the fire to read your book.
 - Title: Personal log fired hot tub
-  Image: "/uploads/_DSC9033-Edit.jpg"
+  Image: "/uploads/in-the-stix-hot-tub.jpg"
   Description: |-
     Private tub for each dome.
     (Additional cost of £45).
 - Title: Personal Field Kitchen
-  Image: "/uploads/_DSC5462-Edit.jpg"
+  Image: "/uploads/in-the-stix-field-kitchen.jpg"
   Description: Fully equipped, which everything you could possibly need. With pizza
     oven and 2 ringed gas hob.
 - Title: "Covered outdoor \nseating area"
-  Image: "/uploads/_DSC5843-Edit.jpg"
+  Image: "/uploads/in-the-stix-outdoor-seating-d84f15.jpg"
   Description: Covered area to sit and enjoy the view.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Mini Description: The blue one
@@ -153,17 +153,17 @@ Field Kitchen Text: "Each dome at our location comes equipped with a private fie
   cold. \n\nWith these amenities, you can enjoy the freedom of outdoor cooking and
   dining while saving yourself the stresses of having to remember to bring everything,
   it has all been thought out for you."
-Field Kitchen Mini Description: Event hire
+Field Kitchen Mini Description: Private outdoor fully equipped kitchen for each dome
 Map Field Kitchen Images: 
 Field Kitchen Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Title: Fire Pit
-Fire Pit Mini Description: 
+Fire Pit Mini Description: Large communal fire pit for the whole site to gather
 Map Fire Pit Images: 
 Fire Pit Images:
-- "/uploads/DSC5732-Edit.jpg"
+- "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
@@ -179,7 +179,8 @@ Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, fea
   for relaxation and camaraderie. Come and experience the warmth and joy that the
   fire pit brings to your stay!"
 Play Area Title: Play Area
-Play Area Mini Description: 
+Play Area Mini Description: Play structure with slides, swings, and tree house and
+  football goals.
 Map Play Area Images: 
 Play Area Images:
 - "/assets/images/image.jpg"
@@ -198,7 +199,7 @@ Play Area Text: "Our dedicated play area is located at the opposite end of the f
   cherished memories. Parents can relax knowing their kids are safe and living their
   best lives in this fantastic outdoor setting."
 Sauna Title: Sauna
-Sauna Mini Description: 
+Sauna Mini Description: Log fired barrel sauna.
 Map Sauna Images: 
 Sauna Images:
 - "/assets/images/image.jpg"
@@ -217,100 +218,61 @@ Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Deck Title: Deck
-Deck Mini Description: 
+Deck Mini Description: Sunbathing deck
 Map Deck Images: 
 Deck Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Deck Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
-  experience at our site! Available for hire for three-hour sessions (for guests staying
-  with us) or enjoy this on our new spa days. This unique sauna provides the perfect
-  opportunity to relax and unwind while enjoying stunning views. Positioned at the
-  highest point of the site, you'll be treated to breathtaking far-reaching vistas
-  over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower for
-  those looking to embrace the benefits of hot and cold therapy. And coming in 2025,
-  we will feature a cold outdoor plunge in a charming Victorian bath, adding another
-  element to your wellness experience. \n\nThe location is also perfect for witnessing
-  the most incredible sunsets, so we highly recommend booking an evening session to
-  truly make the most of this magical experience. Treat yourself to a moment of tranquillity
-  and let nature rejuvenate your spirit!"
+Deck Text: After your sauna, relax on our sunbathing deck and take in the views.
 Brook Title: Brook
-Brook Mini Description: 
+Brook Mini Description: Our babbling brook.
 Map Brook Images: 
 Brook Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Brook Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
-  experience at our site! Available for hire for three-hour sessions (for guests staying
-  with us) or enjoy this on our new spa days. This unique sauna provides the perfect
-  opportunity to relax and unwind while enjoying stunning views. Positioned at the
-  highest point of the site, you'll be treated to breathtaking far-reaching vistas
-  over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower for
-  those looking to embrace the benefits of hot and cold therapy. And coming in 2025,
-  we will feature a cold outdoor plunge in a charming Victorian bath, adding another
-  element to your wellness experience. \n\nThe location is also perfect for witnessing
-  the most incredible sunsets, so we highly recommend booking an evening session to
-  truly make the most of this magical experience. Treat yourself to a moment of tranquillity
-  and let nature rejuvenate your spirit!"
+Brook Text: The beautiful brook runs along the bottom of our campsite and is the backdrop
+  for your walk along the footpath into the village. It is also a perfect place for
+  a paddle in the warmer months and a much needed cooling swim for our furry friends.
 Meadow Title: Meadow
-Meadow Mini Description: 
+Meadow Mini Description: Meadowland of trees and wild flowers
 Map Meadow Images: 
 Meadow Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Meadow Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
-  your experience at our site! Available for hire for three-hour sessions (for guests
-  staying with us) or enjoy this on our new spa days. This unique sauna provides the
-  perfect opportunity to relax and unwind while enjoying stunning views. Positioned
-  at the highest point of the site, you'll be treated to breathtaking far-reaching
-  vistas over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower
-  for those looking to embrace the benefits of hot and cold therapy. And coming in
-  2025, we will feature a cold outdoor plunge in a charming Victorian bath, adding
-  another element to your wellness experience. \n\nThe location is also perfect for
-  witnessing the most incredible sunsets, so we highly recommend booking an evening
-  session to truly make the most of this magical experience. Treat yourself to a moment
-  of tranquillity and let nature rejuvenate your spirit!"
+Meadow Text: We have 15 acres of meadowland with direct access from the campsite.
+  This is all fenced and a safe place for children and dogs to run free. There are
+  thousands of little trees, planted last year, which one day will become a beautiful
+  woodland walk. There is a path all around the edge which we keep mown enabling you
+  to take in the whole field on your walk.
 Parking Title: Parking
-Parking Mini Description: 
+Parking Mini Description: Parking for 30 cars
 Map Parking Images: 
 Parking Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Parking Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
-  your experience at our site! Available for hire for three-hour sessions (for guests
-  staying with us) or enjoy this on our new spa days. This unique sauna provides the
-  perfect opportunity to relax and unwind while enjoying stunning views. Positioned
-  at the highest point of the site, you'll be treated to breathtaking far-reaching
-  vistas over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower
-  for those looking to embrace the benefits of hot and cold therapy. And coming in
-  2025, we will feature a cold outdoor plunge in a charming Victorian bath, adding
-  another element to your wellness experience. \n\nThe location is also perfect for
-  witnessing the most incredible sunsets, so we highly recommend booking an evening
-  session to truly make the most of this magical experience. Treat yourself to a moment
-  of tranquillity and let nature rejuvenate your spirit!"
-Extra Title: Smoke 'N Stix - events space
-Extra Mini Description: 
+Parking Text: Our hardstanding carpark is large enough to accommodate all our guests
+  cars. Leave your car here and please unload your belongings into your allocate wheelbarrows.
+  We are a car free site!
+Extra Title: Smoke 'n Stix - events space
+Extra Mini Description: Event space perfect for groups and celebrations
 Map Extra Images: 
 Extra Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Extra Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
-  experience at our site! Available for hire for three-hour sessions (for guests staying
-  with us) or enjoy this on our new spa days. This unique sauna provides the perfect
-  opportunity to relax and unwind while enjoying stunning views. Positioned at the
-  highest point of the site, you'll be treated to breathtaking far-reaching vistas
-  over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower for
-  those looking to embrace the benefits of hot and cold therapy. And coming in 2025,
-  we will feature a cold outdoor plunge in a charming Victorian bath, adding another
-  element to your wellness experience. \n\nThe location is also perfect for witnessing
-  the most incredible sunsets, so we highly recommend booking an evening session to
-  truly make the most of this magical experience. Treat yourself to a moment of tranquillity
-  and let nature rejuvenate your spirit!"
+Extra Text: "Introducing Smoke n Stix, our unique event and outdoor kitchen space
+  designed for unforgettable culinary experiences! Available for groups booking two
+  domes or more, this versatile area allows you to cook and dine together in a beautiful
+  setting.\nWith seating for up to 40 people, Smoke n Stix offers a fantastic undercover
+  space that blends indoor and outdoor elements, ensuring you can enjoy your time
+  together regardless of the weather.\nEquipped with outdoor cooking facilities, including
+  a giant log-fired pizza oven, BBQ, gas hob, and oven, as well as a kitchen prep
+  area, you’ll have everything you need to create delicious meals and memorable moments.
+  \n"
 layout: the-grounds
 ---
 
