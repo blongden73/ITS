@@ -163,7 +163,7 @@ Fire Pit Title: Fire Pit
 Fire Pit Mini Description: 
 Map Fire Pit Images: 
 Fire Pit Images:
-- "/assets/images/image.jpg"
+- "/uploads/DSC5732-Edit.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
