@@ -14,11 +14,16 @@ Home About Section Text: 'If you’re looking to escape the screen, recuperate a
   created In the Stix for you. '
 Home About Image: "/uploads/DSC9157-Edit.jpg"
 Home About Section Two Title: FEEL THE LUXURY
-Home About Section Two Text: From cosy beds to flower beds, we’ve got your comfort
-  and privacy covered. And no more trudging through wet muddy grounds to go to the
-  bathroom or take a hot shower - you’ll have what you need inside your well equipped
-  dome, including a comfy chesterfield sofa and family board games to boot.
+Home About Section Two Text: We’ve got your comfort and privacy covered. And no more
+  trudging through wet muddy grounds to go to the bathroom or take a hot shower -
+  you’ll have what you need inside your well equipped dome, including a comfy chesterfield
+  sofa and family board games to boot.
 Home About Image Two: assets/images/interiors.jpg
+Home About Section Three: YOUR ADVENTURES AWAIT
+Your Adventures Await Three Text: 'For those feeling the urge to explore, you don’t
+  have to go far. Take the footpaths or hire a bicycle to get around. There’s so much
+  to explore that you’ll have to come back more than once to experience what Rutland
+  has to offer. '
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
     was unforgettable."'
@@ -38,6 +43,7 @@ Home About Section Three Text: Reconnect with nature, unwind, and spend quality 
   by the outdoors.
 Home About Section Three Image: assets/images/phones-off-fire.jpg
 Awarded in Images:
+- 
 - "/uploads/AA%20VE%20.jpg"
 Field name: 
 layout: home
