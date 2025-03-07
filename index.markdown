@@ -38,8 +38,6 @@ Home About Section Three Text: Reconnect with nature, unwind, and spend quality 
 Home About Section Three Image: assets/images/phones-off-fire.jpg
 Awarded in Images:
 - "/uploads/AA%20VE%20.jpg"
-- assets/images/aaaward.png
-- "/uploads/camping,%20glamping%20copy.jpg"
 Field name: 
 layout: home
 ---
