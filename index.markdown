@@ -52,7 +52,6 @@ Featured in logos:
 - assets/images/image 4.png
 Home About Section Three Image: assets/images/phones-off-fire.jpg
 Awarded in Images:
-- 
 - "/uploads/AA%20VE%20.jpg"
 Field name: 
 Home About Section Three Text: Reconnect with nature, unwind, and spend quality time
