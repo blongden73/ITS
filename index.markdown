@@ -50,7 +50,6 @@ Featured in logos:
 - assets/images/image 3.png
 - assets/images/image 5.png
 - assets/images/image 4.png
-Home About Section Three Image: assets/images/phones-off-fire.jpg
 Awarded in Images:
 - "/uploads/AA%20VE%20.jpg"
 Field name: 
