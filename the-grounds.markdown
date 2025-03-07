@@ -68,6 +68,7 @@ Dome 1 Images:
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5419-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5428-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5467-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5474-Edit.jpg"
 Dome 2 Title: Dome 2 - Barrow
 Dome 2 Mini Description: The most accessible one
 Map Dome 2 Images: 
