@@ -39,7 +39,6 @@ Home About Section Three Image: assets/images/phones-off-fire.jpg
 Awarded in Images:
 - assets/images/aaaward.png
 - "/uploads/IMG_5566.jpg"
-- "/uploads/Tourism%20Excellence%20Awards%20Social%20Posts%20(4).jpeg"
 Field name: 
 layout: home
 ---
