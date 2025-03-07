@@ -103,7 +103,7 @@ Dome 3 Description: Nestled into the hillside, this dome offers elevated views t
   you’ll be treated to a spectacular display of colours that will leave you in awe.
   What more could you possibly need?
 Dome 3 Images:
-- "/assets/images/dome1/1.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC9298-Edit.jpg"
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
