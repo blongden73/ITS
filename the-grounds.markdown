@@ -13,38 +13,38 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
   they are a sanctuary where you can relax and enjoy the beauty of nature without
   compromising on comfort."
 Dome Features:
-- Title: Ensuite Showers rooms
-  Image: "/uploads/in-the-stix-rutland-glamping-shower-rooms.jpg"
+- Title: Ensuite shower rooms
+  Image: "/uploads/in-the-stix-ensuite-shower-rooms.jpg"
   Description: Large walk in showers and full plumbed W.C.
 - Title: Chesterfield sofas
-  Image: "/uploads/in-the-stix-rutland-glamping-chesterfield-sofas.jpg.webp"
+  Image: "/uploads/in-the-stix-chesterfield-sofas-cropped.jpg"
   Description: To curl up on in front of the fire.
 - Title: Log burners
-  Image: "/uploads/in-the-stix-rutland-glamping-log-burner.jpg"
+  Image: "/uploads/in-the-stix-log-burners-cropped.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: "/uploads/in-the-stix-dome4-king-size-bed.jpg"
+  Image: "/uploads/in-the-stix-downstairs-king-size-beds-cropped.jpg"
   Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
-  Image: "/uploads/in-the-stix-dome1-imezzanine.jpg"
+  Image: "/uploads/in-the-stix-upstairs-mezzanine-crop.jpg"
   Description: "Sleeps 4 (in singles or king/superking size beds, to suit your requirements)\n\n"
 - Title: Chest full of board games
-  Image: "/uploads/in-the-stix-chest-of-games.jpg"
+  Image: "/uploads/in-the-stix-chestfull-of-board-games-cropped.jpg"
   Description: Games for all the family.
 - Title: Hanging chair
-  Image: "/uploads/in-the-stix-hanging-chair.jpg"
+  Image: "/uploads/in-the-stix-hanging-chair-cropped.jpg"
   Description: A warm spot by the fire to read your book.
 - Title: Personal log fired hot tub
-  Image: "/uploads/in-the-stix-hot-tub.jpg"
+  Image: "/uploads/in-the-stix-personal-log-fired-hot-tub-cropped.jpg"
   Description: |-
     Private tub for each dome.
     (Additional cost of £45).
 - Title: Personal Field Kitchen
-  Image: "/uploads/in-the-stix-field-kitchen.jpg"
+  Image: "/uploads/in-the-stix-personal-feld-kitchen-cropped.jpg"
   Description: Fully equipped, which everything you could possibly need. With pizza
     oven and 2 ringed gas hob.
 - Title: "Covered outdoor \nseating area"
-  Image: "/uploads/in-the-stix-outdoor-seating-d84f15.jpg"
+  Image: "/uploads/in-the-stix-covered-outdoor-seating-area-cropped.jpg"
   Description: Covered area to sit and enjoy the view.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Mini Description: The blue one
