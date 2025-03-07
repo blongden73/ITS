@@ -20,7 +20,7 @@ Spa Days Description: "We are thrilled to announce the launch of our new spa day
   of relaxation and indulgence!\n\n"
 Spa Days Images:
 - "/uploads/test-dome.jpg"
-- "/assets/images/image.jpg"
+- "/uploads/_DSC5698-Edit.jpg"
 - "/assets/images/image.jpg"
 Retreats Description: "We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
