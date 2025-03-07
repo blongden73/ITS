@@ -12,12 +12,13 @@ Home About Section: RELAX AND UNWIND
 Home About Section Text: 'If you’re looking to escape the screen, recuperate and get
   back into nature, in comfort, to reconnect with yourself and those you love, we
   created In the Stix for you. '
+Relax image: "/uploads/_DSC5698-Edit.jpg"
+Home About Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5333-Edit.jpg"
 Home About Section Two Title: FEEL THE LUXURY
 Home About Section Two Text: We’ve got your comfort and privacy covered. And no more
   trudging through wet muddy grounds to go to the bathroom or take a hot shower -
   you’ll have what you need inside your well equipped dome, including a comfy chesterfield
   sofa and family board games to boot.
-Home About Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5333-Edit.jpg"
 Home About Section Three: YOUR ADVENTURES AWAIT
 Your Adventures Await Three Text: 'For those feeling the urge to explore, you don’t
   have to go far. Take the footpaths or hire a bicycle to get around. There’s so much
@@ -32,7 +33,6 @@ COOK DINE IMAGE: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
 RELAX AND UNWIND Text: Whether you’ve been on your feet all day, or just in need of
   deep relaxation, your dome comes with its own cedar wood hot tub, so just relax
   and unwind, and soak in natures vibe.
-Relax image: "/uploads/_DSC9105-Editcopy.jpg"
 Home About Section name: GOOD NIGHT
 Memroble Moments Text: 'The only ‘log on’ around here is to fuel the cosy fire. So
   huddle up around the fire pit, toast some marshmallows, reflect on the day or share
