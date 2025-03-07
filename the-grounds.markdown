@@ -105,7 +105,7 @@ Dome 3 Description: Nestled into the hillside, this dome offers elevated views t
 Dome 3 Images:
 - "/uploads/In%20the%20Stix%20Dome%203_DSC9298-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%203_DSC5652-Edit.jpg"
-- "/assets/images/dome1/3.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5651-Edit.jpg"
 - "/assets/images/dome1/4.jpg"
 - "/uploads/In%20the%20Stix%20Dome%203_DSC5613-Edit.jpg"
 Dome 4 Title: Dome 4 - Exton
