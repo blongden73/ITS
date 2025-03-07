@@ -32,7 +32,7 @@ Dome Features:
   Image: "/uploads/in-the-stix-chestfull-of-board-games-cropped.jpg"
   Description: Games for all the family.
 - Title: Hanging chair
-  Image: "/uploads/in-the-stix-hanging-chair-cropped.jpg"
+  Image: "/uploads/in-the-stix-hanging-chair-cropped-resized.jpg"
   Description: A warm spot by the fire to read your book.
 - Title: Personal log fired hot tub
   Image: "/uploads/in-the-stix-personal-log-fired-hot-tub-cropped.jpg"
