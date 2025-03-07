@@ -8,14 +8,15 @@ Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Button Link: "/the-grounds/"
 Home Hero Sub Title: connections are strong
 Home Hero Button Text: Explore The Grounds
-Home About Section: Together, at last
-Home About Section Text: 'If you''re looking to escape the screen, unwind in nature,
-  and reconnect with loved ones in comfort, we created In The Stix for you. '
+Home About Section: Phones Off Around the Fire
+Home About Section Text: Reconnect with nature, unwind, and spend quality time away
+  from the noise. Explore our unique interiors and enjoy modern amenities surrounded
+  by the outdoors.
 Home About Image: assets/images/phones-off-fire.jpg
-Home About Section Two Title: Settle in
-Home About Section Two Text: 'Unpack and refresh with a hot shower in the comfort
-  of your own unique dome, complete with a chesterfield sofa, log burner, board games
-  and more. '
+Home About Section Two Title: UNIQUE INTERIORS
+Home About Section Two Text: Each of our domes have a well furnished lounge area,
+  with chesterfield leather sofas and log burners. The bathroom is en-suite and fitted
+  with a large shower, sink and a flushing WC.
 Home About Image Two: assets/images/interiors.jpg
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
@@ -30,14 +31,15 @@ Featured in logos:
 - assets/images/image 3.png
 - assets/images/image 5.png
 - assets/images/image 4.png
-Home About Section Three Title: Prep. Plate. Or be pampered.
-Home About Section Three Text: Dine your way - enjoy your private kitchen and dining
-  area, or, if you'd rather throw in the tea towel, indulge in our locally sourced
-  hampers and homemade hot meals.
+Home About Section Three Title: Sleep Soundly
+Home About Section Three Text: Reconnect with nature, unwind, and spend quality time
+  away from the noise. Explore our unique interiors and enjoy modern amenities surrounded
+  by the outdoors.
 Home About Section Three Image: assets/images/phones-off-fire.jpg
 Awarded in Images:
+- "/uploads/AA%20VE%20.jpg"
 - assets/images/aaaward.png
-- "/uploads/IMG_5566.jpg"
+- "/uploads/camping,%20glamping%20copy.jpg"
 Field name: 
 layout: home
 ---
