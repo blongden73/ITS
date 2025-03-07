@@ -29,6 +29,7 @@ HOME ABOUT SECTION 4: COOK. DINE. OR BE SERVED.
 COOK. DINE. OR BE SERVED. TEXT: 'Enjoy your very own private kitchen and dining area,
   or if you feel like throwing in the tea towel, take advantage of our locally sourced
   hampers and our home made hot meals. '
+COOK DINE IMAGE: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
     was unforgettable."'
@@ -51,7 +52,6 @@ Awarded in Images:
 - 
 - "/uploads/AA%20VE%20.jpg"
 Field name: 
-COOK DINE IMAGE: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
 layout: home
 ---
 
