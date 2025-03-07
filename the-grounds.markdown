@@ -91,6 +91,7 @@ Dome 2 Images:
 - "/uploads/In%20the%20Stix%20Dome%202_DSC5571-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%202_DSC5612-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5472-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201DSC5322-Edit.jpg"
 Dome 3 Title: Dome 3 - Hambleton
 Dome 3 Mini Description: The retro bus seat one
 Map Dome 3 Images: 
