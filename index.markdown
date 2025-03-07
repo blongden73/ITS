@@ -12,13 +12,12 @@ Home About Section: 'GET GROUNDED - ESCAPE THE SCREENS '
 Home About Section Text: 'If you’re looking to escape the screen, recuperate and get
   back into nature, in comfort, to reconnect with yourself and those you love, we
   created In the Stix for you. '
-Home About Image: "/uploads/_DSC9093-Edit.jpg"
+Home About Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5333-Edit.jpg"
 Home About Section Two Title: FEEL THE LUXURY
 Home About Section Two Text: We’ve got your comfort and privacy covered. And no more
   trudging through wet muddy grounds to go to the bathroom or take a hot shower -
   you’ll have what you need inside your well equipped dome, including a comfy chesterfield
   sofa and family board games to boot.
-Home About Image Two: assets/images/interiors.jpg
 Home About Section Three: YOUR ADVENTURES AWAIT
 Your Adventures Await Three Text: 'For those feeling the urge to explore, you don’t
   have to go far. Take the footpaths or hire a bicycle to get around. There’s so much
