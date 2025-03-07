@@ -53,11 +53,8 @@ Featured in logos:
 Awarded in Images:
 - "/uploads/AA%20VE%20.jpg"
 Field name: 
-Home About Section Three Text: Reconnect with nature, unwind, and spend quality time
-  away from the noise. Explore our unique interiors and enjoy modern amenities surrounded
-  by the outdoors.
 Home About Section Three Title: Sleep Soundly
-Relax image: 
+Relax image: "/uploads/_DSC5698-Edit.jpg"
 layout: home
 ---
 
