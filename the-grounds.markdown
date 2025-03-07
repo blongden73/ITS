@@ -58,8 +58,8 @@ Dome 1 Description: Offering the utmost privacy to its guests. With its serene l
   themselves in nature’s beauty.
 Dome 1 Images:
 - "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
-- "/assets/images/dome1/3.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5379-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5371-Edit.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 2 Title: Dome 2 - Barrow
 Dome 2 Mini Description: The most accessible one
