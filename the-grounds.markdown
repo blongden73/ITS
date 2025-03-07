@@ -152,7 +152,7 @@ Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touc
   stone's throw away.
 Dome 5 Images:
 - "/uploads/In%20the%20Stix%20Dome%205_DSC9076-Edit.jpg"
-- "/assets/images/dome1/2.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 6 Title: Dome 6 - Normanton
