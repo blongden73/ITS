@@ -154,7 +154,7 @@ Dome 5 Images:
 - "/uploads/In%20the%20Stix%20Dome%205_DSC9076-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%205_DSC5853-Edit.jpg"
-- "/assets/images/dome1/4.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5850-Edit.jpg"
 Dome 6 Title: Dome 6 - Normanton
 Dome 6 Mini Description: The rocking chair one
 Map Dome 6 Images: "/uploads/in-the-stix-rutland-glamping-dome-6.jpg"
