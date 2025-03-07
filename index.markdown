@@ -11,12 +11,13 @@ Home Hero Button Text: Explore The Grounds
 Home About Section: 'GET GROUNDED - ESCAPE THE SCREENS '
 Home About Section Text: 'If you’re looking to escape the screen, recuperate and get
   back into nature, in comfort, to reconnect with yourself and those you love, we
-  created In The Stix for you. '
-Home About Image: assets/images/phones-off-fire.jpg
-Home About Section Two Title: UNIQUE INTERIORS
-Home About Section Two Text: Each of our domes have a well furnished lounge area,
-  with chesterfield leather sofas and log burners. The bathroom is en-suite and fitted
-  with a large shower, sink and a flushing WC.
+  created In the Stix for you. '
+Home About Image: "/uploads/in-the-stix-rutland-glamping-chesterfield-sofas.jpg.webp"
+Home About Section Two Title: FEEL THE LUXURY
+Home About Section Two Text: From cosy beds to flower beds, we’ve got your comfort
+  and privacy covered. And no more trudging through wet muddy grounds to go to the
+  bathroom or take a hot shower - you’ll have what you need inside your well equipped
+  dome, including a comfy chesterfield sofa and family board games to boot.
 Home About Image Two: assets/images/interiors.jpg
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
