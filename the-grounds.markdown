@@ -80,7 +80,7 @@ Dome 2 Description: Ideally located at the base of the valley, providing easy ac
   for savouring morning coffee or unwinding in the evening sun. This dome is a cherished
   favourite for those seeking an accessible escape in nature.
 Dome 2 Images:
-- "/assets/images/dome1/1.jpg"
+- "/uploads/DM2%20in-the-stix-dome2-interior%20DSC9305-Edit.jpg"
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
