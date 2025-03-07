@@ -82,7 +82,7 @@ Dome 2 Description: Ideally located at the base of the valley, providing easy ac
 Dome 2 Images:
 - "/uploads/DM2%20in-the-stix-dome2-interior%20DSC9305-Edit.jpg"
 - "/uploads/DM2in-the-stix-dome2-interior%20DSC5547-Edit.jpg"
-- "/uploads/In%20the%20Stix%20Dome%202_DSC5492-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%202_DSC5510-Edit.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 3 Title: Dome 3 - Hambleton
 Dome 3 Mini Description: The retro bus seat one
