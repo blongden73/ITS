@@ -8,7 +8,7 @@ Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Button Link: "/the-grounds/"
 Home Hero Sub Title: connections are strong
 Home Hero Button Text: Explore The Grounds
-Home About Section: 'GET GROUNDED - ESCAPE THE SCREENS '
+Home About Section: RELAX AND UNWIND
 Home About Section Text: 'If you’re looking to escape the screen, recuperate and get
   back into nature, in comfort, to reconnect with yourself and those you love, we
   created In the Stix for you. '
@@ -29,6 +29,14 @@ COOK. DINE. OR BE SERVED. TEXT: 'Enjoy your very own private kitchen and dining 
   or if you feel like throwing in the tea towel, take advantage of our locally sourced
   hampers and our home made hot meals. '
 COOK DINE IMAGE: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
+RELAX AND UNWIND Text: Whether you’ve been on your feet all day, or just in need of
+  deep relaxation, your dome comes with its own cedar wood hot tub, so just relax
+  and unwind, and soak in natures vibe.
+Home About Section name: GOOD NIGHT
+Memroble Moments Text: 'The only ‘log on’ around here is to fuel the cosy fire. So
+  huddle up around the fire pit, toast some marshmallows, reflect on the day or share
+  those memorable moments that will last a life time. '
+Good Night Text: From cosy beds to flower beds,
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
     was unforgettable."'
@@ -42,15 +50,15 @@ Featured in logos:
 - assets/images/image 3.png
 - assets/images/image 5.png
 - assets/images/image 4.png
-Home About Section Three Title: Sleep Soundly
-Home About Section Three Text: Reconnect with nature, unwind, and spend quality time
-  away from the noise. Explore our unique interiors and enjoy modern amenities surrounded
-  by the outdoors.
 Home About Section Three Image: assets/images/phones-off-fire.jpg
 Awarded in Images:
 - 
 - "/uploads/AA%20VE%20.jpg"
 Field name: 
+Home About Section Three Text: Reconnect with nature, unwind, and spend quality time
+  away from the noise. Explore our unique interiors and enjoy modern amenities surrounded
+  by the outdoors.
+Home About Section Three Title: Sleep Soundly
 layout: home
 ---
 
