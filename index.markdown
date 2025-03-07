@@ -9,9 +9,9 @@ Home Hero Button Link: "/the-grounds/"
 Home Hero Sub Title: connections are strong
 Home Hero Button Text: Explore The Grounds
 Home About Section: 'GET GROUNDED - ESCAPE THE SCREENS '
-Home About Section Text: Reconnect with nature, unwind, and spend quality time away
-  from the noise. Explore our unique interiors and enjoy modern amenities surrounded
-  by the outdoors.
+Home About Section Text: 'If you’re looking to escape the screen, recuperate and get
+  back into nature, in comfort, to reconnect with yourself and those you love, we
+  created in the Stix for you. '
 Home About Image: assets/images/phones-off-fire.jpg
 Home About Section Two Title: UNIQUE INTERIORS
 Home About Section Two Text: Each of our domes have a well furnished lounge area,
