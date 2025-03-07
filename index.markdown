@@ -1,6 +1,5 @@
 ---
 title: Home
-published: false
 Home Carousel Images:
 - assets/images/ITS-carousel-home.jpg
 - assets/images/DSC8899-Edit.jpg
