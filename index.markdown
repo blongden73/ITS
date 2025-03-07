@@ -8,7 +8,7 @@ Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Button Link: "/the-grounds/"
 Home Hero Sub Title: connections are strong
 Home Hero Button Text: Explore The Grounds
-Home About Section: Phones Off Around the Fire
+Home About Section: 'GET GROUNDED - ESCAPE THE SCREENS '
 Home About Section Text: Reconnect with nature, unwind, and spend quality time away
   from the noise. Explore our unique interiors and enjoy modern amenities surrounded
   by the outdoors.
