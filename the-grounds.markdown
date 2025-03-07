@@ -127,8 +127,8 @@ Dome 4 Description: With its warm and inviting decor in beautiful shades of pink
   the perfect blend of comfort and charm, inviting you to relax and soak in the beauty
   of your surroundings.
 Dome 4 Images:
-- "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC9319-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5763-Edit.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 5 Title: Dome 5 - Clipsham
