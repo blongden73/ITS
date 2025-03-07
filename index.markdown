@@ -12,7 +12,7 @@ Home About Section: 'GET GROUNDED - ESCAPE THE SCREENS '
 Home About Section Text: 'If you’re looking to escape the screen, recuperate and get
   back into nature, in comfort, to reconnect with yourself and those you love, we
   created In the Stix for you. '
-Home About Image: "/uploads/DSC9157-Edit.jpg"
+Home About Image: "/uploads/_DSC9093-Edit.jpg"
 Home About Section Two Title: FEEL THE LUXURY
 Home About Section Two Text: We’ve got your comfort and privacy covered. And no more
   trudging through wet muddy grounds to go to the bathroom or take a hot shower -
