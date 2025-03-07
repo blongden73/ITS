@@ -130,7 +130,7 @@ Dome 4 Images:
 - "/uploads/In%20the%20Stix%20Dome%204_DSC9319-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%204_DSC5763-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%204_DSC5750-Edit.jpg"
-- "/assets/images/dome1/4.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5735-Edit.jpg"
 Dome 5 Title: Dome 5 - Clipsham
 Dome 5 Mini Description: The slipper chair one
 Map Dome 5 Images: "/uploads/temp-image.jpg"
