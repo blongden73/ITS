@@ -138,6 +138,7 @@ Dome 4 Images:
 - "/uploads/In%20the%20Stix%20Dome%204_DSC5786-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%204_DSC5777-Editcopy.jpg"
 - "/uploads/In%20the%20Stix%20Dome%204_DSC5771-Edit.jpg"
+- 
 Dome 5 Title: Dome 5 - Clipsham
 Dome 5 Mini Description: The slipper chair one
 Map Dome 5 Images: "/uploads/temp-image.jpg"
@@ -150,7 +151,7 @@ Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touc
   convenient for groups attending events, ensuring you have a serene escape just a
   stone's throw away.
 Dome 5 Images:
-- "/assets/images/dome1/1.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC9076-Edit.jpg"
 - "/assets/images/dome1/2.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
