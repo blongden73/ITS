@@ -24,6 +24,7 @@ Your Adventures Await Three Text: 'For those feeling the urge to explore, you do
   have to go far. Take the footpaths or hire a bicycle to get around. There’s so much
   to explore that you’ll have to come back more than once to experience what Rutland
   has to offer. '
+YOUR ADVENTURES AWAIT IMAGE: "/uploads/In%20the%20Stix%20Dome%204_DSC5774-Edit.jpg"
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
     was unforgettable."'
