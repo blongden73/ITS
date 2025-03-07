@@ -81,7 +81,7 @@ Dome 2 Description: Ideally located at the base of the valley, providing easy ac
   favourite for those seeking an accessible escape in nature.
 Dome 2 Images:
 - "/uploads/DM2%20in-the-stix-dome2-interior%20DSC9305-Edit.jpg"
-- "/assets/images/dome1/2.jpg"
+- "/uploads/DM2in-the-stix-dome2-interior%20DSC5547-Edit.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Dome 3 Title: Dome 3 - Hambleton
