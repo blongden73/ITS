@@ -24,7 +24,7 @@ Your Adventures Await Three Text: 'For those feeling the urge to explore, you do
   to explore that you’ll have to come back more than once to experience what Rutland
   has to offer. '
 YOUR ADVENTURES AWAIT IMAGE: "/uploads/In%20the%20Stix%20Dome%204_DSC5774-Edit.jpg"
-HOME ABOUT SECTION 4: COOK. DINE. OR BE SERVED.
+HOME ABOUT SECTION: COOK. DINE. OR BE SERVED.
 COOK. DINE. OR BE SERVED. TEXT: 'Enjoy your very own private kitchen and dining area,
   or if you feel like throwing in the tea towel, take advantage of our locally sourced
   hampers and our home made hot meals. '
@@ -58,6 +58,7 @@ Home About Section Three Text: Reconnect with nature, unwind, and spend quality 
   away from the noise. Explore our unique interiors and enjoy modern amenities surrounded
   by the outdoors.
 Home About Section Three Title: Sleep Soundly
+Relax image: 
 layout: home
 ---
 
