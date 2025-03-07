@@ -32,6 +32,7 @@ COOK DINE IMAGE: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
 RELAX AND UNWIND Text: Whether you’ve been on your feet all day, or just in need of
   deep relaxation, your dome comes with its own cedar wood hot tub, so just relax
   and unwind, and soak in natures vibe.
+Relax image: "/uploads/_DSC5698-Edit.jpg"
 Home About Section name: GOOD NIGHT
 Memroble Moments Text: 'The only ‘log on’ around here is to fuel the cosy fire. So
   huddle up around the fire pit, toast some marshmallows, reflect on the day or share
@@ -53,8 +54,6 @@ Featured in logos:
 Awarded in Images:
 - "/uploads/AA%20VE%20.jpg"
 Field name: 
-Home About Section Three Title: Sleep Soundly
-Relax image: "/uploads/_DSC5698-Edit.jpg"
 layout: home
 ---
 
