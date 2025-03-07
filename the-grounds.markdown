@@ -15,7 +15,7 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
 Dome Features:
 - Title: Ensuite shower rooms
   Image: "/uploads/in-the-stix-ensuite-shower-rooms.jpg"
-  Description: Large walk in showers and full plumbed W.C.
+  Description: Large walk in showers and fully plumbed W.C.
 - Title: Chesterfield sofas
   Image: "/uploads/in-the-stix-chesterfield-sofas-cropped.jpg"
   Description: To curl up on in front of the fire.
