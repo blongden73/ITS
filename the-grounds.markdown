@@ -114,6 +114,7 @@ Dome 3 Images:
 - "/uploads/In%20the%20Stix%20Dome%203_DSC5617-Editcopy.jpg"
 - "/uploads/In%20the%20Stix%20Dome%203_DSC5666-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5462-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5696-Edit.jpg"
 Dome 4 Title: Dome 4 - Exton
 Dome 4 Mini Description: The morning sun one
 Map Dome 4 Images: 
