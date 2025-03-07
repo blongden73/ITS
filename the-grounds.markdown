@@ -23,7 +23,7 @@ Dome Features:
   Image: "/uploads/in-the-stix-log-burners-cropped.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: "/uploads/in-the-stix-downstairs-king-size-beds-cropped.jpg"
+  Image: "/uploads/in-the-stix-downstairs-king-size-beds-cropped-9cb260.jpg"
   Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
   Image: "/uploads/in-the-stix-upstairs-mezzanine-crop.jpg"
