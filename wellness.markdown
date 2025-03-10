@@ -21,27 +21,25 @@ Spa Days Description: "We are thrilled to announce the launch of our new spa day
 Spa Days Images:
 - "/uploads/test-dome.jpg"
 - "/uploads/_DSC5698-Edit.jpg"
-- "/uploads/SPa%20Tea.jpg"
+- "/uploads/toa-heftiba-hBLf2nvp-Yc-unsplash.jpeg"
 - "/uploads/toa-heftiba-hBLf2nvp-Yc-unsplash.jpg"
-- "/uploads/christin-hume-0MoF-Fe0w0A-unsplash.jpg"
+- "/uploads/christin-hume-0MoF-Fe0w0A-unsplash.jpeg"
 Retreats Description: "We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
   tuned for more details! \n\n"
 Retreats Images:
-- "/uploads/priscilla-du-preez-nF8xhLMmg0c-unsplash.jpg"
-- "/uploads/frames-for-your-heart-89tJEmx3VuA-unsplash.jpg"
-- "/uploads/lesly-juarez-DFtjXYd5Pto-unsplash.jpg"
+- "/uploads/priscilla-du-preez-nF8xhLMmg0c-unsplash.jpeg"
+- "/uploads/frames-for-your-heart-89tJEmx3VuA-unsplash.jpeg"
+- "/uploads/lesly-juarez-DFtjXYd5Pto-unsplash.jpeg"
 - "/uploads/priscilla-du-preez-W3SEyZODn8U-unsplash.jpg"
-- "/uploads/WhatsApp%20Image%202023-01-21%20at%2012.20.28.jpeg"
 YOGA Description: New for 2021, Normanton is the first dome you approach from the
   carpark. High on the hillside it has a view straight down the valley. Perfect for
   the evening sunsets. Styled with our eclectic choice of furnishings, the dome has
   a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!
 YOGA Images:
-- "/uploads/amauri-mejia-GvF7RkA-E9Q-unsplash.jpg"
-- "/uploads/anway-pawar-NuCQpsHbeH4-unsplash.jpg"
-- "/uploads/luemen-rutkowski-mIHbipd5-Qw-unsplash.jpg"
-- "/uploads/Screenshot%202023-02-16%20at%2014.10.28.png"
+- "/uploads/amauri-mejia-GvF7RkA-E9Q-unsplash.jpeg"
+- "/uploads/anway-pawar-NuCQpsHbeH4-unsplash.jpeg"
+- "/uploads/luemen-rutkowski-mIHbipd5-Qw-unsplash.jpeg"
 Test - new section: Test - new section
 layout: wellness
 ---
