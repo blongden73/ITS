@@ -20,7 +20,7 @@ Spa Days Description: "We are thrilled to announce the launch of our new spa day
   of relaxation and indulgence!\n\n"
 Spa Days Images:
 - "/uploads/test-dome.jpg"
-- "/uploads/_DSC5698-Edit.jpg"
+- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.52.51.jpeg"
 - "/uploads/SPa%20Tea.jpg"
 - "/uploads/Screenshot%202025-03-10%20at%2017.40.57.jpeg"
 - "/uploads/christin-hume-0MoF-Fe0w0A-unsplash.jpeg"
