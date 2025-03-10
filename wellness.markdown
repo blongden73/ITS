@@ -22,7 +22,7 @@ Spa Days Images:
 - "/uploads/test-dome.jpg"
 - "/uploads/_DSC5698-Edit.jpg"
 - "/uploads/SPa%20Tea.jpg"
-- "/uploads/toa-heftiba-hBLf2nvp-Yc-unsplash.jpg"
+- "/uploads/Screenshot%202025-03-10%20at%2017.40.57.jpeg"
 - "/uploads/christin-hume-0MoF-Fe0w0A-unsplash.jpeg"
 Retreats Description: "We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
