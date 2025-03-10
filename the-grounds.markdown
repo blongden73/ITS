@@ -92,6 +92,7 @@ Dome 2 Images:
 - "/uploads/In%20the%20Stix%20Dome%202_DSC5612-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5472-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201DSC5322-Edit.jpg"
+- "/uploads/_DSC9225-Edit.jpg"
 Dome 3 Title: Dome 3 - Hambleton
 Dome 3 Mini Description: The retro bus seat one
 Map Dome 3 Images: 
@@ -152,9 +153,17 @@ Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touc
   stone's throw away.
 Dome 5 Images:
 - "/uploads/In%20the%20Stix%20Dome%205_DSC9076-Edit.jpg"
-- "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5790-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%205_DSC5853-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%205_DSC5850-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5794-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5795-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5801-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5817-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5849copy.jpg"
+- "/uploads/In%20the%20Stix%20The%20Grounds_DSC9043-Editcopy.jpg"
+- "/uploads/In%20the%20Stix%20The%20Grounds_DSC9122-Edit.jpg"
+- "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
 Dome 6 Title: Dome 6 - Normanton
 Dome 6 Mini Description: The rocking chair one
 Map Dome 6 Images: "/uploads/in-the-stix-rutland-glamping-dome-6.jpg"
@@ -167,7 +176,7 @@ Dome 6 Description: Conveniently located just a five-minute walk from the car pa
   guests with mobility challenges.
 Dome 6 Images:
 - "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit-21b761.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Field Kitchen Title: Field Kitchen
@@ -324,8 +333,9 @@ Parking Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhan
   witnessing the most incredible sunsets, so we highly recommend booking an evening
   session to truly make the most of this magical experience. Treat yourself to a moment
   of tranquillity and let nature rejuvenate your spirit!"
-Extra Title: Smoke 'N Stix - events space
-Extra Mini Description: 
+Extra Title: Smoke 'n Stix - events space
+Extra Mini Description: Our outdoor undercover communal space for special events and
+  gatherings.
 Map Extra Images: 
 Extra Images:
 - "/assets/images/image.jpg"
