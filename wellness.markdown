@@ -21,7 +21,7 @@ Spa Days Description: "We are thrilled to announce the launch of our new spa day
 Spa Days Images:
 - "/uploads/test-dome.jpg"
 - "/uploads/_DSC5698-Edit.jpg"
-- "/uploads/toa-heftiba-hBLf2nvp-Yc-unsplash.jpeg"
+- "/uploads/SPa%20Tea.jpg"
 - "/uploads/toa-heftiba-hBLf2nvp-Yc-unsplash.jpg"
 - "/uploads/christin-hume-0MoF-Fe0w0A-unsplash.jpeg"
 Retreats Description: "We're excited to announce a series of unique retreats coming
@@ -29,7 +29,7 @@ Retreats Description: "We're excited to announce a series of unique retreats com
   tuned for more details! \n\n"
 Retreats Images:
 - "/uploads/priscilla-du-preez-nF8xhLMmg0c-unsplash.jpeg"
-- "/uploads/frames-for-your-heart-89tJEmx3VuA-unsplash.jpeg"
+- "/uploads/Screenshot%202023-02-16%20at%2014.10.28.jpg"
 - "/uploads/lesly-juarez-DFtjXYd5Pto-unsplash.jpeg"
 - "/uploads/priscilla-du-preez-W3SEyZODn8U-unsplash.jpg"
 YOGA Description: New for 2021, Normanton is the first dome you approach from the
