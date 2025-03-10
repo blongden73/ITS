@@ -23,7 +23,8 @@ Spa Days Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.52.51.jpeg"
 - "/uploads/SPa%20Tea.jpg"
 - "/uploads/Screenshot%202025-03-10%20at%2017.40.57.jpeg"
-- "/uploads/christin-hume-0MoF-Fe0w0A-unsplash.jpeg"
+- "/uploads/Screenshot%202025-03-10%20at%2017.41.46.jpeg"
+- "/uploads/Screenshot%202025-03-10%20at%2017.42.35.jpeg"
 Retreats Description: "We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
   tuned for more details! \n\n"
