@@ -1779,3 +1779,13 @@ header:not(.hero):after {
 .mobile-header-top {
     display: none;
 }
+
+.maintence-cover {
+    background-color: #DA5626 !important;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
