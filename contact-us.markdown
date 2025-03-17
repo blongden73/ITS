@@ -19,7 +19,6 @@ layout: default
             <p><a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a></p>
             <p> {% for number in site.data.contact.phone %}
                 T: <a href="tel:+44{{ number | remove: ' ' }}">{{ number }}</a>{% unless forloop.last %} / {% endunless %}
-                T: <a href="tel:+44{{ number | remove: ' ' }}">{{ secondnumber }}</a>{% unless forloop.last %} / {% endunless %}
                 {% endfor %}
             </p>
             <p class="smaller-text">For precise location:</p>

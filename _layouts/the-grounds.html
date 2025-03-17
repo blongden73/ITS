@@ -13,7 +13,7 @@ layout: default
                 <h3>{{ page.["Dome 2 Title"] }}</h3>
                 <p>{{ page.["Dome 2 Mini Description"] }}</p>
             </div>
-            <a class="btn" href="#dome-1">Jump to</a>
+            <a class="btn" href="#dome-2">Jump to</a>
             
         </div>
         <div class="map-elements element-two">
@@ -22,7 +22,7 @@ layout: default
                 <h3>{{ page.["Dome 4 Title"] }}</h3>
                 <p>{{ page.["Dome 4 Mini Description"] }}</p>
             </div>
-            <a class="btn" href="#dome-2">Jump to</a>
+            <a class="btn" href="#dome-4">Jump to</a>
             
         </div>
         <div class="map-elements element-three">
@@ -31,7 +31,7 @@ layout: default
                 <h3>Log Storage</h3>
                 <p>{{ page.["Log Storage Mini Description"] }}</p>
             </div>
-            <a class="btn" href="#dome-1">Jump to</a>
+            <a class="btn" href="#log-storage">Jump to</a>
             
         </div>
         <div class="map-elements element-three-one">
@@ -40,7 +40,7 @@ layout: default
                 <h3>Shepards Hut</h3>
                 <p>{{ page.["Shepards Hut Mini Description"] }}</p>
             </div>
-            <a class="btn" href="#dome-1">Jump to</a>
+            <a class="btn" href="#shepards-hut">Jump to</a>
             
         </div>
         <div class="map-elements element-four">
@@ -49,7 +49,7 @@ layout: default
                 <h3>Field Kitchen</h3>
                 <p>{{ page.["Field Kitchen Mini Description"] }}</p>
             </div>
-            <a class="btn" href="#dome-1">Jump to</a>
+            <a class="btn" href="#field-kitchen">Jump to</a>
             
         </div>
         <div class="map-elements element-four-one">
@@ -58,7 +58,7 @@ layout: default
                 <h3>Fire pit</h3>
                 <p>{{ page.["Fire pit Mini Description"] }}</p>
             </div>
-            <a class="btn" href="#dome-1">Jump to</a>
+            <a class="btn" href="#fire-pit">Jump to</a>
             
         </div>
         <div class="map-elements element-four-two">
@@ -171,13 +171,13 @@ layout: default
             <a href="#dome-4"><div class="feature">Dome 4</div></a>
             <a href="#dome-5"><div class="feature">Dome 5</div></a>
             <a href="#dome-6"><div class="feature">Dome 6</div></a>
-            <a href="#sauna"><div class="feature">Sauna</div></a>
             <a href="#field-kitchen"><div class="feature">Field Kitchen</div></a>
             <a href="#fire-pit"><div class="feature">Fire pit</div></a>
             <a href="#play-area"><div class="feature">Play Area</div></a>
-            <a href="#meadow"><div class="feature">Meadow</div></a>
+            <a href="#sauna"><div class="feature">Sauna</div></a>
             <a href="#deck"><div class="feature">Deck</div></a>
             <a href="#brook"><div class="feature">Brook</div></a>
+            <a href="#meadow"><div class="feature">Meadow</div></a>
             <a href="#parking"><div class="feature">Parking</div></a>
             <a href="#extra"><div class="feature">{{ page.["Extra Title"] }}</div></a>
         </div>
@@ -189,14 +189,14 @@ layout: default
 <section id="dome-features-links" class="features-grid-cards">
     <div class="container">
         <h2>DOME FEATURES</h2>
-        <p>{{ page.SectionDescription }}</p>
+        <p>{{ page.SectionDescription | markdownify }}</p>
     </div>
     <div class="container flex card-container">
         {% for feature in page.["Dome Features"] %}
         <div class="card">
             <img src="{{ feature.Image }}" alt="Feature Image">
             <h3>{{ feature.Title }}</h3>
-            <p>{{ feature.Description }}</p>
+            <p>{{ feature.Description | markdownify }}</p>
         </div>
         {% endfor %}
     </div>

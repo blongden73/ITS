@@ -1329,9 +1329,13 @@ footer {
 
 .feature-grid {
     display: flex;
-    gap: 30px;
+    gap: 20px;
     color: #fff;
     font-size: 1.2vw;
+}
+
+.feature-grid a {
+    text-decoration: none !important;
 }
 
 #reviews .card {
