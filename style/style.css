@@ -1794,3 +1794,8 @@ header:not(.hero):after {
 .reviews.ripped.after-ripped:after {
     margin-bottom: -6px;
 }
+
+.card a {
+    text-decoration: underline;
+    color: #DA5626;
+}
