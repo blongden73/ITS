@@ -6,13 +6,17 @@
     }
 
     h2 {
-        font-size: 56px;
+        font-size: 40px;
         line-height: 1.2;
         margin-bottom: 10px;
     }
 
     h2:after {
         transform: translateY(-13px);
+    }
+
+    h2:before {
+        height: 64px;
     }
 
     header:not(.hero):after {
