@@ -13,38 +13,41 @@ SectionDescription: "Our original mezzanine design offers a unique upper-floor b
   they are a sanctuary where you can relax and enjoy the beauty of nature without
   compromising on comfort."
 Dome Features:
-- Title: Ensuite Showers rooms
-  Image: "/uploads/DSC5510-Edit-b33efa.jpg"
-  Description: " With flushing WC."
+- Title: Ensuite shower rooms
+  Image: "/uploads/in-the-stix-ensuite-shower-rooms.jpg"
+  Description: Large walk in showers and fully plumbed W.C.
 - Title: Chesterfield sofas
-  Image: "/uploads/DSC5513-Edit-163b14.jpg"
-  Description: Made with real leather for luxurious comfort.
+  Image: "/uploads/in-the-stix-chesterfield-sofas-cropped.jpg"
+  Description: To curl up on in front of the fire.
 - Title: Log burners
-  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
+  Image: "/uploads/in-the-stix-log-burners-cropped.jpg"
   Description: Stay warm and cosy.
 - Title: Downstairs king size beds
-  Image: "/uploads/DSC5513-Edit-6954ae.jpg"
-  Description: For easy access.
+  Image: "/uploads/in-the-stix-downstairs-king-size-beds-cropped-9cb260.jpg"
+  Description: With luxury linens and bedding.
 - Title: Upstairs mezzanine
-  Image: "/uploads/DSC5513-Edit-163b14.jpg"
-  Description: "Sleeps 4 (in singles or king/superking size beds)\n\n"
+  Image: "/uploads/in-the-stix-upstairs-mezzanine-crop.jpg"
+  Description: "Sleeps 4 (in singles or king/superking size beds, to suit your requirements)\n\n"
 - Title: Chest full of board games
-  Image: "/uploads/DSC5513-Edit-163b14.jpg"
-  Description: Description to go here.
+  Image: "/uploads/in-the-stix-chestfull-of-board-games-cropped.jpg"
+  Description: Games for all the family.
 - Title: Hanging chair
-  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
-  Description: Description to go here.
+  Image: "/uploads/in-the-stix-hanging-chair-cropped-resized.jpg"
+  Description: A warm spot by the fire to read your book.
 - Title: Personal log fired hot tub
-  Image: "/uploads/DSC5513-Edit-163b14.jpg"
-  Description: "(Additional cost of £45)."
-- Title: Personal kitchen
-  Image: "/uploads/DSC5510-Edit-88d42e.jpg"
-  Description: "(With pizza oven and 2 ringed gas hob)."
+  Image: "/uploads/in-the-stix-personal-log-fired-hot-tub-cropped.jpg"
+  Description: |-
+    Private tub for each dome.
+    (Additional cost of £45).
+- Title: Personal Field Kitchen
+  Image: "/uploads/in-the-stix-personal-feld-kitchen-cropped.jpg"
+  Description: Fully equipped, which everything you could possibly need. With pizza
+    oven and 2 ringed gas hob.
 - Title: "Covered outdoor \nseating area"
-  Image: "/uploads/DSC5513-Edit-6954ae.jpg"
-  Description: Description to go here.
+  Image: "/uploads/in-the-stix-covered-outdoor-seating-area-cropped.jpg"
+  Description: Covered area to sit and enjoy the view.
 Dome 1 Title: Dome 1 - Greetham
-Dome 1 Mini Description: Dome 1 - Greetham
+Dome 1 Mini Description: The blue one
 Map Dome 1 Images: 
 Dome 1 Description: Offering the utmost privacy to its guests. With its serene location
   near a soothing babbling brook, this dome provides uninterrupted views of the surrounding
@@ -55,11 +58,19 @@ Dome 1 Description: Offering the utmost privacy to its guests. With its serene l
   themselves in nature’s beauty.
 Dome 1 Images:
 - "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
-- "/assets/images/dome1/3.jpg"
-- "/assets/images/dome1/4.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5379-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5371-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5340-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5333-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5325-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5354-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5388-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5419-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5428-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5467-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5474-Edit.jpg"
 Dome 2 Title: Dome 2 - Barrow
-Dome 2 Mini Description:
+Dome 2 Mini Description: The most accessible one
 Map Dome 2 Images: 
 Dome 2 Description: Ideally located at the base of the valley, providing easy access
   for our less able-bodied visitors. Its vibrant Moroccan-inspired design features
@@ -69,12 +80,21 @@ Dome 2 Description: Ideally located at the base of the valley, providing easy ac
   for savouring morning coffee or unwinding in the evening sun. This dome is a cherished
   favourite for those seeking an accessible escape in nature.
 Dome 2 Images:
-- "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
-- "/assets/images/dome1/3.jpg"
-- "/assets/images/dome1/4.jpg"
+- "/uploads/DM2%20in-the-stix-dome2-interior%20DSC9305-Edit.jpg"
+- "/uploads/DM2in-the-stix-dome2-interior%20DSC5547-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%202_DSC5510-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%202_DSC5511-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%202_DSC5513-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%202_DSC5525-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%202_DSC5562-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%202_DSC5571-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%202_DSC5612-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5472-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201DSC5322-Edit.jpg"
+- "/uploads/_DSC9225-Edit.jpg"
 Dome 3 Title: Dome 3 - Hambleton
-Dome 3 Mini Description:
+Dome 3 Mini Description: The retro bus seat one
 Map Dome 3 Images: 
 Dome 3 Description: Nestled into the hillside, this dome offers elevated views that
   will take your breath away. Inside, you’ll find an eclectic mix of handpicked retro
@@ -84,12 +104,20 @@ Dome 3 Description: Nestled into the hillside, this dome offers elevated views t
   you’ll be treated to a spectacular display of colours that will leave you in awe.
   What more could you possibly need?
 Dome 3 Images:
-- "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
-- "/assets/images/dome1/3.jpg"
-- "/assets/images/dome1/4.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC9298-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5652-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5651-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5649-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5647-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5637-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5635-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5628-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5617-Editcopy.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5666-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5462-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%203_DSC5696-Edit.jpg"
 Dome 4 Title: Dome 4 - Exton
-Dome 4 Mini Description:
+Dome 4 Mini Description: The morning sun one
 Map Dome 4 Images: 
 Dome 4 Description: With its warm and inviting decor in beautiful shades of pink and
   red, Exton is designed to make you feel right at home. The east-facing kitchen and
@@ -100,13 +128,21 @@ Dome 4 Description: With its warm and inviting decor in beautiful shades of pink
   the perfect blend of comfort and charm, inviting you to relax and soak in the beauty
   of your surroundings.
 Dome 4 Images:
-- "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
-- "/assets/images/dome1/3.jpg"
-- "/assets/images/dome1/4.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC9319-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5763-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5750-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5735-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5728-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5724-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5713-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC9368-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5786-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5777-Editcopy.jpg"
+- "/uploads/In%20the%20Stix%20Dome%204_DSC5771-Edit.jpg"
+- 
 Dome 5 Title: Dome 5 - Clipsham
-Dome 5 Mini Description:
-Map Dome 5 Images:
+Dome 5 Mini Description: The slipper chair one
+Map Dome 5 Images: "/uploads/In%20the%20Stix%20Dome%205_DSC9070-Edit.jpg"
 Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touch for
   those who appreciate a little extra space. Nestled into the hillside, Clipsham offers
   fantastic elevated views from both the hot tub and the cozy seating area, allowing
@@ -116,13 +152,21 @@ Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touc
   convenient for groups attending events, ensuring you have a serene escape just a
   stone's throw away.
 Dome 5 Images:
-- "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
-- "/assets/images/dome1/3.jpg"
-- "/assets/images/dome1/4.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC9076-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5790-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5853-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5850-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5794-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5795-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5801-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5817-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5849copy.jpg"
+- "/uploads/In%20the%20Stix%20The%20Grounds_DSC9043-Editcopy.jpg"
+- "/uploads/In%20the%20Stix%20The%20Grounds_DSC9122-Edit.jpg"
+- "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
 Dome 6 Title: Dome 6 - Normanton
-Dome 6 Mini Description:
-Map Dome 6 Images: 
+Dome 6 Mini Description: The rocking chair one
+Map Dome 6 Images: "/uploads/in-the-stix-rutland-glamping-dome-6.jpg"
 Dome 6 Description: Conveniently located just a five-minute walk from the car park.
   This dome also has a walk in wardrobe and is situated alongside Dome 5 on a hillside
   that boasts stunning elevated views and spectacular sunsets. Families will appreciate
@@ -132,7 +176,7 @@ Dome 6 Description: Conveniently located just a five-minute walk from the car pa
   guests with mobility challenges.
 Dome 6 Images:
 - "/assets/images/dome1/1.jpg"
-- "/assets/images/dome1/2.jpg"
+- "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit-21b761.jpg"
 - "/assets/images/dome1/3.jpg"
 - "/assets/images/dome1/4.jpg"
 Field Kitchen Title: Field Kitchen
@@ -150,17 +194,17 @@ Field Kitchen Text: "Each dome at our location comes equipped with a private fie
   cold. \n\nWith these amenities, you can enjoy the freedom of outdoor cooking and
   dining while saving yourself the stresses of having to remember to bring everything,
   it has all been thought out for you."
-Field Kitchen Mini Description:
+Field Kitchen Mini Description: Event hire
 Map Field Kitchen Images: 
 Field Kitchen Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Title: Fire Pit
-Fire Pit Mini Description:
+Fire Pit Mini Description: 
 Map Fire Pit Images: 
 Fire Pit Images:
-- "/assets/images/image.jpg"
+- "/uploads/temp-image-a30ce7.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
@@ -176,8 +220,8 @@ Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, fea
   for relaxation and camaraderie. Come and experience the warmth and joy that the
   fire pit brings to your stay!"
 Play Area Title: Play Area
-Play Area Mini Description:
-Map Play Area Images:
+Play Area Mini Description: 
+Map Play Area Images: 
 Play Area Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -195,8 +239,8 @@ Play Area Text: "Our dedicated play area is located at the opposite end of the f
   cherished memories. Parents can relax knowing their kids are safe and living their
   best lives in this fantastic outdoor setting."
 Sauna Title: Sauna
-Sauna Mini Description:
-Map Sauna Images:
+Sauna Mini Description: 
+Map Sauna Images: 
 Sauna Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -214,8 +258,8 @@ Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Deck Title: Deck
-Deck Mini Description:
-Map Deck Images:
+Deck Mini Description: 
+Map Deck Images: 
 Deck Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -233,8 +277,8 @@ Deck Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance 
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Brook Title: Brook
-Brook Mini Description:
-Map Brook Images:
+Brook Mini Description: 
+Map Brook Images: 
 Brook Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -252,8 +296,8 @@ Brook Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Meadow Title: Meadow
-Meadow Mini Description:
-Map Meadow Images:
+Meadow Mini Description: 
+Map Meadow Images: 
 Meadow Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -271,8 +315,8 @@ Meadow Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhanc
   session to truly make the most of this magical experience. Treat yourself to a moment
   of tranquillity and let nature rejuvenate your spirit!"
 Parking Title: Parking
-Parking Mini Description:
-Map Parking Images:
+Parking Mini Description: 
+Map Parking Images: 
 Parking Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
@@ -289,9 +333,10 @@ Parking Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhan
   witnessing the most incredible sunsets, so we highly recommend booking an evening
   session to truly make the most of this magical experience. Treat yourself to a moment
   of tranquillity and let nature rejuvenate your spirit!"
-Extra Title: Extra Section
-Extra Mini Description:
-Map Extra Images:
+Extra Title: Smoke 'n Stix - events space
+Extra Mini Description: Our outdoor undercover communal space for special events and
+  gatherings.
+Map Extra Images: 
 Extra Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"

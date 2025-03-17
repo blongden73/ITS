@@ -7,12 +7,12 @@ Intro Title: Locally sourced organic produce
 Smoke N Sticks Description: "Introducing Smoke n Stix, our unique event and outdoor
   kitchen space designed for unforgettable culinary experiences! Available for groups
   booking two domes or more, this versatile area allows you to cook and dine together
-  in a beautiful setting.With seating for up to 40 people, Smoke n Stix offers a fantastic
-  undercover space that blends indoor and outdoor elements, ensuring you can enjoy
-  your time together regardless of the weather.Equipped with outdoor cooking facilities,
-  including a giant log-fired pizza oven, BBQ, gas hob, and oven, as well as a kitchen
-  prep area, \nyou’ll have everything you need to create delicious meals and memorable
-  moments"
+  in a beautiful setting. \n\nWith seating for up to 40 people, Smoke 'n Stix offers
+  a fantastic undercover space that blends indoor and outdoor elements, ensuring you
+  can enjoy your time together regardless of the weather. \n\nEquipped with outdoor
+  cooking facilities, including a giant log-fired pizza oven, BBQ, gas hob, and oven,
+  as well as a kitchen prep area, you’ll have everything you need to create delicious
+  meals and memorable moments."
 Smoke N Sticks Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
@@ -28,14 +28,15 @@ Pizza & Steak Nights Images:
 - "/assets/images/image-2.jpg"
 - "/assets/images/image-2.jpg"
 - "/assets/images/image-2.jpg"
-One Pot Meals Description: Our one-pot meals have proven to be a fantastic solution
+One Pot Meals Description: "Our one-pot meals have proven to be a fantastic solution
   for easing the stress of cooking on your first night of your holiday. Our home-cooked
   dishes provide a delicious and convenient way to feed the whole family within minutes
-  of your arrival. These meals are preordered and will be waiting for you in your
+  of your arrival. \n\nThese meals are preordered and will be waiting for you in your
   dome, ready to be reheated and served. All you need to do is bring along some rice
-  or pasta to complete your meal! With our one-pot offerings, you can settle in and
-  enjoy your time together without the fuss of cooking after a long journey. Let us
-  take care of dinner so you can focus on relaxing and making the most of your stay!
+  or pasta to complete your meal! \n\nWith our one-pot offerings, you can settle in
+  and enjoy your time together without the fuss of cooking after a long journey. Let
+  us take care of dinner so you can focus on relaxing and making the most of your
+  stay!"
 One Pot Meals:
 - Title: Chicken and Chorizo Ragu
   Description: A tomato based mildly spiced with smoky paprika and Spanish chorizo
@@ -51,7 +52,7 @@ One Pot Meals:
   Description: A good, slow-cooked chilli always goes down a storm and is great for
     feeding a crowd. I’ve also included popped kidney beans for fantastic texture.
     Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, or tacos.
-  Image: "/assets/images/Vegan-Chilli-.jpg"
+  Image: "/uploads/Lancashire-hotpot-on-wooden-background-square-FS.jpg"
 Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, showcasing
   all our favourite local produce in one basket! Each hamper is thoughtfully designed
   to provide two delicious breakfasts: one hot and one continental. Enjoy a leisurely
@@ -61,8 +62,9 @@ Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, sho
   perfect for a cozy getaway, while the **large hamper** accommodates 4 to 6 people,
   ideal for a weekend gathering with friends or family.'
 Breakfast hampers:
-- Title: Small Hamper £48 (Veggie option minus meat £40)
+- Title: Small Hamper £48
   Description: |-
+    (Veggie option £40)
     * 6 Farmer Lou Lincolnshire sausages
     * 6 Farmer Lou dry cured back bacon
     * 2 large Hambleton Bakery breakfast muffins
@@ -76,8 +78,9 @@ Breakfast hampers:
     * 250g butter
     * 1 litre of freshly squeezed orange juice
   Image: "/assets/images/Chicken-Chorizo-Pot.jpg"
-- Title: Large Hamper £68 (Veggie option minus meat £55)
+- Title: Large Hamper £68
   Description: |-
+    (Veggie option £55)
     * 12 Farmer Lou Lincolnshire sausages
     * 12 Farmer Lou dry cured back bacon
     * 4 large Hambleton Bakery breakfast muffins
@@ -92,7 +95,8 @@ Breakfast hampers:
     * 2 litres of freshly squeezed orange juice
   Image: "/assets/images/Chilli-Blackened-Peppers.jpg"
 - Title: Small Vegan Hamper £38
-  Description: |-
+  Description: |2-
+
     * 4 large Hambleton Bakery Breakfast muffins
     * 1 small Hambleton bakery seven cereal loaf
     * 1 jar of Barlow’s of Belvoir marmalade or jam
@@ -103,7 +107,8 @@ Breakfast hampers:
     * 350g Coconut dairy free natural yogurt alternative
   Image: "/assets/images/Vegan-Chilli-.jpg"
 - Title: Large Vegan Hamper £50
-  Description: |-
+  Description: |2-
+
     * 8 large Hambleton Bakery breakfast muffins
     * 1 large Hambleton Bakery whole-meal loaf
     * 1 jar of Barlow’s of Belvoir marmalade or jam

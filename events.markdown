@@ -16,7 +16,7 @@ Parties Description: "If you're searching for a special venue to host your celeb
   pizzas, Thai food, or something else entirely. \n\nThe space can be booked for just
   a night or for an entire weekend, and if you reserve all the domes, you’ll enjoy
   exclusive use of the entire site. Let us help you create an unforgettable celebration
-  at In the Stix!"
+  at In the Stix!\n\nEmail us with your enquiry."
 Parties Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
@@ -45,7 +45,7 @@ Wedding Description: "Whether you are looking to have a festival style wedding, 
   an outdoor ceremony right here by our babbling brook. \n\nYou are free to book your
   own suppliers and make your day as unique as our location! Please call us if you
   would like to arrange a site visit or discuss your big day in more detail, we are
-  here to help"
+  here to help.\n\n[Click here for a pdf wedding brochure.](https://its.domaindev.co.uk/events/)"
 Weddings Images:
 - "/assets/images/image-2.jpg"
 - "/assets/images/image-2.jpg"
@@ -58,14 +58,16 @@ Retreats Images:
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-1.jpg"
-bbqs Description: New for 2021, Normanton is the first dome you approach from the
-  carpark. High on the hillside it has a view straight down the valley. Perfect for
-  the evening sunsets. Styled with our eclectic choice of furnishings, the dome has
-  a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!
+Description: |-
+  We are excited to announce we are currently planning for two events. One is for all the foodies out there, a joint venture with Farmison (online butchers) We are hosting a BBQ day on Saturday May 17th, which will be fun for all the family, there will be various BBQ themed stalls, demonstrations, and amazing food to try and buy! There will also be inflatable fun for the children.
+  Saturday 8th June is our Ibiza themed night, sundowner cocktails, fabulous food and dancing is guaranteed!
+  Ticket sales announcements to follow!
 bbqs Images:
 - "/assets/images/image-3.jpg"
 - "/assets/images/image-3.jpg"
 - "/assets/images/image-3.jpg"
+- 
+Celebrations - test: 
 layout: events
 ---
 
