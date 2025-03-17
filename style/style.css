@@ -1392,6 +1392,8 @@ footer {
 .features-grid-cards .card img{
     width: 100%;
     height: auto;
+    aspect-ratio: 5/3;
+    object-fit: cover;
 }
 
 .features-grid-cards.one-pot .flex{
