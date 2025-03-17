@@ -1790,3 +1790,7 @@ header:not(.hero):after {
     right: 0;
     z-index: 10000;
 }
+
+.reviews.ripped.after-ripped:after {
+    margin-bottom: -6px;
+}
