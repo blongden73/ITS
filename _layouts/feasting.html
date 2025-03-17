@@ -21,7 +21,7 @@ layout: default
     <section id="field-kitchen" class="plan facilities-wrapper flex two-col ripped-cream">
         <div class="container flex">
             <div class="left">
-            <h4>Smoke ‘N Stix’</h4>
+            <h4>Smoke ‘N Stix</h4>
             <p>{{ page.["Smoke N Sticks Description"] }}</p>
             </div>
             <div class="right">
@@ -53,7 +53,7 @@ layout: default
 <section class="features-grid-cards ripped-cream one-pot ripped after-ripped footer-home ">
     <div class="container">
         <h2>ONE POT MEALS</h2>
-        <p>{{ page.["One Pot Meals Description"] }}</p>
+        <p>{{ page.["One Pot Meals Description"] | markdownify }}</p>
     </div>
     <div class="container flex">
         {% for meal in page.["One Pot Meals"] %}
@@ -69,7 +69,7 @@ layout: default
 <section class="features-grid-cards ripped after-ripped footer-home">
     <div class="container">
         <h2>Breakfast Hampers</h2>
-        <p>{{ page.["Breakfast hampers Description"] }}</p>
+        <p>{{ page.["Breakfast hampers Description"] | markdownify }}</p>
     </div>
     <div class="container flex">
         {% for hamper in page.["Breakfast hampers"] %}

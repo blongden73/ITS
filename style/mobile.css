@@ -473,5 +473,10 @@
         font-size: 4.5vw;
         line-height: 1.2;
     }
+
+    .owl-prev, .owl-next {
+        padding-top: 20vh;
+        padding-bottom: 20vh;
+    }
 }
 

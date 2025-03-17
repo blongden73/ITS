@@ -16,7 +16,7 @@ layout: default
             <div class="card">
                 {% include stars.html %}
                 <h4>{{ review.Name }}</h4>
-                <p>{{ review.Review }}</p>
+                <p>{{ review.Review | markdownify }}</p>
             </div>
             {% endfor %}
         </div>

@@ -12,6 +12,14 @@ html {
 	scroll-behavior: smooth;
 }
 
+a {
+    text-decoration: underline !important;
+}
+
+.desktop-header a {
+    text-decoration: none !important;
+}
+
 h1, h2 {
     font-family: 'Koulen', sans-serif;
     color: #222;
@@ -1201,7 +1209,7 @@ footer {
 
 .menu.flex {
     justify-content: flex-start;
-    gap: 20px;
+    gap: 30px;
     margin-top: 50px;
 }
 
@@ -1314,7 +1322,7 @@ footer {
 
 .feature-grid {
     display: flex;
-    gap: 20px;
+    gap: 30px;
     color: #fff;
     font-size: 1.2vw;
 }
@@ -1330,10 +1338,11 @@ footer {
     margin-top: 0;
     margin-bottom: 0;
     line-height: 1.2;
+    font-size: 36px;
 }
 
 #reviews .card-container {
-    gap: 20px;
+    gap: 30px;
  }
 
 #reviews .card svg{
@@ -1347,6 +1356,8 @@ footer {
 
 .features-grid-cards .flex {
     flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 30px;
 }
 
 .features-grid-cards .card {
@@ -1404,7 +1415,7 @@ footer {
 }
 
 .features-grid-cards.one-pot .flex{
-    gap: 20px;
+    gap: 30px;
     align-items: flex-start;
 }
 
