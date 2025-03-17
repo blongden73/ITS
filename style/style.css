@@ -1783,9 +1783,10 @@ header:not(.hero):after {
 .maintence-cover {
     background-color: #DA5626 !important;
     height: 100vh;
-    position: absolute;
+    position: fixed;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
+    z-index: 10000;
 }
