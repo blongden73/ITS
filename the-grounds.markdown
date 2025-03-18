@@ -177,7 +177,7 @@ Dome 6 Description: Conveniently located just a five-minute walk from the car pa
 Dome 6 Images:
 - "/assets/images/dome1/1.jpg"
 - "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit-21b761.jpg"
-- "/assets/images/dome1/3.jpg"
+- "/uploads/In%20the%20Stix%20Dome%206_DSC5881-Editcopy.jpg"
 - "/assets/images/dome1/4.jpg"
 Field Kitchen Title: Field Kitchen
 Field Kitchen Text: "Each dome at our location comes equipped with a private field
