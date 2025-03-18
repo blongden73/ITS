@@ -175,14 +175,14 @@ Dome 6 Description: Conveniently located just a five-minute walk from the car pa
   steps leading to the mezzanine, making it more accessible for small children and
   guests with mobility challenges.
 Dome 6 Images:
-- "/assets/images/dome1/1.jpg"
+- "/uploads/In%20the%20Stix%20Outdoors_DSC8868-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit-21b761.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5881-Editcopy.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5879-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5816-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5864-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5904-Edit.jpg"
-Field Kitchen Title: Field Kitchen smoke
+Field Kitchen Title: Field Kitchen
 Field Kitchen Text: "Each dome at our location comes equipped with a private field
   kitchen, providing guests with a dedicated dining area that accommodates up to six
   people. These kitchens are separate structures from the domes, ensuring privacy
@@ -298,22 +298,17 @@ Extra Title: Smoke 'n Stix - events space
 Extra Mini Description: Our outdoor undercover communal space for special events and
   gatherings.
 Map Extra Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8896-Edit.jpg"
-Extra Images:
-- "/assets/images/image.jpg"
-- "/assets/images/image-1.jpg"
-- "/assets/images/image-2.jpg"
-Extra Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
-  experience at our site! Available for hire for three-hour sessions (for guests staying
-  with us) or enjoy this on our new spa days. This unique sauna provides the perfect
-  opportunity to relax and unwind while enjoying stunning views. Positioned at the
-  highest point of the site, you'll be treated to breathtaking far-reaching vistas
-  over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower for
-  those looking to embrace the benefits of hot and cold therapy. And coming in 2025,
-  we will feature a cold outdoor plunge in a charming Victorian bath, adding another
-  element to your wellness experience. \n\nThe location is also perfect for witnessing
-  the most incredible sunsets, so we highly recommend booking an evening session to
-  truly make the most of this magical experience. Treat yourself to a moment of tranquillity
-  and let nature rejuvenate your spirit!"
+Extra Text: The Shepherd's hut doubles as our little reception area. It is the only
+  place where there is electricity on site. Here you can replenish your ice blocks
+  (for your cool box in your kitchen) from the large freezer. You can also recharge
+  any lanterns or battery packs for phones. There is a shelf of extra board games,
+  should you want to exchange any from your chest of games in your domes and we have
+  a book swap area, so people can borrow a book to read or donate any they have finished
+  reading.
+Log Shed:
+- Individual log store for each dome
+- 
+Key: 
 layout: the-grounds
 ---
 
