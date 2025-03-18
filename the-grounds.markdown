@@ -243,7 +243,7 @@ Play Area Text: "Our dedicated play area is located at the opposite end of the f
   best lives in this fantastic outdoor setting."
 Sauna Title: Sauna
 Sauna Mini Description: 
-Map Sauna Images: 
+Map Sauna Images: "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.41.46.jpeg"
 Sauna Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
