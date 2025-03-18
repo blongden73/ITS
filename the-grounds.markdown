@@ -278,13 +278,13 @@ Brook Images:
 - "/uploads/In%20the%20Stix%20Outdoors_DSC9166-Edit.jpg"
 Brook Text: Our babbling brook runs along the bottom of our field. It is the perfect
   place for a paddle, a game of poo sticks, or for your dog to cool off! Cross the
-  brook over our footbridge and you join the public footpath which leads you on a
-  beautiful, ten minute walk into the village, with the brook as your back drop.
+  brook over our footbridge and you join the public footpath, which leads you on a
+  beautiful ten minute walk into the village, with the brook as your back drop.
 Meadow Title: Meadow
 Meadow Mini Description: Stunning meadow full of trees and wild flowers
 Map Meadow Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9049-Edit.jpg"
 Meadow Images:
-- "/assets/images/image.jpg"
+- "/uploads/In%20the%20Stix%20Outdoors_DSC9052-Edit.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Meadow Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
