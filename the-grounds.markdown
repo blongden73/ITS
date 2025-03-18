@@ -226,7 +226,7 @@ Play Area Title: Play Area
 Play Area Mini Description: 
 Map Play Area Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8885-Edit.jpg"
 Play Area Images:
-- "/assets/images/image.jpg"
+- "/uploads/In%20the%20Stix%20Outdoors_DSC8872-Edit.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Play Area Text: "Our dedicated play area is located at the opposite end of the field
