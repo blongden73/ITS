@@ -291,17 +291,13 @@ Meadow Text: Our stunning meadow is accessed directly from our campsite. It has 
 Parking Title: Parking
 Parking Mini Description: Large car parking area.
 Map Parking Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9106-Edit.jpg"
-Parking Images:
-- "/assets/images/image.jpg"
-- "/assets/images/image-1.jpg"
-- "/assets/images/image-2.jpg"
 Parking Text: The car carpark is ample space for all cars to park. We have a vehicle
   free site so it is here where you swap your car for your wheelbarrow and you can
   bring your belongings to your dome, wheelbarrow style!
 Extra Title: Smoke 'n Stix - events space
 Extra Mini Description: Our outdoor undercover communal space for special events and
   gatherings.
-Map Extra Images: 
+Map Extra Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8896-Edit.jpg"
 Extra Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
