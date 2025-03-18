@@ -224,7 +224,7 @@ Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, fea
   fire pit brings to your stay!"
 Play Area Title: Play Area
 Play Area Mini Description: 
-Map Play Area Images: 
+Map Play Area Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8885-Edit.jpg"
 Play Area Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
