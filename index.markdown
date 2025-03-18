@@ -13,9 +13,6 @@ Home About Section Text: Text description about the communal fire pit goes here.
 Home About Section Image: "/uploads/In%20the%20Stix%20Lifestyle_DSC9432-Edit.jpg"
 Home About Section Title: Relax and Unwind
 Home About Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
-Home About Section Four Text: Whether you’ve been on your feet all day, or just in
-  need of deep relaxation, your dome comes with its own cedar wood hot tub, so just
-  relax and unwind, and soak in natures vibe.
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
     was unforgettable."'
