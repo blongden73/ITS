@@ -118,7 +118,7 @@ Dome 3 Images:
 - "/uploads/In%20the%20Stix%20Dome%203_DSC5696-Edit.jpg"
 Dome 4 Title: Dome 4 - Exton
 Dome 4 Mini Description: The morning sun one
-Map Dome 4 Images: 
+Map Dome 4 Images: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9177-Edit.jpg"
 Dome 4 Description: With its warm and inviting decor in beautiful shades of pink and
   red, Exton is designed to make you feel right at home. The east-facing kitchen and
   outdoor seating area are ideal for those who cherish morning moments bathed in sunlight,
