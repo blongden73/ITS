@@ -14,6 +14,7 @@ Home About Section Text: 'If you’re looking to escape the screen, recuperate a
   created In the Stix for you. '
 Home About Image: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
 Home About Two Section: Title test for section two
+Home About Section Two: Section title test ending in two
 Home About Section Two Text: We’ve got your comfort and privacy covered. And no more
   trudging through wet muddy grounds to go to the bathroom or take a hot shower -
   you’ll have what you need inside your well equipped dome, including a comfy chesterfield
