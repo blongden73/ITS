@@ -8,28 +8,15 @@ Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Button Link: "/the-grounds/"
 Home Hero Sub Title: connections are strong
 Home Hero Button Text: Explore The Grounds
-Home About Section: FEEL THE LUXURY
-Home About Section Text: 'If you’re looking to escape the screen, recuperate and get
-  back into nature, in comfort, to reconnect with yourself and those you love, we
-  created In the Stix for you. '
-Home About Image: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
-Home About Two Section: Title test for section two
-Home About Section Two: Section title test ending in two
-Home About Section Two Text: We’ve got your comfort and privacy covered. And no more
-  trudging through wet muddy grounds to go to the bathroom or take a hot shower -
-  you’ll have what you need inside your well equipped dome, including a comfy chesterfield
-  sofa and family board games to boot.
-Home About Two Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5333-Edit.jpg"
-Home About Section Five: NEW TITLE HERE ONLY
-Home About Section Five Text: Whether you’ve been on your feet all day, or just in
+Home About Section: Your Adventures Await
+Home About Section Text: For those feeling the urge to explore, you don't have to
+  go far. Description to go here.
+Home About Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
+Home About Section Image: "/uploads/DSC9157-Edit.jpg"
+Home About Section Title: Relax and Unwind
+Home About Section Four Text: Whether you’ve been on your feet all day, or just in
   need of deep relaxation, your dome comes with its own cedar wood hot tub, so just
   relax and unwind, and soak in natures vibe.
-Home About Section Six: NEW TITLE HERE ONLY
-Home About Section Six Text: From cosy beds to flower beds,
-Home About Section Four Title: NEW TITLE HERE ONLY
-Home About Section Four Text: 'Enjoy your very own private kitchen and dining area,
-  or if you feel like throwing in the tea towel, take advantage of our locally sourced
-  hampers and our home made hot meals. '
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
     was unforgettable."'
