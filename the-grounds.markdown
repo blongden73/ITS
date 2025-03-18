@@ -281,8 +281,8 @@ Brook Text: Our babbling brook runs along the bottom of our field. It is the per
   brook over our footbridge and you join the public footpath which leads you on a
   beautiful, ten minute walk into the village, with the brook as your back drop.
 Meadow Title: Meadow
-Meadow Mini Description: 
-Map Meadow Images: 
+Meadow Mini Description: Stunning meadow full of trees and wild flowers
+Map Meadow Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9049-Edit.jpg"
 Meadow Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
