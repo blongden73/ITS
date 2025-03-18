@@ -285,23 +285,12 @@ Meadow Mini Description: Stunning meadow full of trees and wild flowers
 Map Meadow Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9049-Edit.jpg"
 Meadow Images:
 - "/uploads/In%20the%20Stix%20Outdoors_DSC9052-Edit.jpg"
-- "/assets/images/image-1.jpg"
-- "/assets/images/image-2.jpg"
-Meadow Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
-  your experience at our site! Available for hire for three-hour sessions (for guests
-  staying with us) or enjoy this on our new spa days. This unique sauna provides the
-  perfect opportunity to relax and unwind while enjoying stunning views. Positioned
-  at the highest point of the site, you'll be treated to breathtaking far-reaching
-  vistas over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower
-  for those looking to embrace the benefits of hot and cold therapy. And coming in
-  2025, we will feature a cold outdoor plunge in a charming Victorian bath, adding
-  another element to your wellness experience. \n\nThe location is also perfect for
-  witnessing the most incredible sunsets, so we highly recommend booking an evening
-  session to truly make the most of this magical experience. Treat yourself to a moment
-  of tranquillity and let nature rejuvenate your spirit!"
+Meadow Text: Our stunning meadow is accessed directly from our campsite. It has fifteen
+  acres of newly planted trees and wild flower meadow to explore. This area is totally
+  fenced in, so is a safe place to allow dogs and children to roam free.
 Parking Title: Parking
-Parking Mini Description: 
-Map Parking Images: 
+Parking Mini Description: Large car parking area.
+Map Parking Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9106-Edit.jpg"
 Parking Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
