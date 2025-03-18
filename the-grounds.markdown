@@ -261,29 +261,19 @@ Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Deck Title: Deck
-Deck Mini Description: 
+Deck Mini Description: Decked area for relaxing
 Map Deck Images: 
 Deck Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Deck Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
-  experience at our site! Available for hire for three-hour sessions (for guests staying
-  with us) or enjoy this on our new spa days. This unique sauna provides the perfect
-  opportunity to relax and unwind while enjoying stunning views. Positioned at the
-  highest point of the site, you'll be treated to breathtaking far-reaching vistas
-  over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower for
-  those looking to embrace the benefits of hot and cold therapy. And coming in 2025,
-  we will feature a cold outdoor plunge in a charming Victorian bath, adding another
-  element to your wellness experience. \n\nThe location is also perfect for witnessing
-  the most incredible sunsets, so we highly recommend booking an evening session to
-  truly make the most of this magical experience. Treat yourself to a moment of tranquillity
-  and let nature rejuvenate your spirit!"
+Deck Text: New for 2025, we are building a decked area for you to sit and relax and
+  take in the view after your sauna.
 Brook Title: Brook
 Brook Mini Description: Our babbling brook
 Map Brook Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9349-Edit.jpg"
 Brook Images:
-- "/assets/images/image.jpg"
+- "/uploads/In%20the%20Stix%20Outdoors_DSC9351-Edit.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Brook Text: Our babbling brook runs along the bottom of our field. It is the perfect
