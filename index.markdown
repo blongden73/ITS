@@ -8,13 +8,13 @@ Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Button Link: "/the-grounds/"
 Home Hero Sub Title: connections are strong
 Home Hero Button Text: Explore The Grounds
-Home About Section: Cook. Dine. Or be served.
-Home About Section Text: Enjoy your very own private kitchen and dining area, or if
-  you feel like throwing in the tea towel, take advantage of our locally sourced hampers
-  and our home made hot meals.
-Home About Section Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5777-Editcopy.jpg"
-Home About Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
+Home About Section: 
+Home About Section Text: Whether you’ve been on your feet all day, or just in need
+  of deep relaxation, your dome comes with its own cedar wood hot tub, so just relax
+  and unwind, and soak in natures vibe.
+Home About Section Image: "/uploads/in-the-stix-5333-v2.jpg"
 Home About Section Title: Relax and Unwind
+Home About Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
 Home About Section Four Text: Whether you’ve been on your feet all day, or just in
   need of deep relaxation, your dome comes with its own cedar wood hot tub, so just
   relax and unwind, and soak in natures vibe.
