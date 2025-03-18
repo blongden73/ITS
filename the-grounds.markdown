@@ -175,28 +175,19 @@ Dome 6 Description: Conveniently located just a five-minute walk from the car pa
   steps leading to the mezzanine, making it more accessible for small children and
   guests with mobility challenges.
 Dome 6 Images:
-- "/uploads/In%20the%20Stix%20Outdoors_DSC8868-Edit.jpg"
+- "/assets/images/dome1/1.jpg"
 - "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit-21b761.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5881-Editcopy.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5879-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5816-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5864-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5904-Edit.jpg"
-Field Kitchen Title: Field Kitchen
-Field Kitchen Text: "Each dome at our location comes equipped with a private field
-  kitchen, providing guests with a dedicated dining area that accommodates up to six
-  people. These kitchens are separate structures from the domes, ensuring privacy
-  and convenience for your culinary adventures.\n\nYou will find a fully stocked kitchen
-  featuring  a two-ring gas hob, a log oven, or a charcoal ceramic egg grill (depending
-  on which dome you choose). Each kitchen is kitted out with everything you could
-  possibly need, including pots, pans, crockery, cutlery and glassware.We also supply
-  a range of kitchen essentials to make your stay as comfortable as possible. This
-  includes tea, coffee, sugar, olive oil, bin bags, kitchen towels, cling film, tinfoil,
-  salt, pepper, and much more! For your convenience, food can be kept fresh in a giant
-  coolbox, which we provide along with freezer blocks to ensure your perishables stay
-  cold. \n\nWith these amenities, you can enjoy the freedom of outdoor cooking and
-  dining while saving yourself the stresses of having to remember to bring everything,
-  it has all been thought out for you."
+Field Kitchen Title: Smoke 'N Stix - Events Space
+Field Kitchen Text: |
+  Introduced in 2024 our new log-fired barrel sauna is set to enhance your experience at our site! Available for hire for three-hour sessions (for guests staying with us) or enjoy this on our new spa days. This unique sauna provides the perfect opportunity to relax and unwind while enjoying stunning views. Positioned at the highest point of the site, you’ll be treated to breathtaking far-reaching vistas over Exton Park.
+
+  In addition to the sauna, we offer a cold outdoor shower for those looking to embrace the benefits of hot and cold therapy. And coming in 2025, we will feature a cold outdoor plunge in a charming Victorian bath, adding another element to your wellness experience.
+  The location is also perfect for witnessing the most incredible sunsets, so we highly recommend booking an evening session to truly make the most of this magical experience. Treat yourself to a moment of tranquillity and let nature rejuvenate your spirit!
 Field Kitchen Mini Description: Event hire
 Map Field Kitchen Images: "/uploads/In%20the%20Stix%20Dome%201in-the-stix-dome-1-kitchen-5c999f.jpg"
 Field Kitchen Images:
@@ -226,9 +217,9 @@ Play Area Title: Play Area
 Play Area Mini Description: 
 Map Play Area Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8885-Edit.jpg"
 Play Area Images:
-- "/uploads/In%20the%20Stix%20Outdoors_DSC8872-Edit.jpg"
-- "/uploads/In%20the%20Stix%20Outdoors_DSC8993-Edit.jpg"
-- "/uploads/In%20the%20Stix%20Outdoors_DSC8993-Editcopy.jpg"
+- "/assets/images/image.jpg"
+- "/assets/images/image-1.jpg"
+- "/assets/images/image-2.jpg"
 Play Area Text: "Our dedicated play area is located at the opposite end of the field
   from the domes, providing a safe and spacious environment for children to run free
   and explore. This fantastic space features a large play structure that includes
@@ -294,21 +285,24 @@ Map Parking Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9106-Edit.jpg"
 Parking Text: The car carpark is ample space for all cars to park. We have a vehicle
   free site so it is here where you swap your car for your wheelbarrow and you can
   bring your belongings to your dome, wheelbarrow style!
-Extra Title: Smoke 'n Stix - events space
-Extra Mini Description: Our outdoor undercover communal space for special events and
-  gatherings.
+Extra Title: Field Kitchen
+Extra Mini Description: 
 Map Extra Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8896-Edit.jpg"
-Extra Text: The Shepherd's hut doubles as our little reception area. It is the only
-  place where there is electricity on site. Here you can replenish your ice blocks
-  (for your cool box in your kitchen) from the large freezer. You can also recharge
-  any lanterns or battery packs for phones. There is a shelf of extra board games,
-  should you want to exchange any from your chest of games in your domes and we have
-  a book swap area, so people can borrow a book to read or donate any they have finished
-  reading.
-Log Shed:
-- Individual log store for each dome
-- 
-Key: 
+Extra Images:
+- "/assets/images/image.jpg"
+- "/assets/images/image-1.jpg"
+- "/assets/images/image-2.jpg"
+Extra Text: |-
+  Each dome at our location comes equipped with a private field kitchen, providing guests with a dedicated dining area that accommodates up to six people. These kitchens are separate structures from the domes, ensuring privacy and convenience for your culinary adventures.
+
+  You will find a fully stocked kitchen featuring a two-ring gas hob, a log oven, or a charcoal ceramic egg grill (depending on which dome you choose). Each kitchen is kitted out with everything you could possibly need, including pots, pans, crockery, cutlery and glassware.We also supply a range of kitchen essentials to make your stay as comfortable as possible. This includes tea, coffee, sugar, olive oil, bin bags, kitchen towels, cling film, tinfoil, salt, pepper, and much more! For your convenience, food can be kept fresh in a giant coolbox, which we provide along with freezer blocks to ensure your perishables stay cold.
+
+  With these amenities, you can enjoy the freedom of outdoor cooking and dining while saving yourself the stresses of having to remember to bring everything, it has all been thought out for you.
+Log Storage Title: Log Storage
+Log Storage Mini Description: Description goes here.
+Map Log Storage Images: "/uploads/DSC5732-Edit.jpg"
+Log Storage Images: "/uploads/DSC5732-Edit.jpg"
+Log Storage Text: Log storage text to go here.
 layout: the-grounds
 ---
 
