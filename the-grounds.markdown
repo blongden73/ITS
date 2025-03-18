@@ -198,7 +198,7 @@ Field Kitchen Text: "Each dome at our location comes equipped with a private fie
   dining while saving yourself the stresses of having to remember to bring everything,
   it has all been thought out for you."
 Field Kitchen Mini Description: Event hire
-Map Field Kitchen Images: 
+Map Field Kitchen Images: "/uploads/In%20the%20Stix%20Dome%201in-the-stix-dome-1-kitchen-5c999f.jpg"
 Field Kitchen Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
