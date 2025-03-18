@@ -12,6 +12,10 @@ Home About Section: Bed title goes here
 Home About Section Text: 'After lazy days in the flower beds, enjoy a relaxing nights
   sleep in crisp cotton sheets, we''ve got your comfort and privacy covered. '
 Home About Section Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5763-Edit.jpg"
+Home About Two Section: Accommodation title here
+Home About Two Section Text: And no more trudging through wet muddy grounds to go
+  to the bathroom or take a shower - you'll have description goes here.
+Home About Two Section Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
 Home About Section Title: Relax and Unwind
 Home About Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
 Home About Reviews:
