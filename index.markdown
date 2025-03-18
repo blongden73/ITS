@@ -8,11 +8,11 @@ Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Button Link: "/the-grounds/"
 Home Hero Sub Title: connections are strong
 Home Hero Button Text: Explore The Grounds
-Home About Section: Your Adventures Await
-Home About Section Text: For those feeling the urge to explore, you don't have to
-  go far. Description to go here.
+Home About Section: 
+Home About Section Text: And no more trudging through wet muddy grounds to go to the
+  bathroom or take a shower - you'll have description goes here.
+Home About Section Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
 Home About Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
-Home About Section Image: "/uploads/DSC9157-Edit.jpg"
 Home About Section Title: Relax and Unwind
 Home About Section Four Text: Whether you’ve been on your feet all day, or just in
   need of deep relaxation, your dome comes with its own cedar wood hot tub, so just
