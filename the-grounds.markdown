@@ -48,7 +48,7 @@ Dome Features:
   Description: Covered area to sit and enjoy the view.
 Dome 1 Title: Dome 1 - Greetham
 Dome 1 Mini Description: The Misty Mountains dome
-Map Dome 1 Images: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9069-Edit.jpg"
+Map Dome 1 Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9069-Edit.jpg"
 Dome 1 Description: Offering the utmost privacy to its guests. With its serene location
   near a soothing babbling brook, this dome provides uninterrupted views of the surrounding
   landscape, making it an ideal retreat for couples or anyone seeking a tranquil getaway.
@@ -71,7 +71,7 @@ Dome 1 Images:
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5474-Edit.jpg"
 Dome 2 Title: Dome 2 - Barrow
 Dome 2 Mini Description: The most accessible one
-Map Dome 2 Images: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9225-Edit.jpg"
+Map Dome 2 Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9225-Edit.jpg"
 Dome 2 Description: Ideally located at the base of the valley, providing easy access
   for our less able-bodied visitors. Its vibrant Moroccan-inspired design features
   enchanting splashes of orange and turquoise, creating a lively and inviting atmosphere.
