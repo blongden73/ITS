@@ -179,6 +179,7 @@ Dome 6 Images:
 - "/uploads/In%20the%20Stix%20Dome%205_DSC5855-Edit-21b761.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5881-Editcopy.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5879-Edit.jpg"
+- "/uploads/In%20the%20Stix%20Dome%206_DSC5816-Edit.jpg"
 Field Kitchen Title: Field Kitchen
 Field Kitchen Text: "Each dome at our location comes equipped with a private field
   kitchen, providing guests with a dedicated dining area that accommodates up to six
