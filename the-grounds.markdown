@@ -280,24 +280,16 @@ Deck Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance 
   truly make the most of this magical experience. Treat yourself to a moment of tranquillity
   and let nature rejuvenate your spirit!"
 Brook Title: Brook
-Brook Mini Description: 
-Map Brook Images: 
+Brook Mini Description: Our babbling brook
+Map Brook Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9349-Edit.jpg"
 Brook Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
-Brook Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
-  experience at our site! Available for hire for three-hour sessions (for guests staying
-  with us) or enjoy this on our new spa days. This unique sauna provides the perfect
-  opportunity to relax and unwind while enjoying stunning views. Positioned at the
-  highest point of the site, you'll be treated to breathtaking far-reaching vistas
-  over Exton Park.\n\nIn addition to the sauna, we offer a cold outdoor shower for
-  those looking to embrace the benefits of hot and cold therapy. And coming in 2025,
-  we will feature a cold outdoor plunge in a charming Victorian bath, adding another
-  element to your wellness experience. \n\nThe location is also perfect for witnessing
-  the most incredible sunsets, so we highly recommend booking an evening session to
-  truly make the most of this magical experience. Treat yourself to a moment of tranquillity
-  and let nature rejuvenate your spirit!"
+Brook Text: Our babbling brook runs along the bottom of our field. It is the perfect
+  place for a paddle, a game of poo sticks, or for your dog to cool off! Cross the
+  brook over our footbridge and you join the public footpath which leads you on a
+  beautiful, ten minute walk into the village, with the brook as your back drop.
 Meadow Title: Meadow
 Meadow Mini Description: 
 Map Meadow Images: 
