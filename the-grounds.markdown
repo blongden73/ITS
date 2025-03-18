@@ -166,7 +166,7 @@ Dome 5 Images:
 - "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
 Dome 6 Title: Dome 6 - Normanton
 Dome 6 Mini Description: The rocking chair one
-Map Dome 6 Images: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9312-Edit.jpg"
+Map Dome 6 Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9236-Edit.jpg"
 Dome 6 Description: Conveniently located just a five-minute walk from the car park.
   This dome also has a walk in wardrobe and is situated alongside Dome 5 on a hillside
   that boasts stunning elevated views and spectacular sunsets. Families will appreciate
