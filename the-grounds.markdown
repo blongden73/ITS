@@ -274,7 +274,7 @@ Brook Mini Description: Our babbling brook
 Map Brook Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9349-Edit.jpg"
 Brook Images:
 - "/uploads/In%20the%20Stix%20Outdoors_DSC9351-Edit.jpg"
-- "/assets/images/image-1.jpg"
+- "/uploads/In%20the%20Stix%20Outdoors_DSC9347-Edit.jpg"
 - "/assets/images/image-2.jpg"
 Brook Text: Our babbling brook runs along the bottom of our field. It is the perfect
   place for a paddle, a game of poo sticks, or for your dog to cool off! Cross the
