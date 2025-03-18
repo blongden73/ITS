@@ -205,7 +205,7 @@ Field Kitchen Images:
 - "/assets/images/image-2.jpg"
 Fire Pit Title: Fire Pit
 Fire Pit Mini Description: 
-Map Fire Pit Images: 
+Map Fire Pit Images: "/uploads/In%20the%20Stix%20Lifestyle_DSC9432-Edit.jpg"
 Fire Pit Images:
 - "/uploads/temp-image-a30ce7.jpg"
 - "/assets/images/image-1.jpg"
