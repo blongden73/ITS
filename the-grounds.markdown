@@ -95,7 +95,7 @@ Dome 2 Images:
 - "/uploads/_DSC9225-Edit.jpg"
 Dome 3 Title: Dome 3 - Hambleton
 Dome 3 Mini Description: The retro bus seat one
-Map Dome 3 Images: 
+Map Dome 3 Images: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9302-Edit.jpg"
 Dome 3 Description: Nestled into the hillside, this dome offers elevated views that
   will take your breath away. Inside, you’ll find an eclectic mix of handpicked retro
   furniture, including a unique coach seat that adds character and comfort to your
