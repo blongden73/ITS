@@ -142,7 +142,7 @@ Dome 4 Images:
 - 
 Dome 5 Title: Dome 5 - Clipsham
 Dome 5 Mini Description: The slipper chair one
-Map Dome 5 Images: "/uploads/In%20the%20Stix%20Dome%205_DSC9070-Edit.jpg"
+Map Dome 5 Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9035-Editcopy.jpg"
 Dome 5 Description: With the added luxury of a walk-in wardrobe—a perfect touch for
   those who appreciate a little extra space. Nestled into the hillside, Clipsham offers
   fantastic elevated views from both the hot tub and the cozy seating area, allowing
