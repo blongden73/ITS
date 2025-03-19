@@ -48,8 +48,6 @@ Home About Reviews:
   Review Name: "- Jane Smith"
 - Review Text: '"An absolute gem in the countryside! Will definitely visit again."'
   Review Name: "- Mark Wilson"
-Home About Section Three Title: TITLE GOES HERE ONLY
-Home About Three Image: "/uploads/in-the-stix-5333.jpg"
 Featured in logos:
 - assets/images/image 3.png
 - assets/images/image 5.png
