@@ -20,7 +20,7 @@ Explore Locations Grid:
 - Image: "/uploads/Screenshot%202025-03-04%20at%2015.28.59.png"
   Title: 3. National Trust - Belton Estate
   Description: |-
-    Classic 17th-century English house with opulent decor, fine furnishings and gardens. With a huge outdoor adventure park for the children.Dogs welcome on leads.
+    Classic 17th-century English house with opulent decor, fine furnishings and gardens. With a huge outdoor adventure park for the children. Dogs welcome on leads.
 
     Don't forget your National Trust Cards!
 
