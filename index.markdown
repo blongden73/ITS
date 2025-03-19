@@ -12,18 +12,18 @@ Home About Section: Get Grounded
 Home About Section Text: For those feeling the urge to explore, you don't have to
   go far. Description to go here.
 Home About Section Image: "/uploads/in-the-stix-5333-v2.jpg"
-Home About Section Two: Accommodation title here
+Home About Two Section: Accommodation title here
 Home About Section Two Text: And no more trudging through wet muddy grounds to go
   to the bathroom or take a shower - you'll have description goes here.
-Home About Section Image Two: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
-Home About Section Three: Cook. Dine. Or be served.
+Home About Section Two Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
+Home About Three Section: Cook. Dine. Or be served.
 Home About Section Three Text: 'For those feeling the urge to explore, you don’t have
   to go far. Take the footpaths or hire a bicycle to get around. There’s so much to
   explore that you’ll have to come back more than once to experience what Rutland
   has to offer. '
 Home About Section Three Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5777-Editcopy.jpg"
 Home About Section Four: Your Adventures Await
-Home About Section FourText: Your Adventures Await description goes here.
+Home About Section Four Text: Your Adventures Await description goes here.
 Home About Section Four Image: "/uploads/DSC9157-Edit.jpg"
 Home About Section Five: Relax and Unwind
 Home About Section Five Text: Whether you’ve been on your feet all day, or just in
