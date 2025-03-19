@@ -12,7 +12,7 @@ Home About Section: Get Grounded
 Home About Section Text: For those feeling the urge to explore, you don't have to
   go far. Description to go here.
 Home About Section Image: "/uploads/in-the-stix-5333-v2.jpg"
-Home About Two Section: Accommodation title here
+Home About Section Two Title: Accommodation title here
 Home About Section Two Text: And no more trudging through wet muddy grounds to go
   to the bathroom or take a shower - you'll have description goes here.
 Home About Section Two Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
