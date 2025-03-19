@@ -15,7 +15,7 @@ Home About Section Image: "/uploads/in-the-stix-5333-v2.jpg"
 Home About Section Two: Accommodation title here
 Home About Section Two Text: And no more trudging through wet muddy grounds to go
   to the bathroom or take a shower - you'll have description goes here.
-Home About Section Two Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
+Home About Section Image Two: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
 Home About Section Three: Cook. Dine. Or be served.
 Home About Section Three Text: 'For those feeling the urge to explore, you don’t have
   to go far. Take the footpaths or hire a bicycle to get around. There’s so much to
