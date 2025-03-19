@@ -182,7 +182,7 @@ Dome 6 Images:
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5816-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5864-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5904-Edit.jpg"
-Field Kitchen Title: Smoke 'N Stix - Events Space
+Field Kitchen Title: "'Smoke 'N Stix' Events Space"
 Field Kitchen Text: |
   Introduced in 2024 our new log-fired barrel sauna is set to enhance your experience at our site! Available for hire for three-hour sessions (for guests staying with us) or enjoy this on our new spa days. This unique sauna provides the perfect opportunity to relax and unwind while enjoying stunning views. Positioned at the highest point of the site, you’ll be treated to breathtaking far-reaching vistas over Exton Park.
 
