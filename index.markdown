@@ -17,10 +17,7 @@ Home About Section Two Text: And no more trudging through wet muddy grounds to g
   to the bathroom or take a shower - you'll have description goes here.
 Home About Section Two Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
 Home About Three Section: Cook. Dine. Or be served.
-Home About Section Three Text: 'For those feeling the urge to explore, you don’t have
-  to go far. Take the footpaths or hire a bicycle to get around. There’s so much to
-  explore that you’ll have to come back more than once to experience what Rutland
-  has to offer. '
+Home About Section Three Text: Cooking description text to go here.
 Home About Section Three Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5777-Editcopy.jpg"
 Home About Section Four: Your Adventures Await
 Home About Section Four Text: Your Adventures Await description goes here.
@@ -31,9 +28,7 @@ Home About Section Five Text: Whether you’ve been on your feet all day, or jus
   relax and unwind, and soak in natures vibe.
 Home About Section Five Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
 Home About Section Six: Log on - the natural way
-Home About Section Six Text: Whether you’ve been on your feet all day, or just in
-  need of deep relaxation, your dome comes with its own cedar wood hot tub, so just
-  relax and unwind, and soak in natures vibe.
+Home About Section Six Text: Communal campfire description text to go here.
 Home About Section Six Image: "/uploads/In%20the%20Stix%20Lifestyle_DSC9432-Edit.jpg"
 Home About Section Seven: Bed title goes here
 Home About Section Seven Text: 'After lazy days in the flower beds, enjoy a relaxing
