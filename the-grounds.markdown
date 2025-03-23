@@ -183,11 +183,14 @@ Dome 6 Images:
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5864-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%206_DSC5904-Edit.jpg"
 Field Kitchen Title: "'Smoke 'N Stix' Events Space"
-Field Kitchen Text: |
-  Introduced in 2024 our new log-fired barrel sauna is set to enhance your experience at our site! Available for hire for three-hour sessions (for guests staying with us) or enjoy this on our new spa days. This unique sauna provides the perfect opportunity to relax and unwind while enjoying stunning views. Positioned at the highest point of the site, you’ll be treated to breathtaking far-reaching vistas over Exton Park.
-
-  In addition to the sauna, we offer a cold outdoor shower for those looking to embrace the benefits of hot and cold therapy. And coming in 2025, we will feature a cold outdoor plunge in a charming Victorian bath, adding another element to your wellness experience.
-  The location is also perfect for witnessing the most incredible sunsets, so we highly recommend booking an evening session to truly make the most of this magical experience. Treat yourself to a moment of tranquillity and let nature rejuvenate your spirit!
+Field Kitchen Text: Host unforgettable gatherings at our stunning indoor/outdoor event
+  space, perfectly designed for special celebrations and large group bookings. Our
+  partially covered venue offers the ideal setting to cook, dine, and connect with
+  loved ones while enjoying breathtaking sunsets or starlit skies. For the ultimate
+  experience, hire all six domes for exclusive use of the site and complete your getaway
+  with the hire our vibrant space. You can rent it for a night for just £60, or a
+  weekend for £120. Whether it’s a weekend retreat, milestone celebration, or group
+  escape, Smoke 'n Stix provides the perfect blend of nature, and togetherness.
 Field Kitchen Mini Description: Event hire
 Map Field Kitchen Images: "/uploads/In%20the%20Stix%20Dome%201in-the-stix-dome-1-kitchen-5c999f.jpg"
 Field Kitchen Images:
