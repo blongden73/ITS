@@ -68,6 +68,9 @@ bbqs Images:
 - "/assets/images/image-3.jpg"
 - 
 Celebrations - test: 
+bbq new title Section: BBQ New title section here
+bbq new title Section Text: 
+bbq new title Section Images: 
 layout: events
 ---
 
