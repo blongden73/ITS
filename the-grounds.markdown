@@ -194,7 +194,7 @@ Field Kitchen Text: Host unforgettable gatherings at our stunning indoor/outdoor
 Field Kitchen Mini Description: Event hire
 Map Field Kitchen Images: "/uploads/In%20the%20Stix%20Dome%201in-the-stix-dome-1-kitchen-5c999f.jpg"
 Field Kitchen Images:
-- "/assets/images/image.jpg"
+- "/uploads/in%20the%20stix%20event%20space_DSC907in%20the%20stix%20event%20space-Edit.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Title: Fire Pit
