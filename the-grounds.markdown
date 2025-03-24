@@ -188,9 +188,9 @@ Field Kitchen Text: Host unforgettable gatherings at our stunning indoor/outdoor
   partially covered venue offers the ideal setting to cook, dine, and connect with
   loved ones while enjoying breathtaking sunsets or starlit skies. For the ultimate
   experience, hire all six domes for exclusive use of the site and complete your getaway
-  with the hire our vibrant space. You can rent it for a night for just £60, or a
-  weekend for £120. Whether it’s a weekend retreat, milestone celebration, or group
-  escape, Smoke 'n Stix provides the perfect blend of nature, and togetherness.
+  with the hire of this vibrant space. You can be yours for a night for just £60,
+  or a weekend for £120. Whether it’s a weekend retreat, milestone celebration, or
+  group escape, Smoke 'n Stix provides our guests with a perfect space for togetherness.
 Field Kitchen Mini Description: Event hire
 Map Field Kitchen Images: "/uploads/In%20the%20Stix%20Dome%201in-the-stix-dome-1-kitchen-5c999f.jpg"
 Field Kitchen Images:
