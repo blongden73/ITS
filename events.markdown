@@ -48,7 +48,7 @@ Wedding Description: "Whether you are looking to have a festival style wedding, 
   here to help.\n\n[Click here for a pdf wedding brochure.](https://its.domaindev.co.uk/events/)"
 Weddings Images:
 - "/assets/images/image-2.jpg"
-- "/assets/images/image-2.jpg"
+- "/uploads/j_fbb5j8-1.jpeg"
 - "/assets/images/image-2.jpg"
 Retreats Description: We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
