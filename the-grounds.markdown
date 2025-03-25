@@ -262,7 +262,7 @@ Map Deck Images: "/uploads/In%20the%20Stix%20Deck.jpg"
 Deck Images:
 - "/uploads/In%20the%20stix%20girls%20.jpg"
 - "/uploads/In%20the%20stix%20Deck%20.jpg"
-- "/assets/images/image-2.jpg"
+- "/uploads/In%20the%20Stix%20Couple%20deck.jpg"
 Deck Text: New for 2025, we are building a decked area for you to sit and relax and
   take in the view after your sauna.
 Brook Title: Brook
