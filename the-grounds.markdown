@@ -296,7 +296,7 @@ Map Extra Images: "/uploads/In%20the%20Stix%20Dome%201in-the-stix-dome-1-kitchen
 Extra Images:
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5461-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5476-Edit.jpg"
-- "/assets/images/image-2.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5472-Edit-574c43.jpg"
 Extra Text: |-
   Each dome at our location comes equipped with a private field kitchen, providing guests with a dedicated dining area that accommodates up to six people. These kitchens are separate structures from the domes, ensuring privacy and convenience for your culinary adventures.
 
