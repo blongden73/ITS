@@ -197,6 +197,7 @@ Field Kitchen Images:
 - "/uploads/in%20the%20stix%20event%20space_DSC907in%20the%20stix%20event%20space-Edit.jpg"
 - "/uploads/in%20the%20stix%20event%20space_DSC9279-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Wedding_DSC9687.jpg"
+- "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%2009.49.24.jpeg"
 Fire Pit Title: Fire Pit
 Fire Pit Mini Description: 
 Map Fire Pit Images: "/uploads/In%20the%20Stix%20Lifestyle_DSC9432-Edit.jpg"
