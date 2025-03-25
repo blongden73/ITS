@@ -292,7 +292,7 @@ Parking Text: The car carpark is ample space for all cars to park. We have a veh
   bring your belongings to your dome, wheelbarrow style!
 Extra Title: Field Kitchen
 Extra Mini Description: 
-Map Extra Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8896-Edit.jpg"
+Map Extra Images: "/uploads/In%20the%20Stix%20Dome%201in-the-stix-dome-1-kitchen-ec585b.jpg"
 Extra Images:
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5461-Edit.jpg"
 - "/assets/images/image-1.jpg"
