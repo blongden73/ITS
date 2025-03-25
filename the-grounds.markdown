@@ -258,7 +258,7 @@ Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance
   and let nature rejuvenate your spirit!"
 Deck Title: Deck
 Deck Mini Description: Decked area for relaxing
-Map Deck Images: "/uploads/Screenshot%202025-03-18%20at%2016.22.20.png"
+Map Deck Images: "/uploads/In%20the%20Stix%20Deck.jpg"
 Deck Images:
 - "/assets/images/image.jpg"
 - "/assets/images/image-1.jpg"
