@@ -64,6 +64,7 @@ Weddings Images:
 - "/uploads/S1k8xhov.jpeg"
 - "/uploads/ur4YB5Jj.jpeg"
 - "/uploads/urEgWlXB.jpeg"
+- "/uploads/vXmIIQtd.jpeg"
 Retreats Description: We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
   tuned for more details! Sign up here to be the first to receive updates and secure
