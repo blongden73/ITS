@@ -203,7 +203,7 @@ Fire Pit Mini Description:
 Map Fire Pit Images: "/uploads/In%20the%20Stix%20Lifestyle_DSC9432-Edit.jpg"
 Fire Pit Images:
 - "/uploads/In%20the%20Stix%20Man%20by%20fire.jpg"
-- "/assets/images/image-1.jpg"
+- "/uploads/In%20the%20stix%20girl%20guitar%20fire.jpg"
 - "/assets/images/image-2.jpg"
 Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
   an impressive 8-meter span that invites everyone to gather. This spacious setup
