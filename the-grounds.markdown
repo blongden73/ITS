@@ -311,7 +311,7 @@ Extra Text: |-
 Log Storage Title: Log Storage
 Log Storage Mini Description: Description goes here.
 Map Log Storage Images: "/uploads/IMG_9202.jpg"
-Log Storage Images: "/uploads/DSC5732-Edit.jpg"
+Log Storage Images: "/uploads/IMG_9204.jpg"
 Log Storage Text: Log storage text to go here.
 Shepherd's Hut Title: Shepherd's Hut
 Shepherd's Hut Mini Description: Description to go here
