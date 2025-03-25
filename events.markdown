@@ -49,7 +49,7 @@ Wedding Description: "Whether you are looking to have a festival style wedding, 
 Weddings Images:
 - "/assets/images/image-2.jpg"
 - "/uploads/j_fbb5j8-1.jpeg"
-- "/assets/images/image-2.jpg"
+- "/uploads/0ON1FLdr.jpeg"
 Retreats Description: We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
   tuned for more details! Sign up here to be the first to receive updates and secure
