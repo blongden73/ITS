@@ -192,7 +192,7 @@ Field Kitchen Text: Host unforgettable gatherings at our stunning indoor/outdoor
   or a weekend for £120. Whether it’s a weekend retreat, milestone celebration, or
   group escape, Smoke 'n Stix provides our guests with a perfect space for togetherness.
 Field Kitchen Mini Description: Event hire
-Map Field Kitchen Images: "/uploads/In%20the%20Stix%20Dome%201in-the-stix-dome-1-kitchen-5c999f.jpg"
+Map Field Kitchen Images: "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%20in%20the%20stix%20event%20space9.5in%20the%20stix%20event%20space.33.jpeg"
 Field Kitchen Images:
 - "/uploads/in%20the%20stix%20event%20space_DSC907in%20the%20stix%20event%20space-Edit.jpg"
 - "/uploads/in%20the%20stix%20event%20space_DSC9279-Edit.jpg"
