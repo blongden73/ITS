@@ -223,7 +223,6 @@ Map Play Area Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8885-Edit.jpg"
 Play Area Images:
 - "/uploads/In%20the%20Stix%20Outdoors_DSC8993-Editcopy-40c9fa.jpg"
 - "/uploads/In%20the%20Stix%20Outdoors_DSC9092-Edit.jpg"
-- "/assets/images/image-2.jpg"
 Play Area Text: "Our dedicated play area is located at the opposite end of the field
   from the domes, providing a safe and spacious environment for children to run free
   and explore. This fantastic space features a large play structure that includes
