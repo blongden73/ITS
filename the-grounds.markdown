@@ -206,7 +206,6 @@ Fire Pit Images:
 - "/uploads/In%20the%20stix%20girl%20guitar%20fire.jpg"
 - "/uploads/In%20the%20Stix%20marshmallow.jpg"
 - "/uploads/In%20the%20stix%20men%20firepit.jpg"
-- "/uploads/In%20the%20stix%20man%20fire%20beer.jpg"
 Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
   an impressive 8-meter span that invites everyone to gather. This spacious setup
   allows guests from all the domes to come together, fostering a sense of community
@@ -311,7 +310,7 @@ Extra Text: |-
   With these amenities, you can enjoy the freedom of outdoor cooking and dining while saving yourself the stresses of having to remember to bring everything, it has all been thought out for you.
 Log Storage Title: Log Storage
 Log Storage Mini Description: Description goes here.
-Map Log Storage Images: "/uploads/DSC5732-Edit.jpg"
+Map Log Storage Images: "/uploads/IMG_9202.jpg"
 Log Storage Images: "/uploads/DSC5732-Edit.jpg"
 Log Storage Text: Log storage text to go here.
 Shepherd's Hut Title: Shepherd's Hut
