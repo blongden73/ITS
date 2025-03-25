@@ -36,10 +36,7 @@ Retreats Images:
 - "/uploads/Screenshot%202023-02-16%20at%2014.10.28.jpg"
 - "/uploads/lesly-juarez-DFtjXYd5Pto-unsplash.jpeg"
 - "/uploads/priscilla-du-preez-W3SEyZODn8U-unsplash.jpg"
-YOGA Description: New for 2021, Normanton is the first dome you approach from the
-  carpark. High on the hillside it has a view straight down the valley. Perfect for
-  the evening sunsets. Styled with our eclectic choice of furnishings, the dome has
-  a rocking chair and a beautiful antique slipper chair, plus all our standard pieces!
+YOGA Description: "Yoga title to change to 'Bike hire'.\n\nBike hire text to go here. "
 YOGA Images:
 - "/uploads/amauri-mejia-GvF7RkA-E9Q-unsplash.jpeg"
 - "/uploads/anway-pawar-NuCQpsHbeH4-unsplash.jpeg"
