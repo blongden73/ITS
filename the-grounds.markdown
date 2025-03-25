@@ -294,7 +294,7 @@ Extra Title: Field Kitchen
 Extra Mini Description: 
 Map Extra Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8896-Edit.jpg"
 Extra Images:
-- "/assets/images/image.jpg"
+- "/uploads/In%20the%20Stix%20Dome%201_DSC5461-Edit.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Extra Text: |-
