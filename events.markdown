@@ -58,18 +58,14 @@ Retreats Images:
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-1.jpg"
-Description: |-
+bbq new title Section: The Farmison Big BBQ
+bbq new title Section Text: |-
   We are excited to announce we are currently planning for two events. One is for all the foodies out there, a joint venture with Farmison (online butchers) We are hosting a BBQ day on Saturday May 17th, which will be fun for all the family, there will be various BBQ themed stalls, demonstrations, and amazing food to try and buy! There will also be inflatable fun for the children.
   Saturday 8th June is our Ibiza themed night, sundowner cocktails, fabulous food and dancing is guaranteed!
   Ticket sales announcements to follow!
-bbqs Images:
-- "/assets/images/image-3.jpg"
-- "/assets/images/image-3.jpg"
-- "/assets/images/image-3.jpg"
-- 
-bbq new title Section: BBQ New title section here
-bbq new title Section Text: 
-bbq new title Section Images: 
+bbq new title Section Images: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
+Description: This old section including its accompanying title (which is only visible
+  in the dev page for some reason) needs to be deleted.
 layout: events
 ---
 
