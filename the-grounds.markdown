@@ -239,7 +239,7 @@ Sauna Title: Sauna
 Sauna Mini Description: 
 Map Sauna Images: "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.41.46.jpeg"
 Sauna Images:
-- "/assets/images/image.jpg"
+- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.40.57.jpeg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-2.jpg"
 Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
