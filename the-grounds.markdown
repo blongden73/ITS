@@ -240,7 +240,7 @@ Sauna Mini Description:
 Map Sauna Images: "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.41.46.jpeg"
 Sauna Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.40.57.jpeg"
-- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.40.57-7f21fb.jpeg"
+- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.52.51-bb7559.jpeg"
 - "/assets/images/image-2.jpg"
 Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
   experience at our site! Available for hire for three-hour sessions (for guests staying
