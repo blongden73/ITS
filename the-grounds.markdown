@@ -260,7 +260,7 @@ Deck Title: Deck
 Deck Mini Description: Decked area for relaxing
 Map Deck Images: "/uploads/In%20the%20Stix%20Deck.jpg"
 Deck Images:
-- "/uploads/In%20the%20stix%20girls%20on%20Deck.jpg"
+- "/uploads/In%20the%20stix%20girls%20.jpg"
 - "/uploads/In%20the%20stix%20Deck%20.jpg"
 - "/assets/images/image-2.jpg"
 Deck Text: New for 2025, we are building a decked area for you to sit and relax and
