@@ -8,31 +8,37 @@ Home Hero Title: WHERE THE SIGNAL MAY BE WEAK BUT THE
 Home Hero Button Link: "/the-grounds/"
 Home Hero Sub Title: connections are strong
 Home Hero Button Text: Explore The Grounds
-Home About Section: Get Grounded
-Home About Section Text: For those feeling the urge to explore, you don't have to
-  go far. Description to go here.
+Home About Section: Reconnect without roughing it
+Home About Section Text: Escape the hustle and bustle and reconnect; with nature,
+  yourself and those you love. All the luxuries, none of the hassle.
 Home About Section Image: "/uploads/in-the-stix-5333-v2.jpg"
-Home About Section Two Title: Accommodation title here
-Home About Section Two Text: And no more trudging through wet muddy grounds to go
-  to the bathroom or take a shower - you'll have description goes here.
+Home About Section Two Title: Your dome away from home
+Home About Section Two Text: Pipping hot shower, classic Chesterfield sofas, board
+  games, cosy log burner, and no muddy treks to the loo. Instantly kick back in comfort.
 Home About Section Two Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
-Home About Three Section: Cook. Dine. Or be served.
-Home About Section Three Text: Cooking description text to go here.
+Home About Three Section: Feast your way
+Home About Section Three Text: Cook up a storm in your private kitchen and dine in
+  style - or throw in the tea towel and let us serve up local hampers and homemade
+  hot meals delivered to your dome.
 Home About Section Three Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5777-Editcopy.jpg"
 Home About Section Four: Your Adventures Await
-Home About Section Four Text: Your Adventures Await description goes here.
+Home About Section Four Text: 'Explore nearby trails, hop on a bike, or simply wander.
+  Rutland''s full of hidden gems - from stately homes to paintball zones, adventure
+  playgrounds to peaceful woodland sounds. Tee off in the morning, take high tea in
+  the afternoon, tackle inflatables on the water with a splash, or splash out on Michelin-starred
+  delights. As the sun sets, you''ll realise one visit won''t be enough. '
 Home About Section Four Image: "/uploads/DSC9157-Edit.jpg"
-Home About Section Five: Relax and Unwind
-Home About Section Five Text: Whether you’ve been on your feet all day, or just in
-  need of deep relaxation, your dome comes with its own cedar wood hot tub, so just
-  relax and unwind, and soak in natures vibe.
+Home About Section Five: Soak it all in
+Home About Section Five Text: Sink into your cedar wood hot tub, soak under the stars,
+  and let nature do the talking. Blissfully simple, deeply relaxing.
 Home About Section Five Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
-Home About Section Six: Log on - the natural way
-Home About Section Six Text: Communal campfire description text to go here.
+Home About Section Six: Log on (the fire)
+Home About Section Six Text: Swap screens for firelight. Toast marshmallows, share
+  stories, and warm up with moments that feel real - and stick with you.
 Home About Section Six Image: "/uploads/In%20the%20Stix%20Lifestyle_DSC9432-Edit.jpg"
-Home About Section Seven: Bed title goes here
-Home About Section Seven Text: 'After lazy days in the flower beds, enjoy a relaxing
-  nights sleep in crisp cotton sheets, we''ve got your comfort and privacy covered. '
+Home About Section Seven: Hit the hay, the luxe way
+Home About Section Seven Text: End you day tucked up in crisp cotton sheets. Rest
+  easy - your dome is all comfort, no compromise.
 Home About Section Seven Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5763-Edit.jpg"
 Home About Reviews:
 - Review Text: '"This place was amazing! The staff were friendly, and the experience
