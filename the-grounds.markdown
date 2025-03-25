@@ -316,7 +316,7 @@ Log Storage Text: Log storage text to go here.
 Shepherd's Hut Title: Shepherd's Hut
 Shepherd's Hut Mini Description: Description to go here
 Map Shepherd's Hut Images: "/uploads/IMG_9222.jpg"
-Shepherd's Hut Images: "/uploads/In%20the%20Stix%20Outdoors_DSC8896-Edit.jpg"
+Shepherd's Hut Images: "/uploads/IMG_9219.jpg"
 Shepherd's Hut Text: Text about the Shepherd's Hut and all its features goes here.
 Field name: 
 layout: the-grounds
