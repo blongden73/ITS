@@ -243,6 +243,7 @@ Sauna Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.52.51-bb7559.jpeg"
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.53.33-59d24b.jpeg"
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.37.00.jpeg"
+- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.43.34.jpeg"
 Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
   experience at our site! Available for hire for three-hour sessions (for guests staying
   with us) or enjoy this on our new spa days. This unique sauna provides the perfect
