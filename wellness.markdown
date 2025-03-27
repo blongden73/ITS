@@ -41,7 +41,7 @@ YOGA Description: 'New for 2025 we now have 2 E bikes on site which are availabl
   park to explore, straight from your doorstep. '
 YOGA Images:
 - "/uploads/cycling%20couple1%20.jpg"
-- "/uploads/anway-pawar-NuCQpsHbeH4-unsplash.jpeg"
+- "/uploads/couple%20cycling%202.jpg"
 - "/uploads/luemen-rutkowski-mIHbipd5-Qw-unsplash.jpeg"
 Test - new section: Test - new section
 layout: wellness
