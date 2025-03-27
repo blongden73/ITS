@@ -42,7 +42,7 @@ YOGA Description: 'New for 2025 we now have 2 E bikes on site which are availabl
 YOGA Images:
 - "/uploads/cycling%20couple1%20.jpg"
 - "/uploads/couple%20cycling%202.jpg"
-- "/uploads/luemen-rutkowski-mIHbipd5-Qw-unsplash.jpeg"
+- "/uploads/couple%20cycling%203.jpg"
 Test - new section: Test - new section
 layout: wellness
 ---
