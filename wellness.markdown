@@ -35,8 +35,10 @@ Retreats Images:
 - "/uploads/priscilla-du-preez-nF8xhLMmg0c-unsplash.jpeg"
 - "/uploads/Screenshot%202023-02-16%20at%2014.10.28.jpg"
 - "/uploads/lesly-juarez-DFtjXYd5Pto-unsplash.jpeg"
-- "/uploads/priscilla-du-preez-W3SEyZODn8U-unsplash.jpg"
-YOGA Description: "Yoga title to change to 'Bike hire'.\n\nBike hire text to go here. "
+YOGA Description: 'New for 2025 we now have 2 E bikes on site which are available
+  for guests to hire. These can be added as an extra on booking or just enquire on
+  arrival. We are just a short ride from Rutland Water, or you have the whole of Exton
+  park to explore, straight from your doorstep. '
 YOGA Images:
 - "/uploads/amauri-mejia-GvF7RkA-E9Q-unsplash.jpeg"
 - "/uploads/anway-pawar-NuCQpsHbeH4-unsplash.jpeg"
