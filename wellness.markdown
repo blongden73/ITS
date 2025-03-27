@@ -40,7 +40,7 @@ YOGA Description: 'New for 2025 we now have 2 E bikes on site which are availabl
   arrival. We are just a short ride from Rutland Water, or you have the whole of Exton
   park to explore, straight from your doorstep. '
 YOGA Images:
-- "/uploads/amauri-mejia-GvF7RkA-E9Q-unsplash.jpeg"
+- "/uploads/cycling%20couple1%20.jpg"
 - "/uploads/anway-pawar-NuCQpsHbeH4-unsplash.jpeg"
 - "/uploads/luemen-rutkowski-mIHbipd5-Qw-unsplash.jpeg"
 Test - new section: Test - new section
