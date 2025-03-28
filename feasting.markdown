@@ -84,7 +84,7 @@ Breakfast hampers:
     * 250g Two Chimps ground coffee
     * 250g butter
     * 1 litre of freshly squeezed orange juice
-  Image: "/assets/images/Chicken-Chorizo-Pot.jpg"
+  Image: "/uploads/In%20the%20Stix%20Outdoors_DSC9134-Edit.jpg"
 - Title: Large Hamper £68
   Description: |-
     (Veggie option £55)
