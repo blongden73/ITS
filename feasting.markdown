@@ -16,7 +16,7 @@ Smoke N Sticks Description: "Introducing Smoke n Stix, our unique event and outd
 Smoke N Sticks Images:
 - "/uploads/IMG_9253.jpg"
 - "/uploads/IMG_9254.jpg"
-- "/assets/images/image.jpg"
+- "/uploads/IMG_9255.jpg"
 Pizza & Steak Nights Description: If you’re looking to enjoy a relaxing evening without
   the hassle of cooking, let us take care of your meal! We can organize a delicious
   dining experience tailored to your preferences, allowing you to unwind and savour
