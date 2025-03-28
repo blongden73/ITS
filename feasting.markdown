@@ -30,6 +30,7 @@ Pizza & Steak Nights Images:
 - "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy-6ca7da.jpg"
 - "/uploads/In%20the%20Stix%20Lifestyle_DSC9394-Edit.jpg"
 - "/uploads/IMG_9257.jpg"
+- "/uploads/IMG_9263.PNG"
 One Pot Meals Description: "Our one-pot meals have proven to be a fantastic solution
   for easing the stress of cooking on your first night of your holiday. Our home-cooked
   dishes provide a delicious and convenient way to feed the whole family within minutes
