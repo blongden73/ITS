@@ -20,7 +20,7 @@ Parties Description: "If you're searching for a special venue to host your celeb
 Parties Images:
 - "/uploads/e7a9a14d-a8e1-4dc7-a78e-c93a83316b27.JPG"
 - "/uploads/cbebba09-4152-4015-9563-ef3aee7aa202.JPG"
-- "/assets/images/image.jpg"
+- "/uploads/b71ce2d9-7e60-49dd-aded-77c7210f615f.JPG"
 Wedding Description: "Whether you are looking to have a festival style wedding, a
   luxurious bohemian party, a relaxed picnic – whatever your style and taste, our
   site is a blank canvas for your perfect celebration. \n\nProviding luxury glamping
