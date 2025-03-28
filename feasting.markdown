@@ -18,6 +18,7 @@ Smoke N Sticks Images:
 - "/uploads/IMG_9254.jpg"
 - "/uploads/IMG_9255.jpg"
 - "/uploads/81a9d4f3-624b-4a6e-aca2-faba6440c3bf.JPG"
+- "/uploads/6acaa227-7ee8-43f0-a106-34b57f2779e7.JPG"
 Pizza & Steak Nights Description: If you’re looking to enjoy a relaxing evening without
   the hassle of cooking, let us take care of your meal! We can organize a delicious
   dining experience tailored to your preferences, allowing you to unwind and savour
