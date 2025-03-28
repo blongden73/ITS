@@ -100,7 +100,7 @@ Breakfast hampers:
     * 250g Two Chimps ground coffee
     * 250g butter
     * 2 litres of freshly squeezed orange juice
-  Image: "/assets/images/Chilli-Blackened-Peppers.jpg"
+  Image: "/uploads/In%20the%20Stix%20Outdoors_DSC8850-Editcopy.jpg"
 - Title: Small Vegan Hamper £38
   Description: |2-
 
