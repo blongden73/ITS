@@ -18,7 +18,7 @@ Parties Description: "If you're searching for a special venue to host your celeb
   exclusive use of the entire site. Let us help you create an unforgettable celebration
   at In the Stix!\n\nEmail us with your enquiry."
 Parties Images:
-- "/assets/images/image.jpg"
+- "/uploads/e7a9a14d-a8e1-4dc7-a78e-c93a83316b27.JPG"
 - "/assets/images/image.jpg"
 - "/assets/images/image.jpg"
 Wedding Description: "Whether you are looking to have a festival style wedding, a
