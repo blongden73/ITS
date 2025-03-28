@@ -27,7 +27,7 @@ Pizza & Steak Nights Description: If you’re looking to enjoy a relaxing evenin
   met so you can focus on what truly matters—making memories with your loved ones.
   Just let us know what you have in mind, and we’ll handle the rest!
 Pizza & Steak Nights Images:
-- "/assets/images/image-2.jpg"
+- "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy-6ca7da.jpg"
 - "/assets/images/image-2.jpg"
 - "/assets/images/image-2.jpg"
 One Pot Meals Description: "Our one-pot meals have proven to be a fantastic solution
