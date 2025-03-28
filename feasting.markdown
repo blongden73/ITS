@@ -124,7 +124,7 @@ Breakfast hampers:
     * 250g Two Chimps ground coffee
     * 350g Coconut dairy free natural yogurt alternative
     * 3 litres of Oatly Organic Oat Milk
-  Image: "/assets/images/Vegan-Chilli-.jpg"
+  Image: "/uploads/In%20the%20Stix%20Outdoors_DSC8858-Edit-67cf5f.jpg"
 layout: feasting
 ---
 
