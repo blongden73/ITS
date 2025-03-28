@@ -112,7 +112,7 @@ Breakfast hampers:
     * 1 litre of fresh orange juice
     * 250g Two Chimps ground coffee
     * 350g Coconut dairy free natural yogurt alternative
-  Image: "/assets/images/Vegan-Chilli-.jpg"
+  Image: "/uploads/In%20the%20Stix%20Outdoors_DSC8858-Edit.jpg"
 - Title: Large Vegan Hamper £50
   Description: |2-
 
