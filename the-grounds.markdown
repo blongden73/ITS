@@ -241,10 +241,6 @@ Sauna Mini Description:
 Map Sauna Images: "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.41.46.jpeg"
 Sauna Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.40.57.jpeg"
-- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.52.51-bb7559.jpeg"
-- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.53.33-59d24b.jpeg"
-- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.37.00.jpeg"
-- "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.43.34.jpeg"
 Sauna Text: "Introduced in 2024 our new log-fired barrel sauna is set to enhance your
   experience at our site! Available for hire for three-hour sessions (for guests staying
   with us) or enjoy this on our new spa days. This unique sauna provides the perfect
@@ -262,8 +258,6 @@ Deck Mini Description: Decked area for relaxing
 Map Deck Images: "/uploads/In%20the%20Stix%20Deck.jpg"
 Deck Images:
 - "/uploads/In%20the%20stix%20girls%20.jpg"
-- "/uploads/In%20the%20stix%20Deck%20.jpg"
-- "/uploads/In%20the%20Stix%20Couple%20deck.jpg"
 Deck Text: New for 2025, we are building a decked area for you to sit and relax and
   take in the view after your sauna.
 Brook Title: Brook
@@ -310,7 +304,7 @@ Extra Text: |-
   With these amenities, you can enjoy the freedom of outdoor cooking and dining while saving yourself the stresses of having to remember to bring everything, it has all been thought out for you.
 Log Storage Title: Log Storage
 Log Storage Mini Description: Description goes here.
-Map Log Storage Images: "/uploads/IMG_9202.jpg"
+Map Log Storage Images: "/uploads/IMG_9207%203.jpg"
 Log Storage Images: "/uploads/IMG_9204.jpg"
 Log Storage Text: Log storage text to go here.
 Shepherd's Hut Title: Shepherd's Hut
