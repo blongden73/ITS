@@ -71,7 +71,7 @@ Retreats Description: We're excited to announce a series of unique retreats comi
   tuned for more details! Sign up here to be the first to receive updates and secure
   your spot. Don’t miss out on this opportunity to unwind and reconnect!
 Retreats Images:
-- "/assets/images/image-1.jpg"
+- "/uploads/group%20yoga.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-1.jpg"
 bbq new title Section: The Farmison Big BBQ
