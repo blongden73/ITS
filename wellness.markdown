@@ -18,6 +18,7 @@ Spa Days Description: "We are thrilled to announce the launch of our new spa day
   the everyday hustle and bustle, reconnect with friends, and immerse yourself in
   the ultimate spa experience amidst nature. We can’t wait to welcome you for a day
   of relaxation and indulgence!\n\n"
+Spa Days Title: Spa Days
 Spa Days Images:
 - "/uploads/Screenshot%202025-03-10%20at%2017.37.40-5a82fb.jpeg"
 - "/uploads/Screenshot%202025-03-10%20at%2017.41.46.jpeg"
@@ -28,6 +29,7 @@ Spa Days Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.53.33.jpeg"
 - "/uploads/Screenshot%202025-03-10%20at%2017.43.34.jpeg"
 - "/uploads/test-dome.jpg"
+Retreats Title: Retreats
 Retreats Description: "We're excited to announce a series of unique retreats coming
   your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
   tuned for more details! \n\n"
@@ -35,6 +37,7 @@ Retreats Images:
 - "/uploads/priscilla-du-preez-nF8xhLMmg0c-unsplash.jpeg"
 - "/uploads/Screenshot%202023-02-16%20at%2014.10.28.jpg"
 - "/uploads/lesly-juarez-DFtjXYd5Pto-unsplash.jpeg"
+Yoga Title : Yoga
 YOGA Description: 'New for 2025 we now have two E bikes on site which are available
   for guests to hire. These can be added as an extra on booking or enquire on arrival.
   We are just a short ride from Rutland Water, or you have the whole of Exton park
