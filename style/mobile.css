@@ -74,6 +74,7 @@
 
     .carousel-item img {
         max-width: 284px !important;
+        width: 100% !important;
     }
 
     .awards-carousel {
@@ -390,8 +391,9 @@
         align-items: center;
     }
 
+
     .features-grid-cards .container p {
-        margin-bottom: 50px;
+        margin-bottom: 0px !important;
     }
 
     .owl-carousel {

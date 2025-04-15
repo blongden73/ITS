@@ -495,7 +495,7 @@ header.hero {
 }
 
 .carousel-item img {
-    max-width: 664px;
+    max-width: 400px;
 }
 
 .carousel-item.active {
@@ -1395,7 +1395,7 @@ footer {
 }
 
 .features-grid-cards.explore-area .card {
-    width: 32.7%;
+    width: 29.7%;
     text-align: left;
 }
 
