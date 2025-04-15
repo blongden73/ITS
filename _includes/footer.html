@@ -52,3 +52,14 @@
     });
   </script>
   
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      const currentPath = window.location.pathname;
+  
+      document.querySelectorAll('.desktop-header a').forEach(link => {
+        if (link.getAttribute('href') === currentPath) {
+          link.classList.add('active');
+        }
+      });
+    });
+  </script>

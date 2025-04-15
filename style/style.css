@@ -20,6 +20,11 @@ a {
     text-decoration: none !important;
 }
 
+.desktop-header a.active {
+    color: #DA5626;
+    text-decoration: underline !important;
+}
+
 h1, h2 {
     font-family: 'Koulen', sans-serif;
     color: #222;
