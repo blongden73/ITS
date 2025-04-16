@@ -16,6 +16,10 @@ a {
     text-decoration: underline !important;
 }
 
+a.btn {
+    text-decoration: none !important;
+}
+
 .desktop-header a {
     text-decoration: none !important;
 }
@@ -788,7 +792,7 @@ footer .menu ul a:hover {
 }
 
 .element-five {
-    top: 290px;
+    top: 250px;
     left: 79vw;
 }
 

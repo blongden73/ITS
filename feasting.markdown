@@ -4,6 +4,7 @@ permalink: "/feasting/"
 Hero Description: Discover locally sourced organic produce and enjoy exquisite dining
   experiences curated just for you.
 Intro Title: Locally sourced organic produce
+Smoke N Sticks Title: Smoke ‘N Stix
 Smoke N Sticks Description: "Which section does this text box belong to?\n\nIntroducing
   Smoke n Stix, our unique event and outdoor kitchen space designed for unforgettable
   culinary experiences! Available for groups booking two domes or more, this versatile
@@ -20,6 +21,7 @@ Smoke N Sticks Images:
 - "/uploads/81a9d4f3-624b-4a6e-aca2-faba6440c3bf.JPG"
 - "/uploads/6acaa227-7ee8-43f0-a106-34b57f2779e7.JPG"
 - "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%20in%20the%20stix%20event%20space9.5in%20the%20stix%20event%20space.33-0a89d3.jpeg"
+Pizza & Steak Nights Title: Pizza & Steak Nights
 Pizza & Steak Nights Description: If you’re looking to enjoy a relaxing evening without
   the hassle of cooking, let us take care of your meal! We can organize a delicious
   dining experience tailored to your preferences, allowing you to unwind and savour
@@ -35,6 +37,7 @@ Pizza & Steak Nights Images:
 - "/uploads/IMG_9258.PNG"
 - "/uploads/IMG_9260.PNG"
 - "/uploads/IMG_9264.PNG"
+One Pot Meals Title: ONE POT MEALS
 One Pot Meals Description: "Our one-pot meals have proven to be a fantastic solution
   for easing the stress of cooking on your first night of your holiday. Our home-cooked
   dishes provide a delicious and convenient way to feed the whole family within minutes
@@ -60,6 +63,7 @@ One Pot Meals:
     feeding a crowd. I’ve also included popped kidney beans for fantastic texture.
     Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, or tacos.
   Image: "/uploads/Lancashire-hotpot-on-wooden-background-square-FS.jpg"
+Breakfast hampers Title: Breakfast Hampers
 Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, showcasing
   all our favourite local produce in one basket! Each hamper is thoughtfully designed
   to provide two delicious breakfasts: one hot and one continental. Enjoy a leisurely
