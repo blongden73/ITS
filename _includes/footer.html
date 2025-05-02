@@ -45,7 +45,8 @@
 
 <script>
     window.addEventListener('DOMContentLoaded', () => {
-      document.querySelectorAll('a[href]').forEach(link => {
+    var explore = document.querySelector('#explore');
+        explore.querySelectorAll('a[href]').forEach(link => {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
       });

@@ -4,6 +4,7 @@ permalink: "/feasting/"
 Hero Description: Discover locally sourced organic produce and enjoy exquisite dining
   experiences curated just for you.
 Intro Title: Locally sourced organic produce
+Intro Description: "locally sourced products"
 Smoke N Sticks Title: Smoke ‘N Stix
 Smoke N Sticks Description: "Which section does this text box belong to?\n\nIntroducing
   Smoke n Stix, our unique event and outdoor kitchen space designed for unforgettable
@@ -15,6 +16,15 @@ Smoke N Sticks Description: "Which section does this text box belong to?\n\nIntr
   log-fired pizza oven, BBQ, gas hob, and oven, as well as a kitchen prep area, you’ll
   have everything you need to create delicious meals and memorable moments."
 Smoke N Sticks Images:
+- "/uploads/IMG_9253.jpg"
+- "/uploads/IMG_9254.jpg"
+- "/uploads/IMG_9255.jpg"
+- "/uploads/81a9d4f3-624b-4a6e-aca2-faba6440c3bf.JPG"
+- "/uploads/6acaa227-7ee8-43f0-a106-34b57f2779e7.JPG"
+- "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%20in%20the%20stix%20event%20space9.5in%20the%20stix%20event%20space.33-0a89d3.jpeg"
+BBQ Title: The Farmison Big BBQ
+BBQ Description: "The Farmison Big BBQ descrip"
+BBQ Images:
 - "/uploads/IMG_9253.jpg"
 - "/uploads/IMG_9254.jpg"
 - "/uploads/IMG_9255.jpg"

@@ -29,6 +29,10 @@ a.btn {
     text-decoration: underline !important;
 }
 
+.desktop-header [href="/book-now/"].active {
+    text-decoration: none !important;
+}
+
 h1, h2 {
     font-family: 'Koulen', sans-serif;
     color: #222;
@@ -274,6 +278,7 @@ header.hero {
     margin-top: 4px;
     z-index: 1000;
     width: 15vw;
+    display: flex;
 }
 
 .navbar ul {

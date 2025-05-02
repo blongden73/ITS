@@ -12,7 +12,7 @@ Home About Section: Reconnect without roughing it
 Home About Section Text: Escape the hustle and bustle and reconnect; with nature,
   yourself and those you love. All the luxuries, none of the hassle.
 Home About Section Image: "/uploads/in-the-stix-5333-v2.jpg"
-Home About Section Two Title: Your dome away from home
+Home About Section Two Title: Your dome away from home
 Home About Section Two Text: Pipping hot shower, classic Chesterfield sofas, board
   games, cosy log burner, and no muddy treks to the loo. Instantly kick back in comfort.
 Home About Section Two Image: "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
@@ -36,7 +36,7 @@ Home About Section Six: Log on (the fire)
 Home About Section Six Text: Swap screens for firelight. Toast marshmallows, share
   stories, and warm up with moments that feel real - and stick with you.
 Home About Section Six Image: "/uploads/In%20the%20Stix%20Lifestyle_DSC9432-Edit.jpg"
-Home About Section Seven: Hit the hay, the luxe way
+Home About Section Seven: Hit the hay, the luxe way
 Home About Section Seven Text: End you day tucked up in crisp cotton sheets. Rest
   easy - your dome is all comfort, no compromise.
 Home About Section Seven Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5763-Edit.jpg"

@@ -432,4 +432,34 @@ layout: default
             </div>
         </div>
     </section>
+    <section id="log-storage" class="plan white ripped facilities-wrapper flex two-col">
+        <div class="container flex">
+            <div class="left">
+                <h4>{{ page.["Log Storage Title"] }}</h4>
+                <p>{{ page.["Log Storage Text"] | markdownify }}</p>
+            </div>
+            <div class="right">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Log Storage Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Parking Image"></div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="log-storage" class="plan ripped-cream facilities-wrapper flex two-col">
+        <div class="container flex">
+            <div class="left">
+                <h4>{{ page.["Shepherd's Hut Title"] }}</h4>
+                <p>{{ page.["Shepherd's Hut Text"] | markdownify }}</p>
+            </div>
+            <div class="right">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["Shepherd's Hut Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Parking Image"></div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
 </section>

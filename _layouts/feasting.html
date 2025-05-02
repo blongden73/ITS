@@ -16,9 +16,9 @@ layout: default
 <section id="feastings" class="ripped after-ripped">
     <div class="container intro">
         <h2>{{ page.["Intro Title"] }}</h2>
-        <p>{{ page.["Smoke N Sticks Description"] }}</p>    
+        <p>{{ page.["Intro Description"] }}</p>    
     </div>
-    <section id="field-kitchen" class="plan facilities-wrapper flex two-col ripped-cream">
+    <section id="field-kitchen" class="plan facilities-wrapper flex two-col white ripped">
         <div class="container flex">
             <div class="left">
             <h4>{{ page.["Smoke N Sticks Title"] }}</h4>
@@ -27,6 +27,21 @@ layout: default
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
                     {% for image in page.["Smoke N Sticks Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Smoke N Stix"></div>
+                    {% endfor %}
+                </div>  
+            </div>
+        </div>
+    </section>
+    <section id="field-kitchen" class="plan facilities-wrapper flex two-col ripped-cream">
+        <div class="container flex">
+            <div class="left">
+            <h4>{{ page.["BBQ Title"] }}</h4>
+            <p>{{ page.["BBQ Description"] }}</p>
+            </div>
+            <div class="right">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    {% for image in page.["BBQ Images"] %}
                     <div class="item"><img src="{{ image }}" alt="Smoke N Stix"></div>
                     {% endfor %}
                 </div>  
