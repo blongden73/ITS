@@ -80,8 +80,7 @@ bbq new title Section Text: |-
   Saturday 8th June is our Ibiza themed night, sundowner cocktails, fabulous food and dancing is guaranteed!
   Ticket sales announcements to follow!
 bbq new title Section Images: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
-Description: This old section including its accompanying title (which is only visible
-  in the dev page for some reason) needs to be deleted.
+Description: 
 layout: events
 ---
 
