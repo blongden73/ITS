@@ -41,9 +41,9 @@ Home About Section Seven Text: End you day tucked up in crisp cotton sheets. Res
   easy - your dome is all comfort, no compromise.
 Home About Section Seven Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5763-Edit.jpg"
 Home About Reviews:
-- Review Text: '"This place was amazing! The staff were friendly, and the experience
-    was unforgettable."'
-  Review Name: "- John Doe"
+- Review Text: '"Second time staying at In The Stix and definitely won’t be the last.
+    It’s honestly brilliant in every way even on the grey days."'
+  Review Name: "- Mark B"
 - Review Text: '"Beautiful location with top-notch accommodations. Highly recommend
     it!"'
   Review Name: "- Jane Smith"
