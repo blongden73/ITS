@@ -307,7 +307,8 @@ Log Storage Mini Description: Description goes here.
 Map Log Storage Images: "/uploads/IMG_9207%203.jpg"
 Log Storage Images:
 - "/uploads/IMG_9204.jpg"
-Log Storage Text: Log storage text to go here.
+Log Storage Text: 'Each dome has access to its own numbered private log storage, full
+  to the brim with ready to use logs for the wood burner. '
 Shepherd's Hut Title: Shepherd's Hut
 Shepherd's Hut Mini Description: Description to go here
 Map Shepherd's Hut Images: "/uploads/IMG_9222.jpg"
