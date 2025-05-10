@@ -27,11 +27,11 @@ Home About Section Four Text: 'Explore nearby trails, hop on a bike, or simply w
   playgrounds to peaceful woodland sounds. Tee off in the morning, take high tea in
   the afternoon, tackle inflatables on the water with a splash, or splash out on Michelin-starred
   delights. As the sun sets, you''ll realise one visit won''t be enough. '
-Home About Section Four Image: "/uploads/DSC9157-Edit.jpg"
+Home About Section Four Image: "/uploads/in_the_stix_your_adventures_await%20(edited)-eade59.jpg"
 Home About Section Five: Soak it all in
 Home About Section Five Text: Sink into your cedar wood hot tub, soak under the stars,
   and let nature do the talking. Blissfully simple, deeply relaxing.
-Home About Section Five Image: "/uploads/In%20the%20Stix%20The%20Grounds_DSC9201-Editcopy.jpg"
+Home About Section Five Image: "/uploads/in_the_stix_hot_tub_soak_it_all_in%20(edited).jpg"
 Home About Section Six: Log on (the fire)
 Home About Section Six Text: Swap screens for firelight. Toast marshmallows, share
   stories, and warm up with moments that feel real - and stick with you.
@@ -41,9 +41,9 @@ Home About Section Seven Text: End you day tucked up in crisp cotton sheets. Res
   easy - your dome is all comfort, no compromise.
 Home About Section Seven Image: "/uploads/In%20the%20Stix%20Dome%204_DSC5763-Edit.jpg"
 Home About Reviews:
-- Review Text: '"This place was amazing! The staff were friendly, and the experience
-    was unforgettable."'
-  Review Name: "- John Doe"
+- Review Text: '"Second time staying at In The Stix and definitely won’t be the last.
+    It’s honestly brilliant in every way even on the grey days."'
+  Review Name: "- Mark B"
 - Review Text: '"Beautiful location with top-notch accommodations. Highly recommend
     it!"'
   Review Name: "- Jane Smith"

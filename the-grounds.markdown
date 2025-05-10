@@ -305,15 +305,18 @@ Extra Text: |-
 Log Storage Title: Log Storage
 Log Storage Mini Description: Description goes here.
 Map Log Storage Images: "/uploads/IMG_9207%203.jpg"
-Log Storage Images: 
+Log Storage Images:
 - "/uploads/IMG_9204.jpg"
-Log Storage Text: Log storage text to go here.
+Log Storage Text: 'Each dome has access to its own numbered private log storage, full
+  to the brim with ready to use logs for the wood burner. '
 Shepherd's Hut Title: Shepherd's Hut
 Shepherd's Hut Mini Description: Description to go here
 Map Shepherds Hut Images: "/uploads/IMG_9222.jpg"
 Shepherd's Hut Images: 
 - "/uploads/IMG_9219.jpg"
-Shepherd's Hut Text: Text about the Shepherd's Hut and all its features goes here.
+Shepherd's Hut Text: "Need to keep your food safe and chilled? The Shepherd's Hut
+  has you covered, and more: \n\n— Freezer to store freezer blocks (to use in your
+  cool boxes for picnics)\n— Communal fridge\n— Communal bookshelf\n— Games exchange"
 Field name: 
 layout: the-grounds
 ---
