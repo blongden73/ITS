@@ -63,12 +63,12 @@ layout: default
     <section id="bbqs" class="plan facilities-wrapper flex two-col white ripped after-ripped">
         <div class="container flex">
             <div class="left">
-            <h4>BBQs</h4>
-            <p>{{ page.["bbqs Description"] | markdownify }}</p>
+            <h4>{{page.["bbq title Section"]}}</h4>
+            <p>{{ page.["bbq title Section Text"] | markdownify }}</p>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
-                    {% for image in page.["bbqs Images"] %}
+                    {% for image in page.["bbq title Section Images"] %}
                     <div class="item"><img src="{{ image }}" alt="BBQs"></div>
                     {% endfor %}
                 </div>  

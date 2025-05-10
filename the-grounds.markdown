@@ -310,7 +310,7 @@ Log Storage Images:
 Log Storage Text: Log storage text to go here.
 Shepherd's Hut Title: Shepherd's Hut
 Shepherd's Hut Mini Description: Description to go here
-Map Shepherd's Hut Images: "/uploads/IMG_9222.jpg"
+Map Shepherds Hut Images: "/uploads/IMG_9222.jpg"
 Shepherd's Hut Images: 
 - "/uploads/IMG_9219.jpg"
 Shepherd's Hut Text: Text about the Shepherd's Hut and all its features goes here.

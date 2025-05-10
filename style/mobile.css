@@ -15,6 +15,10 @@
         transform: translateY(-13px);
     }
 
+    .navbar .logo svg {
+        margin-top: 3px;
+    }
+
     h2:before {
         height: 64px;
     }
@@ -288,7 +292,7 @@
         height: 40px !important;
         position: absolute !important;
         right: 20px !important;
-        top: 10px !important;
+        top: 15px !important;
     }
 
     .navbar .mobile-hamburger svg {
