@@ -1332,7 +1332,7 @@ footer {
 #dome-features {
     background-color: #DA5626;
     font-family: 'Koulen', sans-serif;
-    padding: 8px;
+    padding: 16px;
     position: sticky;
     top: 95px;
     z-index: 1000;
@@ -1346,9 +1346,10 @@ footer {
 
 .feature-grid {
     display: flex;
-    gap: 16px;
+    gap: 12px;
     color: #fff;
-    font-size: 1.2vw;
+    font-size: 1.1vw;
+    line-height: 1;
 }
 
 .feature-grid a {
