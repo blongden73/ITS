@@ -4,7 +4,16 @@ permalink: "/feasting/"
 Hero Description: Discover locally sourced organic produce and enjoy exquisite dining
   experiences curated just for you.
 Intro Title: Locally sourced organic produce
-Intro Description: locally sourced products
+Intro Description: Here in Rutland, we’re incredibly lucky to be surrounded by some
+  of the finest organic produce, and we’re proud to feature it in our campsite breakfast
+  hampers. We source our delicious bread, croissants, and breakfast muffins from the
+  renowned Hambleton Bakery. Our fresh meat, including sausages, bacon, and BBQ packs,
+  comes from Farmer Lou—just a mile down the road—who also runs a fantastic farm shop
+  for when you want to top up your hamper. For dairy, we turn to Ferneleys, located
+  only five miles away, who supply us with fresh milk, creamy butter, and indulgent
+  ice cream. Even our jams are truly local, made just a stone’s throw away in the
+  Vale of Belvoir. It’s all part of our commitment to supporting local producers and
+  giving our guests a truly authentic Rutland experience.
 Smoke N Sticks Title: Smoke ‘N Stix
 Smoke N Sticks Description: "Which section does this text box belong to?\n\nIntroducing
   Smoke n Stix, our unique event and outdoor kitchen space designed for unforgettable
