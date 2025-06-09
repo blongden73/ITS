@@ -74,15 +74,9 @@ Retreats Images:
 - "/uploads/group%20yoga.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-1.jpg"
-bbq title Section: New title to go here. Previously 'The Farmison Big BBQ'
-bbq title Section Text: "New title to go here. Previously: \n\nWe are excited to announce
-  we are currently planning for two events. One is for all the foodies out there,
-  a joint venture with Farmison (online butchers) We are hosting a BBQ day on Saturday
-  May 17th, which will be fun for all the family, there will be various BBQ themed
-  stalls, demonstrations, and amazing food to try and buy! There will also be inflatable
-  fun for the children.\nSaturday 8th June is our Ibiza themed night, sundowner cocktails,
-  fabulous food and dancing is guaranteed!\nTicket sales announcements to follow!"
-bbq title Section Images: "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy.jpg"
+bbq title Section: 
+bbq title Section Text: "\n"
+bbq title Section Images: 
 Description: 
 layout: events
 ---
