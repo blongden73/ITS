@@ -22,8 +22,8 @@ Smoke N Sticks Images:
 - "/uploads/81a9d4f3-624b-4a6e-aca2-faba6440c3bf.JPG"
 - "/uploads/6acaa227-7ee8-43f0-a106-34b57f2779e7.JPG"
 - "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%20in%20the%20stix%20event%20space9.5in%20the%20stix%20event%20space.33-0a89d3.jpeg"
-BBQ Title: New title to go here. Previously 'The Farmison Big BBQ'
-BBQ Description: "New text to go here. Previously \n\nThe Farmison Big BBQ descrip"
+BBQ Title: BBQ's
+BBQ Description: 'New text to go here. '
 BBQ Images:
 - "/uploads/IMG_9253.jpg"
 - "/uploads/IMG_9254.jpg"
