@@ -72,7 +72,7 @@ One Pot Meals:
   Description: A good, slow-cooked chilli always goes down a storm and is great for
     feeding a crowd. I’ve also included popped kidney beans for fantastic texture.
     Serve it with whatever you fancy – rice, jacket potatoes, flatbreads, or tacos.
-  Image: "/uploads/Lancashire-hotpot-on-wooden-background-square-FS.jpg"
+  Image: "/uploads/Vegan-Chilli-.jpg"
 Breakfast hampers Title: Breakfast Hampers
 Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, showcasing
   all our favourite local produce in one basket! Each hamper is thoughtfully designed
