@@ -303,7 +303,7 @@ Extra Text: |-
 
   With these amenities, you can enjoy the freedom of outdoor cooking and dining while saving yourself the stresses of having to remember to bring everything, it has all been thought out for you.
 Log Storage Title: Log Storage
-Log Storage Mini Description: Separate storage for each dome
+Log Storage Mini Description: One locker per dome.
 Map Log Storage Images: "/uploads/IMG_9207%203.jpg"
 Log Storage Images:
 - "/uploads/IMG_9204.jpg"
