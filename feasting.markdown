@@ -3,19 +3,12 @@ title: Feasting
 permalink: "/feasting/"
 Hero Description: Discover locally sourced organic produce and enjoy exquisite dining
   experiences curated just for you.
-Intro Title: Locally sourced organic produce
-Intro Description: Here in Rutland, we’re incredibly lucky to be surrounded by some
-  of the finest organic produce, and we’re proud to feature it in our campsite breakfast
-  hampers. We source our delicious bread, croissants, and breakfast muffins from the
-  renowned Hambleton Bakery. Our fresh meat, including free range eggs, sausages,
-  bacon, and BBQ packs, comes from Farmer Lou—just a mile down the road—who also runs
-  a fantastic farm shop for when you want to top up your hamper. For dairy, we turn
-  to Ferneleys, located only five miles away, who supply us with fresh milk, creamy
-  butter, and indulgent ice cream. Even our jams are truly local, made just a stone’s
-  throw away in the Vale of Belvoir. And to top it all off, we include freshly ground
-  coffee from Two Chimps Coffee in Oakham, roasted to order for a perfect start to
-  your morning. It’s all part of our commitment to supporting local producers and
-  giving our guests a truly authentic Rutland experience.
+Intro Title: Locally sourced organic Goodness
+Intro Description: We team up with local farms to bring you fresh, organic jam, meats,
+  and bakery treats—straight from the field to your plate. Buying local means better-tasting,
+  seasonal ingredients and a lighter carbon footprint. It also supports our community
+  and keeps the food supply chain honest and transparent. Good for you, and great
+  for the planet!
 Smoke N Sticks Title: Smoke ‘N Stix
 Smoke N Sticks Description: "Which section does this text box belong to?\n\nIntroducing
   Smoke n Stix, our unique event and outdoor kitchen space designed for unforgettable
@@ -34,7 +27,10 @@ Smoke N Sticks Images:
 - "/uploads/6acaa227-7ee8-43f0-a106-34b57f2779e7.JPG"
 - "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%20in%20the%20stix%20event%20space9.5in%20the%20stix%20event%20space.33-0a89d3.jpeg"
 BBQ Title: BBQ's
-BBQ Description: 'New text to go here. '
+BBQ Description: |-
+  Gather ’round the fire in our rustic outdoor haven, Smoke n Stix, where the scent of slow-cooked meats and smoky flavors fills the air. Beneath the glow of our communal fire pit, friends and family come together to share not just a meal—but stories, laughter, and moments that linger long after the last bite. From tender ribs and juicy pulled pork to flame-grilled veggies and crisp, fresh salads, every bite nourishes the soul. Here, great food and warm company blend to create memories that become part of your story.
+
+  Come join us—where every gathering turns into a cherished memory.
 BBQ Images:
 - "/uploads/IMG_9253.jpg"
 - "/uploads/IMG_9254.jpg"
