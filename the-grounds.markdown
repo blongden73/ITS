@@ -310,7 +310,7 @@ Log Storage Images:
 Log Storage Text: 'Each dome has access to its own numbered private log storage, full
   to the brim with ready to use logs for the wood burner. '
 Shepherd's Hut Title: Shepherd's Hut
-Shepherd's Hut Mini Description: Description to go here
+Shepherd's Hut Mini Description: Cold storage and reception.
 Map Shepherds Hut Images: "/uploads/IMG_9222.jpg"
 Shepherd's Hut Images:
 - "/uploads/IMG_9219.jpg"
