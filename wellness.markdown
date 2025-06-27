@@ -47,6 +47,8 @@ YOGA Images:
 - "/uploads/couple%20cycling%202.jpg"
 - "/uploads/couple%20cycling%203.jpg"
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.57.png"
+- "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
+- 
 Test - new section: Test - new section
 layout: wellness
 ---
