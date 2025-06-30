@@ -199,7 +199,7 @@ Field Kitchen Images:
 - "/uploads/In%20the%20Stix%20Wedding_DSC9687.jpg"
 - "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%2009.49.24.jpeg"
 Fire Pit Title: Fire Pit
-Fire Pit Mini Description: 
+Fire Pit Mini Description: Joshua
 Map Fire Pit Images: "/uploads/IMG_9212.jpg"
 Fire Pit Images:
 - "/uploads/In%20the%20Stix%20Man%20by%20fire.jpg"
