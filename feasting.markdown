@@ -33,7 +33,16 @@ Smoke N Sticks Images:
 - "/uploads/6acaa227-7ee8-43f0-a106-34b57f2779e7.JPG"
 - "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%20in%20the%20stix%20event%20space9.5in%20the%20stix%20event%20space.33-0a89d3.jpeg"
 BBQ Title: BBQ's
-BBQ Description: 
+BBQ Description: Each of our domes is equipped with its own outdoor cooking setup,
+  so you can embrace al fresco dining during your stay. Domes 1 to 4 feature our fantastic
+  log-fired ovens — incredibly versatile, they allow you to cook pizzas directly on
+  the hot stones for that authentic crispy base, or use the baking trays provided
+  to whip up all kinds of delicious meals. Domes 5 and 6 come with our new ceramic
+  eggs, a wonderful bit of kit that burns charcoal (supplied on site). Perfect for
+  traditional BBQs, these ceramic eggs can also be used as an oven for slow-roasting,
+  or fitted with a pizza stone so you can craft your own homemade pizza. Whatever
+  you choose, you’ll have everything you need to cook up a memorable feast under the
+  stars.
 BBQ Images:
 - "/uploads/IMG_9253.jpg"
 - "/uploads/IMG_9254.jpg"
