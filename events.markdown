@@ -45,7 +45,7 @@ Wedding Description: "Whether you are looking to have a festival style wedding, 
   an outdoor ceremony right here by our babbling brook. \n\nYou are free to book your
   own suppliers and make your day as unique as our location! Please call us if you
   would like to arrange a site visit or discuss your big day in more detail, we are
-  here to help.\n\n[Click here for a pdf wedding brochure.](/uploads/In%20the%20Stix%202025.pdf)"
+  here to help.\n"
 Weddings Images:
 - "/assets/images/image-2.jpg"
 - "/uploads/j_fbb5j8-1.jpeg"
