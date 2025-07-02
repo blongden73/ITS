@@ -12,7 +12,7 @@
     }
 
     h2:after {
-        transform: translateY(-13px);
+        transform: translateY(13px);
     }
 
     .navbar .logo svg {
@@ -20,7 +20,7 @@
     }
 
     h2:before {
-        height: 64px;
+        height: 90px;
     }
 
     header:not(.hero):after {
@@ -302,7 +302,7 @@
 
     .mobile-menu {
         display: none !important;
-        background-color: #EEE7E0 !important;]
+        background-color: #EEE7E0 !important;
         width: 100% !important;
         height: 87vh !important;
         padding-left: 0 !important;
